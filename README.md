@@ -28,5 +28,5 @@ Welcome to developer roadmap, this repository contain the learn **path/roadmap**
 
 ## Instruction
 > - Visit [Wiki](https://github.com/luuductrung1234/dev-roadmap/wiki) to see instruction details
-> - Visit [Project]() to see the resource boards
+> - Visit [Project](https://github.com/luuductrung1234/dev-roadmap/projects) to see the resource boards
 > - You can go to your specific major that you concern
