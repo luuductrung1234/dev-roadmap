@@ -99,9 +99,9 @@ kyu (your current level) | Ability
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Github </b></td>
             <td rowspan="1"> :ledger:  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#">---</a></td>
+            <td><b> on hold </b></td>
+            <td> Docs </td>
+            <td><a href="https://guides.github.com/"> Github guide </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
