@@ -28,10 +28,10 @@ I've added a method to track the process and self-grade during the learning path
 * Back-end Roadmap
 * DevOps Roadmap
 * Details
-    * [Introduction](https://github.com/luuductrung1234/developer-roadmap/blob/master/introduction-details.md)
-    * [Front-End](https://github.com/luuductrung1234/developer-roadmap/blob/master/front-end-details.md)
-    * [Back-End](https://github.com/luuductrung1234/developer-roadmap/blob/master/back-end-details.md)
-    * [DevOps](https://github.com/luuductrung1234/developer-roadmap/blob/master/devops-details.md)
+    * [Introduction](https://github.com/luuductrung1234/dev-roadmap/blob/master/introduction-details.md)
+    * [Front-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/front-end-details.md)
+    * [Back-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/back-end-details.md)
+    * [DevOps](https://github.com/luuductrung1234/dev-roadmap/blob/master/devops-details.md)
 * Wrap Up
 * Todo
 * Contribution

@@ -5,10 +5,10 @@ You can use this details to track the process
 You can use the color scheme below to grade your knowledge level of each topic
 ```
 ### **Naviagate to Other Path**
-* [Introduction](https://github.com/luuductrung1234/developer-roadmap/blob/master/introduction-details.md)
-* [Front-End](https://github.com/luuductrung1234/developer-roadmap/blob/master/front-end-details.md)
-* [Back-End](https://github.com/luuductrung1234/developer-roadmap/blob/master/back-end-details.md)
-* [DevOps](https://github.com/luuductrung1234/developer-roadmap/blob/master/devops-details.md)
+* [Introduction](https://github.com/luuductrung1234/dev-roadmap/blob/master/introduction-details.md)
+* [Front-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/front-end-details.md)
+* [Back-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/back-end-details.md)
+* [DevOps](https://github.com/luuductrung1234/dev-roadmap/blob/master/devops-details.md)
 
 ### **How to track?**
 ```
@@ -51,7 +51,7 @@ kyu (your current level) | Ability
             <td rowspan="2"> :notebook:  </td>
             <td><b>no started</b></td>
             <td>Path</td>
-            <td><a href="https://github.com/luuductrung1234/developer-roadmap">my CS roadmap</a></td>
+            <td><a href="https://github.com/luuductrung1234/computer-science">my CS roadmap</a></td>
             <td>Certificate</td>
             <td>1-Fer-2018</td>
         </tr>
