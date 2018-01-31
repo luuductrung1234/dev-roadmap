@@ -37,17 +37,17 @@ kyu (your current level) | Ability
 
 ### ⚡ First starting
 
-[HTML5 Front-end developer](https://github.com/luuductrung1234/web-developer-path/blob/master/images/frontend-html-dev.png)
+[HTML5 Front-end developer](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/images/frontend-html-dev.png)
 
 ### 💎 CSS expend
 If you are interested in the graphic aspect or the user interface of a site or web application.
 
-[CSS3 Front-end developer](https://github.com/luuductrung1234/web-developer-path/blob/master/images/frontend-css-dev.png)
+[CSS3 Front-end developer](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/images/frontend-css-dev.png)
 
 ### ☕ JS expend
 If you are interested in improving and perfecting yourself as a programmer or javascript developer.
 
-[JS Front-end developer](https://github.com/luuductrung1234/web-developer-path/blob/master/images/frontend-js-dev.png)
+[JS Front-end developer](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/images/frontend-js-dev.png)
 
 ---
 
