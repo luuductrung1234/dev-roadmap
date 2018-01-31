@@ -1,3 +1,5 @@
+> This repository is base on [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+
 # Top-down learning path: Machine Learning for Software Engineers
 
 <p align="center">
