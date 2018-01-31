@@ -13,13 +13,13 @@ You can go to your specific major that you concern. Let learn and use the way I 
 
 ## Index
 * ### [Academy](https://github.com/luuductrung1234/dev-roadmap/projects/2)   
-   *  [Computer Science]()
-   *  [Machine Learning]()
-   *  [Data Science]()
+   *  [Computer Science](https://github.com/luuductrung1234/dev-roadmap/tree/master/computer-science-roadmap)
+   *  [Data Science](https://github.com/luuductrung1234/dev-roadmap/tree/master/data-science-roadmap)
+   *  [Machine Learning](https://github.com/luuductrung1234/dev-roadmap/tree/master/machine-learning-roadmap)
   
-* ### [Web Development]()
-* ### [Mobile Development]()
-* ### [Game Development]()
+* ### [Web Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/web-development-roadmap)
+* ### [Mobile Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/mobile-development-roadmap)
+* ### [Game Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/game-development-roadmap)
 * ### [Design]()              `coming soon`
 
 
