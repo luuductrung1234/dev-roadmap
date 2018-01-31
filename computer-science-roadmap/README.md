@@ -89,6 +89,8 @@ This is a **solid path** for those of you who want to complete a **Data Science*
 
 In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
 
+This repository is base on [**ossu/computer-science**](https://github.com/ossu/computer-science)
+
 ## Motivation & Preparation
 
 Here are two interesting links that can make **all** the difference in your journey.
