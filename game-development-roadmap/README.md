@@ -1,7 +1,6 @@
+> This repository is base on [**utilForever/game-developer-roadmap**](https://github.com/utilForever/game-developer-roadmap)
+
 # game-developer-roadmap
-
-> Roadmap to becoming a game developer in 2017, inspired by [web-developer-roadmap](https://github.com/kamranahmedse/developer-roadmap).
-
 Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a client or a server. I made these charts for people who wanted something to share with their friends to give them a perspective.
 
 If you think that these can be improved in anyway, please do suggest.
