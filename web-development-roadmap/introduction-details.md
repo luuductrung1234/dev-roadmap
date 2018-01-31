@@ -59,7 +59,7 @@ kyu (your current level) | Ability
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Git - Version Control </b></td>
             <td rowspan="1"> :ledger: </td>
-            <td> complete </td>
+            <td><b> complete </b></td>
             <td>Course</td>
             <td><a href="https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html">git essential trainning</a></td>
             <td><a href="https://www.lynda.com/ViewCertificate/DDECEA6B0AF343E39B16510724B8C0CF?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate">Certificate</a></td>
