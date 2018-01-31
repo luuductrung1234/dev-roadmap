@@ -6,10 +6,10 @@ You can use the color scheme below to grade your knowledge level of each topic
 ```
 
 ### **Naviagate to Other Path**
-* [Introduction](https://github.com/luuductrung1234/dev-roadmap/blob/master/introduction-details.md)
-* [Front-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/front-end-details.md)
-* [Back-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/back-end-details.md)
-* [DevOps](https://github.com/luuductrung1234/dev-roadmap/blob/master/devops-details.md)
+* [Introduction](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/introduction-details.md)
+* [Front-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/front-end-details.md)
+* [Back-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/back-end-details.md)
+* [DevOps](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/devops-details.md)
 
 ### **How to track?**
 ```
