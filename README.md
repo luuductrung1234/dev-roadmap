@@ -1,4 +1,4 @@
-![devroadmap](https://github.com/luuductrung1234/dev-roadmap/blob/master/devroadmap.png)
+![devroadmap](https://github.com/luuductrung1234/dev-roadmap/blob/master/devroadmap2.png)
 
 # :mortar_board: Developer Roadmap
 
