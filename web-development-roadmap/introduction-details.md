@@ -46,21 +46,14 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="2"> :white_square_button: </td>
-            <td rowspan="2"> <b>CS - core knowledge in Computer Science</b> <em>(alternate for the "Data Structure and Algorithms" in image above)</em> </td>
-            <td rowspan="2"> :notebook:  </td>
-            <td><b>no started</b></td>
+            <td rowspan="1"> :white_square_button: </td>
+            <td rowspan="1"> <b>CS - core knowledge in Computer Science</b> <em>(alternate for the "Data Structure and Algorithms" in image above)</em> </td>
+            <td rowspan="1"> ---  </td>
+            <td><b>not started</b></td>
             <td>Path</td>
             <td><a href="https://github.com/luuductrung1234/computer-science">my CS roadmap</a></td>
             <td>Certificate</td>
             <td>1-Fer-2018</td>
-        </tr>
-        <tr>
-            <td><b>daily view</b></td>
-            <td>Resource</td>
-            <td><a href="https://trello.com/c/Vn0uUd2n">my <b>private</b> CS resource list</a></td>
-            <td> --- </td>
-            <td> --- </td>
         </tr>
         <tr>
             <td rowspan="1"> :white_check_mark: </td>
@@ -76,10 +69,10 @@ kyu (your current level) | Ability
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> SSH </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#">---</a></td>
-            <td> --- </td>
+            <td><b> not started </b></td>
+            <td> Course </td>
+            <td><a href="https://www.lynda.com/Developer-Network-Administration-tutorials/Understanding-SSH/189066-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3assh%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"> Understanding SSH </a></td>
+            <td> Certificate </td>
             <td> --- </td>
         </tr>
         <tr>
@@ -93,7 +86,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :white_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Basic Terminal Usage </b></td>
             <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
@@ -145,7 +138,7 @@ kyu (your current level) | Ability
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Create a profile Explore relevant open source projects. Make a habit of looking under the hood of projects you make. Create and contribute to open source projects </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#">---</a></td>
