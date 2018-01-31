@@ -73,9 +73,9 @@ kyu (your current level) | Ability
             <td>Jan-2018</td>
         </tr>
         <tr>
-            <td rowspan="1"> :white_square_button: </td>
+            <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> SSH </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#">---</a></td>
@@ -85,7 +85,7 @@ kyu (your current level) | Ability
         <tr>
             <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> HTTP/HTTPS and APIs </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#">---</a></td>
@@ -103,9 +103,9 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :white_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Github </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#">---</a></td>
@@ -115,7 +115,7 @@ kyu (your current level) | Ability
          <tr>
             <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> Learn to Research </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#">---</a></td>
@@ -123,7 +123,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :white_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Character Encoding </b></td>
             <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
@@ -135,7 +135,7 @@ kyu (your current level) | Ability
          <tr>
             <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> Design Patterns </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#">---</a></td>
@@ -143,7 +143,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :white_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Create a profile Explore relevant open source projects. Make a habit of looking under the hood of projects you make. Create and contribute to open source projects </b></td>
             <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
