@@ -16,7 +16,7 @@
   </a>
 </p>
 
-This repository is base on [**ossu/computer-science**](https://github.com/ossu/computer-science)
+> This repository is base on [**ossu/computer-science**](https://github.com/ossu/computer-science)
 
 # :octocat: Contents
 
