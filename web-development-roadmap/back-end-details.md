@@ -170,3 +170,8 @@ kyu (your current level) | Ability
 > - [] Learn different testing techniques
 > - [] Google Analytics
 
+
+
+
+## Programming Language
+### Ruby
