@@ -4,19 +4,22 @@
 Roadmap to becoming a mobile developer in 2017.
 ![](https://github.com/luuductrung1234/dev-roadmap/blob/master/mobile-development-roadmap/Images/introduction.png)
 
-## Sigle Plaform
+## :computer: Sigle Plaform
 ![](https://github.com/luuductrung1234/dev-roadmap/blob/master/mobile-development-roadmap/Images/singleplatform.png)
 
 
-## iOS Expand Roadmap
+## :iphone: iOS Expand Roadmap
 ![](https://raw.githubusercontent.com/godrm/mobile-developer-roadmap/master/Images/iOS_roadmap_v0.9.png)
 
+<br/>
+<br/>
 
-## Hybrid Application
+## :globe_with_meridians: Hybrid Application
 ![](https://github.com/luuductrung1234/dev-roadmap/blob/master/mobile-development-roadmap/Images/hybridapp.png)
 
+<br/>
 
-## Native Application
+## :octocat: Native Application
 ![](https://github.com/luuductrung1234/dev-roadmap/blob/master/mobile-development-roadmap/Images/nativeapp.png)
 
 
