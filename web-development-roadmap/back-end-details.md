@@ -152,6 +152,43 @@ kyu (your current level) | Ability
 
 
 ### Python
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="3"> :black_square_button: </td>
+            <td rowspan="3"><b> Python </b></td>
+            <td rowspan="3"> ---  </td>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Developer/become-a-python-developer"> Lymda/Become-Python-Developer </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.coursera.org/specializations/python"> Coursera/Python-for-everybody </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href=""> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+ </table>
+
 > #### Framework (Sync)
 <table>
          <tr>
@@ -168,9 +205,9 @@ kyu (your current level) | Ability
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Django </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/"> Python-and-Django-FullStack-Web-Dev-Bootcamp </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -343,6 +380,58 @@ kyu (your current level) | Ability
 
 
 ### PHP7
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="5"> :black_square_button: </td>
+            <td rowspan="5"><b> PHP </b></td>
+            <td rowspan="5"> ---  </td>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/php-developer"> Lymda/Become-PHP-Developer </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/advance-your-skills-as-a-php-developer-core-php"> Lynda/Advance-your-skill-as-a-PHP-developer </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/advance-your-skills-as-php-developer-working-with-data"> Lymda/Avance-your-skills:-working-with-data </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/get-ahead-in-php-7-features-and-frameworks"> Lynda/Get-ahead-PHP7-feature-and-famework </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+ </table>
+
+
 > #### Framework
 <table>
          <tr>
@@ -491,10 +580,10 @@ kyu (your current level) | Ability
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> PHPUnit </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/advance-your-skills-as-a-php-developer-testing-and-debugging"> Lymda/Advance-your-skill:-Testing-and-Debugging </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
          <tr>
