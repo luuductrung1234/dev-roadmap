@@ -66,6 +66,30 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
         <tr>
             <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> --- </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+> #### Basic Details
+<table>
+        <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> HTML </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
