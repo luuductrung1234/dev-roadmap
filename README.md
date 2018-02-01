@@ -4,7 +4,7 @@
 
 ***
 
-Welcome to developer roadmap, this repository contain the learn **path/roadmap**, **resource** for many seperated development majors
+Welcome to developer roadmap, this repository contain the learning **path/roadmap**, **resource** for many seperated IT majors
 
 ***
 
@@ -29,7 +29,7 @@ Welcome to developer roadmap, this repository contain the learn **path/roadmap**
 ## Instruction
 > - Visit [Wiki](https://github.com/luuductrung1234/dev-roadmap/wiki) to see instruction details
 > - Visit [Project](https://github.com/luuductrung1234/dev-roadmap/projects) to see the resource boards
-> - You can go to your specific major that you concern
+> - You can choose a specific major that you concern to start learning and using these resources 
 
 ## :clipboard: Todo
 > - add Single-Platform/Hybrid-App/Native-App details path in **Mobile-Development-Roadmap**
