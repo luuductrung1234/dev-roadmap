@@ -45,9 +45,9 @@ _(this path is general for front-end and back-end)_
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="12"> :black_square_button: </td>
-            <td rowspan="12"><b> FullStack </b></td>
-            <td rowspan="12"> ---  </td>
+            <td rowspan="11"> :black_square_button: </td>
+            <td rowspan="11"><b> FullStack </b></td>
+            <td rowspan="11"> ---  </td>
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/"> Udemy/The-Complete-Web-Developer-Course2.0 </a></td>
@@ -86,13 +86,6 @@ _(this path is general for front-end and back-end)_
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/web-development-html5-css3-php-oop-and-mysql-database/learn/v4/"> Udemy/Thoughtful-Web-Development-Course </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-          <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=822444"> Python-and-Django-FullStack-Web-Dev-Bootcamp </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
