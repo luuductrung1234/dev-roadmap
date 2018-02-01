@@ -1,7 +1,6 @@
-> This repository is base on [godrm/mobile-developer-roadmap](https://github.com/godrm/mobile-developer-roadmap)
+> This repository is base on [godrm/mobile-developer-roadmap](https://github.com/godrm/mobile-developer-roadmap) and [medium/mobile development](https://hackernoon.com/a-roadmap-to-application-development-bfa2e32fcd82)
 
 ## Introduction
-모바일 개발자가 되기 위한 로드맵 2017년 버전<br>
 Roadmap to becoming a mobile developer in 2017.
 
 ## Mobile Roadmap
