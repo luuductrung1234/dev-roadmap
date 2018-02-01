@@ -57,14 +57,21 @@ kyu (your current level) | Ability
             <td>1-Fer-2018</td>
         </tr>
         <tr>
-            <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> Git - Version Control </b></td>
-            <td rowspan="1"> :ledger: </td>
+            <td rowspan="2"> :white_check_mark: </td>
+            <td rowspan="2"><b> Git - Version Control </b></td>
+            <td rowspan="2"> :ledger: </td>
             <td><b> complete </b></td>
             <td>Course</td>
             <td><a href="https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html">git essential trainning</a></td>
             <td><a href="https://www.lynda.com/ViewCertificate/DDECEA6B0AF343E39B16510724B8C0CF?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate">Certificate</a></td>
             <td>Jan-2018</td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/learn/v4/"> Udemy/Git-a-web-developer-mastering-workflow </a></td>
+            <td> --- </td>
+            <td> --- </td>
         </tr>
         <tr>
             <td rowspan="1"> :black_square_button: </td>
@@ -97,16 +104,6 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> Github </b></td>
-            <td rowspan="1"> :ledger:  </td>
-            <td><b> on hold </b></td>
-            <td> Docs </td>
-            <td><a href="https://guides.github.com/"> Github guide </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
             <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> Learn to Research </b></td>
             <td rowspan="1"> ---  </td>
@@ -130,9 +127,9 @@ kyu (your current level) | Ability
             <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> Design Patterns </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#">---</a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/dependency-injection/learn/v4/"> Udemy/Dependency-Injection </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
