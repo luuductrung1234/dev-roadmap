@@ -32,6 +32,5 @@ Welcome to developer roadmap, this repository contain the learn **path/roadmap**
 > - You can go to your specific major that you concern
 
 ## :clipboard: Todo
-> - update Front-end/Back-end/DevOps details path in **Web-Development-Roadmap**
-> - add mathematics, electrical engineering card in **Academy Board**
+> - add Single-Platform/Hybrid-App/Native-App details path in **Mobile-Development-Roadmap**
 > - add **Desgin path**
