@@ -66,9 +66,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="11"> :white_check_mark: </td>
-            <td rowspan="11"><b> The Front-End Basic </b></td>
-            <td rowspan="11"> :ledger:  </td>
+            <td rowspan="10"> :white_check_mark: </td>
+            <td rowspan="10"><b> The Front-End Basic </b></td>
+            <td rowspan="10"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
@@ -138,27 +138,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-         <tr>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-</table>
-
-> #### Basic Details
-<table>
-        <tr>
-            <th>Status</th>
-            <th>Topic</th>
-            <th>Level</th>
-            <th>Process</th>
-            <th>Type</th>
-            <th>Item</th>
-            <th>Reconition</th>
-            <th>Start Date</th>
-        </tr>
         <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> HTML Basic </b></td>
@@ -180,9 +159,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="2"> :white_check_mark: </td>
-            <td rowspan="2"><b> JavaScript Basic </b></td>
-            <td rowspan="2"> :notebook:  </td>
+            <td rowspan="5"> :white_check_mark: </td>
+            <td rowspan="5"><b> JavaScript Basic </b></td>
+            <td rowspan="5"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Improve Your JS Language Skills </a></td>
@@ -194,6 +173,27 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> playlist </td>
             <td><a href="https://www.lynda.com/Playlist"> Lynda/JavaScript playlist </a></td>
             <td> certificate </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> book </td>
+            <td><a href="https://github.com/getify/You-Dont-Know-JS"> You don't know JS </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> book </td>
+            <td><a href="http://jqfundamentals.com/"> JQuery fundamental </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+           <tr>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
             <td> --- </td>
         </tr>
  </table>
@@ -256,9 +256,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Bootstrap </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -300,9 +300,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> SASS </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -354,7 +354,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
          <tr>
-            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"> :white_square_button: </td>
             <td rowspan="2"><b> Advance JavaScript </b></td>
             <td rowspan="2"> ---  </td>
             <td><b> not started </b></td>
@@ -721,9 +721,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Flexbox </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -731,9 +731,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Gradients </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -741,9 +741,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Grids </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -751,9 +751,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Rotate </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -761,9 +761,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Transform </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -771,9 +771,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Skew </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -781,9 +781,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Scale </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -791,9 +791,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Transitions </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -815,7 +815,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> BEM </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
@@ -835,7 +835,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> OOCSS </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
@@ -879,7 +879,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> D3 </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
@@ -903,7 +903,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> Design Patterns </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
@@ -913,9 +913,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Regex </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
