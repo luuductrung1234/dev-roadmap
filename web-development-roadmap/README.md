@@ -31,6 +31,7 @@ I've added a method to track the process and self-grade during the learning path
     * [Introduction](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/introduction-details.md)
     * [Front-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/front-end-details.md)
     * [Back-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/back-end-details.md)
+    * [Full-Stack](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/full-stack.md)
     * [DevOps](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/devops-details.md)
 * Wrap Up
 * Todo
@@ -43,7 +44,7 @@ I've added a method to track the process and self-grade during the learning path
 <br>
 
 ## 🚀 Introduction
-[go to details](https://github.com/luuductrung1234/developer-roadmap/blob/master/introduction-details.md) - [back to index](#index)
+[go to details](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/introduction-details.md) - [back to index](#index)
 
 ![](https://i.imgur.com/OZUOUtI.png)
 
@@ -51,14 +52,14 @@ I've added a method to track the process and self-grade during the learning path
 <br>
 
 ## 🎨 Front-end Roadmap
-[go to details](https://github.com/luuductrung1234/developer-roadmap/blob/master/front-end-details.md) - [back to index](#index)
+[go to details](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/front-end-details.md) - [back to index](#index)
 ![](https://i.imgur.com/WrfLESm.png)
 
 <br>
 <br>
 
 ## 👽 Back-end Roadmap
-[go to details](https://github.com/luuductrung1234/developer-roadmap/blob/master/back-end-details.md) - [back to index](#index)
+[go to details](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/back-end-details.md) - [back to index](#index)
 
 For the backend, personally I would prefer Node.js and PHP 7 for the full time. Plus, I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
 
@@ -69,7 +70,7 @@ For the backend, personally I would prefer Node.js and PHP 7 for the full time. 
 <br>
 
 ## 👷 DevOps Roadmap
-[go to details](https://github.com/luuductrung1234/developer-roadmap/blob/master/devops-details.md) - [back to index](#index)
+[go to details](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/devops-details.md) - [back to index](#index)
 ![](https://i.imgur.com/wpj5pqk.png)
 
 <br>
