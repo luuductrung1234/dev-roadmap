@@ -65,9 +65,65 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> --- </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="9"> :white_check_mark: </td>
+            <td rowspan="9"><b> The Front-End Basic </b></td>
+            <td rowspan="9"> :ledger:  </td>
+            <td><b> complete </b></td>
+            <td> reading </td>
+            <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> complete </b></td>
+            <td> reading </td>
+            <td><a href="http://marksheet.io/"> MarkSheet </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> on hold </b></td>
+            <td> reading </td>
+            <td><a href="https://developer.mozilla.org/en-US/docs/Learn"> MDN Web Tutorials </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> on hold </b></td>
+            <td> reading </td>
+            <td><a href="https://bento.io/home"> Bento.io personal progress </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> on hold </b></td>
+            <td> coding </td>
+            <td><a href="https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification"> FCC/front-End-Certification </a></td>
+            <td> certificate </td>
+            <td> 28-Jan-2018 </td>
+        </tr>
+         <tr>
+            <td><b> complete </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-web-developer"> Lynda/Become-a-Web-Developer </a></td>
+            <td><a href="https://www.linkedin.com/in/l%C6%B0u-%C4%91%E1%BB%A9c-trung-08b414117/"> certificate </a></td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> on hold </b></td>
+            <td> path </td>
+            <td><a href="https://www.coursera.org/specializations/web-design"> Coursera/Web-Design-for-Everybody (basic web development and coding) </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> on hold </b></td>
+            <td> bootcamp </td>
+            <td><a href="https://courses.thinkful.com/gh-studentv2/course/0"> Thinkfull/Front-End-Development </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -89,9 +145,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> HTML </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -99,9 +155,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> CSS </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -109,16 +165,25 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> JavaScript </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
+            <td rowspan="2"> :white_check_mark: </td>
+            <td rowspan="2"><b> JavaScript </b></td>
+            <td rowspan="2"> :notebook:  </td>
+            <td><b> on hold </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Improve Your JS Language Skills </a></td>
+            <td> certificate </td>
             <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
+        </tr>
+           <tr>
+            <td><b> on hold </b></td>
+            <td> playlist </td>
+            <td><a href="https://www.lynda.com/Playlist"> Lynda/JavaScript playlist </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
  </table>
+
+
 
 
 ## Getting Deeper
@@ -135,12 +200,12 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Responsive Web </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td rowspan="1"> :white_check_mark: </td>
+            <td rowspan="1"><b> CSS Advance </b></td>
+            <td rowspan="1"> :notebook:  </td>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/advanced-css-and-sass/learn/v4/"> Udemy/Advanced-CSS-and-SASS </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -850,6 +915,99 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Learn different testing techniques </b></td>
             <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
+
+
+---
+
+## FullStack
+_(this path is general for front-end and back-end)_
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="10"> :black_square_button: </td>
+            <td rowspan="10"><b> FullStack </b></td>
+            <td rowspan="10"> ---  </td>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/"> Udemy/The-Complete-Web-Developer-Course2.0 </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+           <tr>
+            <td><b> on hold </b></td>
+            <td> bootcamp </td>
+            <td><a href="https://learn.co/tracks/full-stack-community-bootcamp?batch_id=475&sign_in=true&track_id=20811"> Learnco/FullStack-Community-Bootcamp </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+           <tr>
+            <td><b> on hold </b></td>
+            <td> bootcamp </td>
+            <td><a href="https://www.freecodecamp.org/"> FreeCodeCamp </a></td>
+            <td> certificate </td>
+            <td> 27-Jan-2018 </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/the-web-developer-bootcamp/learn/v4/"> Udemy/The-Web-Developer-BootCamp </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not stated </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/"> Udemy/The-Advance-Web-Developer-BootCamp </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.theodinproject.com/courses?ref=homenav"> Theodinproject/Become-a-Full-Stack-Web-Developer </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-full-stack-web-developer"> Lynda/Become-a-Fullstack-Web-Developer </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> no started </b></td>
+            <td> path </td>
+            <td><a href="https://www.coursera.org/specializations/full-stack-mobile-app-development"> Coursera/Fulltack-mobile-app-development </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> bootcamp </td>
+            <td><a href="https://upskillcourses.com/courses/"> Upskillcourses/Web Developer Bootcamp </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
