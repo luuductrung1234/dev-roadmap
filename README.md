@@ -33,6 +33,8 @@ Welcome to developer roadmap, this repository contain the learn **path/roadmap**
 
 ## :clipboard: Todo
 > - add Single-Platform/Hybrid-App/Native-App details path in **Mobile-Development-Roadmap**
+> - update path in **Data-Science-Roadmap**
+> - update path in **Machine-Learning-Roadmap**
 > - migrate data-science board in trello to academy board
 > - add details path in **Game-Development-Roadmap**
 > - add **Desgin path**
