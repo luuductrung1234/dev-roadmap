@@ -50,13 +50,20 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Ruby on Rails </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
+            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"><b> Ruby on Rails </b></td>
+            <td rowspan="2"> ---  </td>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-ruby-on-rails-developer"> Lymda/Become-RubyonRails-Developer </a></td>
+            <td> certificate </td>
             <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.coursera.org/specializations/ruby-on-rails"> Coursera/RubyonRails-Web-Development </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
          <tr>
@@ -539,6 +546,29 @@ kyu (your current level) | Ability
 
 
 ### Node.js
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Nodejs </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=461160"> Udemy/Learn-and-Understand-Nodejs </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+ </table>
+
 > #### Framework
 <table>
          <tr>
@@ -900,9 +930,9 @@ kyu (your current level) | Ability
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Nginx </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/how-to-setup-a-web-server/learn/v4/"> Udemy/Nginx-and-Apache-Server-From-Scratch-with-VestaCP </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1069,9 +1099,9 @@ kyu (your current level) | Ability
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> MongoDB </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/learn-mongodb-leading-nosql-database-from-scratch/learn/v4/"> Udemy/Learn-MongoDB-Leading-NoSQL-from-sratch </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
