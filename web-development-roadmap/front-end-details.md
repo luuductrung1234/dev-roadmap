@@ -8,6 +8,7 @@ welcome to front-end section details, you can use it to check your learning proc
 * [Introduction](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/introduction-details.md)
 * [Front-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/front-end-details.md)
 * [Back-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/back-end-details.md)
+* [Full-stack](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/full-stack.md)
 * [DevOps](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/devops-details.md)
 
 ### **How to track?**
@@ -935,113 +936,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Learn different testing techniques </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-</table>
-
-
-
-
----
-
-## FullStack
-_(this path is general for front-end and back-end)_
-<table>
-         <tr>
-            <th>Status</th>
-            <th>Topic</th>
-            <th>Level</th>
-            <th>Process</th>
-            <th>Type</th>
-            <th>Item</th>
-            <th>Reconition</th>
-            <th>Start Date</th>
-        </tr>
-        <tr>
-            <td rowspan="12"> :black_square_button: </td>
-            <td rowspan="12"><b> FullStack </b></td>
-            <td rowspan="12"> ---  </td>
-            <td><b> on hold </b></td>
-            <td> course </td>
-            <td><a href="https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/"> Udemy/The-Complete-Web-Developer-Course2.0 </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-           <tr>
-            <td><b> on hold </b></td>
-            <td> bootcamp </td>
-            <td><a href="https://learn.co/tracks/full-stack-community-bootcamp?batch_id=475&sign_in=true&track_id=20811"> Learnco/FullStack-Community-Bootcamp </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-           <tr>
-            <td><b> on hold </b></td>
-            <td> bootcamp </td>
-            <td><a href="https://www.freecodecamp.org/"> FreeCodeCamp </a></td>
-            <td> certificate </td>
-            <td> 27-Jan-2018 </td>
-        </tr>
-         <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://www.udemy.com/the-web-developer-bootcamp/learn/v4/"> Udemy/The-Web-Developer-BootCamp </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-          <tr>
-            <td><b> not stated </b></td>
-            <td> course </td>
-            <td><a href="https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/"> Udemy/The-Advance-Web-Developer-BootCamp </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-          <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://www.udemy.com/web-development-html5-css3-php-oop-and-mysql-database/learn/v4/"> Udemy/Thoughtful-Web-Development-Course </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-          <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=822444"> Python-and-Django-FullStack-Web-Dev-Bootcamp </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-          <tr>
-            <td><b> not started </b></td>
-            <td> path </td>
-            <td><a href="https://www.theodinproject.com/courses?ref=homenav"> Theodinproject/Become-a-Full-Stack-Web-Developer </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td><b> not started </b></td>
-            <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-full-stack-web-developer"> Lynda/Become-a-Fullstack-Web-Developer </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-        <tr>
-            <td><b> no started </b></td>
-            <td> path </td>
-            <td><a href="https://www.coursera.org/specializations/full-stack-mobile-app-development"> Coursera/Fulltack-mobile-app-development </a></td>
-            <td> certificate </td>
-            <td> --- </td>
-        </tr>
-        <tr>
-            <td><b> not started </b></td>
-            <td> bootcamp </td>
-            <td><a href="https://upskillcourses.com/courses/"> Upskillcourses/Web Developer Bootcamp </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
