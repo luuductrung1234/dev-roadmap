@@ -915,7 +915,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Regex </b></td>
-            <td rowspan="1"> :ledger:  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
