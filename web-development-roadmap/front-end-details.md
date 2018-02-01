@@ -66,9 +66,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="10"> :white_check_mark: </td>
-            <td rowspan="10"><b> The Front-End Basic </b></td>
-            <td rowspan="10"> :ledger:  </td>
+            <td rowspan="11"> :white_check_mark: </td>
+            <td rowspan="11"><b> The Front-End Basic </b></td>
+            <td rowspan="11"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
@@ -138,6 +138,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+         <tr>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
         <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> HTML Basic </b></td>
@@ -159,19 +166,12 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="5"> :white_check_mark: </td>
-            <td rowspan="5"><b> JavaScript Basic </b></td>
-            <td rowspan="5"> :notebook:  </td>
+            <td rowspan="4"> :white_check_mark: </td>
+            <td rowspan="4"><b> JavaScript Basic </b></td>
+            <td rowspan="4"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Improve Your JS Language Skills </a></td>
-            <td> certificate </td>
-            <td> --- </td>
-        </tr>
-           <tr>
-            <td><b> on hold </b></td>
-            <td> playlist </td>
-            <td><a href="https://www.lynda.com/Playlist"> Lynda/JavaScript playlist </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
