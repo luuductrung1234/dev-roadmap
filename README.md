@@ -17,8 +17,8 @@ Welcome to developer roadmap, this repository contain the learn **path/roadmap**
   
 * ### [Web Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/web-development-roadmap)
 * ### [Mobile Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/mobile-development-roadmap)
-* ### [Game Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/game-development-roadmap)
-* ### [Design]()              `coming soon`
+* ### [Game Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/game-development-roadmap) `not ready`
+* ### [Design]()              `not ready`
 
 
 ## About
@@ -33,4 +33,6 @@ Welcome to developer roadmap, this repository contain the learn **path/roadmap**
 
 ## :clipboard: Todo
 > - add Single-Platform/Hybrid-App/Native-App details path in **Mobile-Development-Roadmap**
+> - migrate data-science board in trello to academy board
+> - add details path in **Game-Development-Roadmap**
 > - add **Desgin path**
