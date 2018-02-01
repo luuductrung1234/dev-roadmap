@@ -34,32 +34,797 @@ kyu (your current level) | Ability
 
 ![](https://i.imgur.com/wpj5pqk.png)
 
-> - [] Operating System
->
-> - [] Cloud
->
-> - [] Automation
->
-> - [] CI/CD
->
-> - [] Containers
->
-> - [] Web Servers
->
-> - [] Monitoring and Alerting
->
-> - [] Log Management & Analysis
->
-> - [] Cluster Managers
->
-> - [] Love for Terminal
-> 
-> ### More
-> > - [] OSI Model. TCP/IP/UDP Common ports
-> > - [] Knowledge about different file systems
-> > - [] Setting up a Reverse Proxy (Nginx...)
-> > - [] Setting up caching Server (Squid, Nginx...)
-> > - [] Setting up a load balancer (HAProxy, Nginx...)
-> > - [] Setting up a firewall
-> > - [] TLS, STARTTLS, SSL, HTTPS, SCP, SSH, SFTP
-> > - [] Postmorten analysis when something bad happens
+
+
+### Operating System
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Unix </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Linux </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
+### Cloud
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Cloud Foundry </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Rockspace </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> AWS </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Heroku </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Azure </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Google Cloud Platform </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Digitalocean </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
+### Automation
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> AWS Cloud Formation </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Terraform </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> CF Engine </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Packer </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> SaltStack </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Chef </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Ansible </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Puppet </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
+### CI/CD
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Jenkins </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Travis </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> CircleCI </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Drone </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Bamboo </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
+### Containers
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Docker </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> rkt </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> LXC </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
+### Web Servers
+_(differrences and when to use what)_
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Apache </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Nginx </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Tomcat </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> IIS </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Caddy </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
+
+### Monitoring and Alerting
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> AppDynamics </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Nagios </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> New Reic </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> PagerDuty </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Munin </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Graphite </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Prometheus </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Zabbix </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
+
+### Log Management & Analysis
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> ELK </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Papertrail </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Graylog </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Splunk </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
+### Cluster Managers
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Nomad </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Docker Swarm </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Mesos </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Mesosphere </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Kubemetes </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
+
+### Love for Terminal
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Bash Scripts </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Vim / Nano </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+> #### Commands/Tools
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Text Manipulation </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Process Monitoring </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> System Performance </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Network </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
+
+### More
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> OSI Model. TCP/IP/UDP Common ports </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Knowledge about different file systems </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Setting up a Reverse Proxy (Nginx...) </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Setting up caching Server (Squid, Nginx...) </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Setting up a load balancer (HAProxy, Nginx...) </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Setting up a firewall </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> TLS, STARTTLS, SSL, HTTPS, SCP, SSH, SFTP </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Postmorten analysis when something bad happens </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
