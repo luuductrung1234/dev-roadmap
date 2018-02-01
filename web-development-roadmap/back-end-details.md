@@ -423,6 +423,13 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.coursera.org/specializations/web-applications"> Coursera/Web-Application-for-everybody </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+          <tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
