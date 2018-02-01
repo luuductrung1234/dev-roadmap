@@ -65,9 +65,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="9"> :white_check_mark: </td>
-            <td rowspan="9"><b> The Front-End Basic </b></td>
-            <td rowspan="9"> :ledger:  </td>
+            <td rowspan="11"> :white_check_mark: </td>
+            <td rowspan="11"><b> The Front-End Basic </b></td>
+            <td rowspan="11"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
@@ -109,6 +109,20 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><a href="https://www.linkedin.com/in/l%C6%B0u-%C4%91%E1%BB%A9c-trung-08b414117/"> certificate </a></td>
             <td> --- </td>
         </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer"> Lynda/Become-a-Front-End-Web-Developer </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-web-designer"> Lynda/Become-a-Web-Designer </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
         <tr>
             <td><b> on hold </b></td>
             <td> path </td>
@@ -146,7 +160,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
         <tr>
             <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> HTML </b></td>
+            <td rowspan="1"><b> HTML Basic </b></td>
             <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
@@ -156,7 +170,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> CSS </b></td>
+            <td rowspan="1"><b> CSS Basic </b></td>
             <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
@@ -166,7 +180,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="2"> :white_check_mark: </td>
-            <td rowspan="2"><b> JavaScript </b></td>
+            <td rowspan="2"><b> JavaScript Basic </b></td>
             <td rowspan="2"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
@@ -200,13 +214,20 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> CSS Advance </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="2"> :white_check_mark: </td>
+            <td rowspan="2"><b> CSS Advance </b></td>
+            <td rowspan="2"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/advanced-css-and-sass/learn/v4/"> Udemy/Advanced-CSS-and-SASS </a></td>
             <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not-started </b></td>
+            <td> path </td>
+            <td><a href="https://www.coursera.org/specializations/website-development"> Coursera/Responsive-Web-Development-and-Design </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
 </table>
@@ -331,23 +352,20 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Reconition</th>
             <th>Start Date</th>
         </tr>
-        <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> JQuery </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
+         <tr>
+            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"><b> Advance JavaScript </b></td>
+            <td rowspan="2"> ---  </td>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/advance-your-javascript-skills"> Lynda/Advance-your-JavaScript-Skills </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
-        <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> JQuery UI `optional` </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+          <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/understand-javascript/learn/v4/"> Udemy/JavaScript-understand-the-weird-part </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -386,12 +404,26 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Angular </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
+            <td rowspan="3"> :black_square_button: </td>
+            <td rowspan="3"><b> Angular </b></td>
+            <td rowspan="3"> ---  </td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=756150"> Udemy/Angular5-The-Complete-Guide </a></td>
             <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/become-an-angularjs-developer"> Lynda/Become=AngularJS-Developer </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/become-an-angular-2-developer"> Lynda/Become-Angular(2+)-Developer </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -406,52 +438,40 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> TypeScript </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
+            <td rowspan="5"> :black_square_button: </td>
+            <td rowspan="5"><b> React </b></td>
+            <td rowspan="5"> ---  </td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/react-redux/learn/v4/"> Udemy/Modern-React-with-Redux </a></td>
             <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/react-redux-tutorial/learn/v4/"> Udemy/Advance-React-and-Redux </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> React </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/"> Udemy/The-Complate-React-Native-and-Redux-Course </a></td>
             <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-react-developer"> Lymda/Become-a-React-Developer </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Redux </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Flux </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Mobx </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-react-skills"> Lymda/Improve-react-skill </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -459,9 +479,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Vue JS </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/"> Udemy/VueJS2-The-Complete-Guide </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -942,9 +962,9 @@ _(this path is general for front-end and back-end)_
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="10"> :black_square_button: </td>
-            <td rowspan="10"><b> FullStack </b></td>
-            <td rowspan="10"> ---  </td>
+            <td rowspan="12"> :black_square_button: </td>
+            <td rowspan="12"><b> FullStack </b></td>
+            <td rowspan="12"> ---  </td>
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/"> Udemy/The-Complete-Web-Developer-Course2.0 </a></td>
@@ -976,6 +996,20 @@ _(this path is general for front-end and back-end)_
             <td><b> not stated </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/"> Udemy/The-Advance-Web-Developer-BootCamp </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/web-development-html5-css3-php-oop-and-mysql-database/learn/v4/"> Udemy/Thoughtful-Web-Development-Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=822444"> Python-and-Django-FullStack-Web-Dev-Bootcamp </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
