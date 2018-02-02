@@ -815,17 +815,38 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :white_square_button: </td>
-            <td rowspan="1"><b> BEM </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="4"> :white_check_mark: </td>
+            <td rowspan="4"><b> BEM </b></td>
+            <td rowspan="4"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
+         <tr>
+            <td><b> complete </b></td>
+            <td> video </td>
+            <td><a href="https://itcomma-my.sharepoint.com/:f:/p/luuductrung/Evd9r1UUf_VMjgLumtbuUegB4RCYZVxEpRQTgkmxnNYFfA?e=9WbWTT"> CSS architecture with BEM </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
           <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td><b> complte </b></td>
+            <td> reading </td>
+            <td><a href="http://getbem.com/introduction/"> BEM Instruction </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+           <tr>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://bradfrost.com/blog/post/atomic-web-design/"> Anatomic Design <em>(optional)</em> </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> SUITCSS </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
@@ -845,7 +866,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> SMACSS </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
@@ -855,7 +876,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> Systematic CSS </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
