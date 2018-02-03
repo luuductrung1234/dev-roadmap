@@ -37,6 +37,30 @@ kyu (your current level) | Ability
 ## Programming Language
 
 ### Ruby
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Ruby Essential </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href=""> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+ </table>
+
+
 > #### Framework
 <table>
          <tr>
@@ -165,7 +189,7 @@ kyu (your current level) | Ability
         </tr>
         <tr>
             <td rowspan="3"> :black_square_button: </td>
-            <td rowspan="3"><b> Python </b></td>
+            <td rowspan="3"><b> Python Essential </b></td>
             <td rowspan="3"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
@@ -393,7 +417,7 @@ kyu (your current level) | Ability
         </tr>
         <tr>
             <td rowspan="5"> :black_square_button: </td>
-            <td rowspan="5"><b> PHP </b></td>
+            <td rowspan="5"><b> PHP Essential </b></td>
             <td rowspan="5"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
@@ -655,7 +679,7 @@ kyu (your current level) | Ability
         </tr>
         <tr>
             <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Nodejs </b></td>
+            <td rowspan="1"><b> Nodejs Essential </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
@@ -842,6 +866,29 @@ kyu (your current level) | Ability
 
 
 ### C#
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :white_check_mark: </td>
+            <td rowspan="1"><b> C# Essential </b></td>
+            <td rowspan="1"> :ledger:  </td>
+            <td><b> on hold </b></td>
+            <td> path </td>
+            <td><a href="https://app.pluralsight.com/paths/skills/csharp"> PluralSight/CSharp-Skill-Path </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+ </table>
+
 > #### Framework
 <table>
          <tr>
@@ -858,15 +905,48 @@ kyu (your current level) | Ability
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> ASP.NET </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://app.pluralsight.com/paths/skills/mvc5"> PluralSight/ASP.NET-Skill-Path </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 </table>
 
+
+
+
 ### Java
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="2"> :white_check_mark: </td>
+            <td rowspan="2"><b> Java Essential </b></td>
+            <td rowspan="2"> :ledger:  </td>
+            <td><b> on hold </b></td>
+            <td> path </td>
+            <td><a href="https://app.pluralsight.com/paths/skills/java"> PluralSight/JavaSE-Skill-Path </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://app.pluralsight.com/paths/skills/java-ee-foundations"> PluralSight/JavaEE-Skill-Path </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+ </table>
+
 > #### Framework
 <table>
          <tr>
@@ -922,8 +1002,32 @@ kyu (your current level) | Ability
 </table>
 
 
-### Go
 
+
+
+### Go
+<table>
+         <tr>
+            <th>Status</th>
+            <th>Topic</th>
+            <th>Level</th>
+            <th>Process</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Reconition</th>
+            <th>Start Date</th>
+        </tr>
+        <tr>
+            <td rowspan="1"> :white_check_mark: </td>
+            <td rowspan="1"><b> Go Essential </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+ </table>
 
 ## Technical
 <table>
@@ -988,6 +1092,9 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
 </table>
+
+
+
 
 
 ### Web Server
