@@ -171,7 +171,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="4"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Improve Your JS Language Skills </a></td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Lynda/Improve-Your-JS-Language-Skills </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
