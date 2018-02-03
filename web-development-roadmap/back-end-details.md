@@ -1018,7 +1018,7 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :white_check_mark: </td>
+            <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Go Essential </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
