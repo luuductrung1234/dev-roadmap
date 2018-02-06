@@ -221,7 +221,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/advanced-css-and-sass/learn/v4/"> Udemy/Advanced-CSS-and-SASS </a></td>
-            <td> --- </td>
+            <td><a href="https://github.com/ITComma/first-portfolio"> projects </a></td>
             <td> --- </td>
         </tr>
          <tr>
