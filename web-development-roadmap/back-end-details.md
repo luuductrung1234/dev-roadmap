@@ -903,7 +903,7 @@ kyu (your current level) | Ability
         </tr>
         <tr>
             <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> ASP.NET </b></td>
+            <td rowspan="1"><b> ASP.NET MVC </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
@@ -929,9 +929,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="2"> :white_check_mark: </td>
-            <td rowspan="2"><b> Java Essential </b></td>
-            <td rowspan="2"> :ledger:  </td>
+            <td rowspan="3"> :white_check_mark: </td>
+            <td rowspan="3"><b> Java Essential </b></td>
+            <td rowspan="3"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java"> PluralSight/JavaSE-Skill-Path </a></td>
@@ -942,6 +942,13 @@ kyu (your current level) | Ability
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java-ee-foundations"> PluralSight/JavaEE-Skill-Path </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> search </td>
+            <td><a href="https://www.udemy.com/courses/search/?q=java%20web&src=ukw"> Some course Java Web in Udemy <em>(view later)</em> </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
