@@ -300,12 +300,19 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> SASS </b></td>
-            <td rowspan="1"> :ledger:  </td>
+            <td rowspan="2"> :white_check_mark: </td>
+            <td rowspan="2"><b> SASS </b></td>
+            <td rowspan="2"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> reading </td>
             <td><a href="https://sass-guidelin.es/"> SASS Guideline </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> on hold </b></td>
+            <td> rading </td>
+            <td><a href="http://thesassway.com/beginner"> The SASS way </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
