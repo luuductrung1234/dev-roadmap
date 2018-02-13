@@ -311,7 +311,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
         <tr>
             <td><b> on hold </b></td>
-            <td> rading </td>
+            <td> reading </td>
             <td><a href="http://thesassway.com/beginner"> The SASS way </a></td>
             <td> --- </td>
             <td> --- </td>
