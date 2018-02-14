@@ -982,7 +982,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         <tr>
             <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> Design Patterns </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjquery"> Learn JavaScript desgin pattern </a></td>
@@ -993,10 +993,10 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Regex </b></td>
             <td rowspan="1"> :notebook:  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aregular+expression%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"> Lynda/Learning Regular Expression </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
          <tr>
