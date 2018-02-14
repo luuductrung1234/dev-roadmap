@@ -96,6 +96,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+        <tr>
+            <td><b> on hold </b></td>
+            <td> reading </td>
+            <td><a href="https://learn-the-web.algonquindesign.ca/"> Learn the web </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
          <tr>
             <td><b> on hold </b></td>
             <td> coding </td>
@@ -166,16 +173,23 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="4"> :white_check_mark: </td>
-            <td rowspan="4"><b> JavaScript Basic </b></td>
-            <td rowspan="4"> :notebook:  </td>
+            <td rowspan="6"> :white_check_mark: </td>
+            <td rowspan="6"><b> JavaScript Basic </b></td>
+            <td rowspan="6"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Lynda/Improve-Your-JS-Language-Skills </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
-          <tr>
+        <tr>
+            <td><b>  on hold </b></td>
+            <td> book </td>
+            <td><a href="http://jsforcats.com/"> JavaScript for cat </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="https://github.com/getify/You-Dont-Know-JS"> You don't know JS </a></td>
@@ -189,7 +203,14 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-           <tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> book </td>
+            <td><a href="https://bonsaiden.github.io/JavaScript-Garden/"> JavaScript Garden </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
