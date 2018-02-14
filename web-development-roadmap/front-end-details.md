@@ -983,9 +983,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :white_square_button: </td>
             <td rowspan="1"><b> Design Patterns </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> book </td>
+            <td><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjquery"> Learn JavaScript desgin pattern </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
