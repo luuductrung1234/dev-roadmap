@@ -166,9 +166,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> CSS Basic </b></td>
             <td rowspan="1"> :ledger:  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> complete </b></td>
+            <td> reading </td>
+            <td><a href="https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855"> Everything you need to know about CSS variable </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
