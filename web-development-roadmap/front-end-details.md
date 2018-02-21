@@ -495,9 +495,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="5"> :black_square_button: </td>
-            <td rowspan="5"><b> React </b></td>
-            <td rowspan="5"> ---  </td>
+            <td rowspan="6"> :black_square_button: </td>
+            <td rowspan="6"><b> React </b></td>
+            <td rowspan="6"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/react-redux/learn/v4/"> Udemy/Modern-React-with-Redux </a></td>
