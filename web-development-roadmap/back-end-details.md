@@ -188,9 +188,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="5"> :black_square_button: </td>
-            <td rowspan="5"><b> Python Essential </b></td>
-            <td rowspan="5"> ---  </td>
+            <td rowspan="6"> :black_square_button: </td>
+            <td rowspan="6"><b> Python Essential </b></td>
+            <td rowspan="6"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Developer/become-a-python-developer"> Lymda/Become-Python-Developer </a></td>
@@ -202,6 +202,13 @@ kyu (your current level) | Ability
             <td> path </td>
             <td><a href="https://www.coursera.org/specializations/python"> Coursera/Python-for-everybody </a></td>
             <td> certificate </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/complete-python-bootcamp/"> Udemy/Complete-Python-Bootcamp-Go-from-Zero-to-Hero </a></td>
+            <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
@@ -1023,12 +1030,19 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Spring </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"><b> Spring </b></td>
+            <td rowspan="2"> ---  </td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href=""> Udemy/Spring-and-Hibernate-for-Beginner </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
             <td><b> --- </b></td>
             <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><a href=""> --- </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
