@@ -437,9 +437,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="7"> :black_square_button: </td>
-            <td rowspan="7"><b> PHP Essential </b></td>
-            <td rowspan="7"> ---  </td>
+            <td rowspan="8"> :black_square_button: </td>
+            <td rowspan="8"><b> PHP Essential </b></td>
+            <td rowspan="8"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/php-developer"> Lymda/Become-PHP-Developer </a></td>
@@ -482,6 +482,13 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
           <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/the-complete-wordpress-website-business-course/"> Udemy/The-Complete-WordPress-Website-Business-Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
