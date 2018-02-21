@@ -430,9 +430,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="5"> :black_square_button: </td>
-            <td rowspan="5"><b> PHP Essential </b></td>
-            <td rowspan="5"> ---  </td>
+            <td rowspan="7"> :black_square_button: </td>
+            <td rowspan="7"><b> PHP Essential </b></td>
+            <td rowspan="7"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/php-developer"> Lymda/Become-PHP-Developer </a></td>
