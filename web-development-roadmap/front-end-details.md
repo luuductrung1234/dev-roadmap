@@ -440,9 +440,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> TypeScript / Flow </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/understanding-typescript/"> Udemy/Understand-TypeScript </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -488,9 +488,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> RxJS </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/rxjs-reactive-angular-course/"> Udemy/Angular5-RxJs-Reactive-Programming </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -529,6 +529,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-react-skills"> Lymda/Improve-react-skill </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/graphql-with-react-course/"> Udemy/GraphQL-with-React-The-Complete-Guide </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -712,9 +719,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> webpack </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/webpack-2-the-complete-developers-guide/"> Udemy/Webpack2-The-Complete-Developer's-Guide </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
