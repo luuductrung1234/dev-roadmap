@@ -188,9 +188,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="3"> :black_square_button: </td>
-            <td rowspan="3"><b> Python Essential </b></td>
-            <td rowspan="3"> ---  </td>
+            <td rowspan="5"> :black_square_button: </td>
+            <td rowspan="5"><b> Python Essential </b></td>
+            <td rowspan="5"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Developer/become-a-python-developer"> Lymda/Become-Python-Developer </a></td>
@@ -204,7 +204,21 @@ kyu (your current level) | Ability
             <td> certificate </td>
             <td> --- </td>
         </tr>
-          <tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/30-days-of-python/"> Udemy/30-Days-of-Python </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/automate/"> Udemy/Automate-The-Boring-Stuff-With-Python </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href=""> --- </a></td>
@@ -239,9 +253,9 @@ kyu (your current level) | Ability
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Flask </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/rest-api-flask-and-python/"> Udemy/REST-APIs-with-Flask-and-Python </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -453,6 +467,13 @@ kyu (your current level) | Ability
             <td> certificate </td>
             <td> --- </td>
         </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/php-for-complete-beginners-includes-msql-object-oriented/"> Udemy/PHP-for-Beginners-Become-PHP-Master-CMS-project </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
           <tr>
             <td><b> --- </b></td>
             <td> --- </td>
@@ -479,9 +500,9 @@ kyu (your current level) | Ability
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Laravel </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/php-with-laravel-for-beginners-become-a-master-in-laravel/"> Udemy/PHP-with-Laravel-for-beginners </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -678,12 +699,26 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Nodejs Essential </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="3"> :black_square_button: </td>
+            <td rowspan="3"><b> Nodejs Essential </b></td>
+            <td rowspan="3"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=461160"> Udemy/Learn-and-Understand-Nodejs </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/the-complete-nodejs-developer-course-2/"> Udemy/The-Complete-Notejs-Developer-Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -879,7 +914,7 @@ kyu (your current level) | Ability
         </tr>
         <tr>
             <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> C# Essential </b></td>
+            <td rowspan="1"><b> <a href="https://app.pluralsight.com/channels/details/f09d68ec-d6d1-48fa-b7e1-4371cbd0308d?s=1">C# Essential</a> </b></td>
             <td rowspan="1"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
@@ -929,9 +964,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="3"> :white_check_mark: </td>
-            <td rowspan="3"><b> Java Essential </b></td>
-            <td rowspan="3"> :ledger:  </td>
+            <td rowspan="6"> :white_check_mark: </td>
+            <td rowspan="6"><b> <a href="https://app.pluralsight.com/channels/details/a7153976-e14a-428d-a0d3-dadc795c4676?s=1">Java Essential</a> </b></td>
+            <td rowspan="6"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java"> PluralSight/JavaSE-Skill-Path </a></td>
@@ -945,10 +980,31 @@ kyu (your current level) | Ability
             <td> --- </td>
             <td> --- </td>
         </tr>
-          <tr>
+           <tr>
             <td><b> not started </b></td>
-            <td> search </td>
-            <td><a href="https://www.udemy.com/courses/search/?q=java%20web&src=ukw"> Some course Java Web in Udemy <em>(view later)</em> </a></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/java-web-services/"> Udemy/Java-Web-Service </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+           <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/javawebservicespart2/"> Udemy/Java-Web-Service-Part-2 </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+           <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/selenium-real-time-examplesinterview-questions/"> Udemy/Selenium-WebDriver-with-Java </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1235,10 +1291,10 @@ kyu (your current level) | Ability
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Oracle </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/the-complete-oracle-sql-certification-course/"> Udemy/The-Complete-Oracel-SQL-Certificate-Course </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
          <tr>
@@ -1265,9 +1321,9 @@ kyu (your current level) | Ability
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> MySQL </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/"> Udemy/The-Ultimate-MySQL-Bootcamp </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1366,9 +1422,9 @@ kyu (your current level) | Ability
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> ElasticSearch </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/elasticsearch-complete-guide/"> Udemy/Complete-Guide-to-ElasticSearch </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
