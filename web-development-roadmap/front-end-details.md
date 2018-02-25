@@ -482,9 +482,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="5"> :black_square_button: </td>
-            <td rowspan="5"><b> Angular </b></td>
-            <td rowspan="5"> ---  </td>
+            <td rowspan="6"> :black_square_button: </td>
+            <td rowspan="6"><b> Angular </b></td>
+            <td rowspan="6"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=756150"> Udemy/AngularJ5-The-Complete-Guide </a></td>
