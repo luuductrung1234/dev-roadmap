@@ -835,7 +835,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Flexbox </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -845,7 +845,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Gradients </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -855,7 +855,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Grids </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -865,7 +865,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Rotate </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -875,7 +875,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Transform </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -885,7 +885,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Skew </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -895,7 +895,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Scale </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -905,7 +905,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Transitions </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
