@@ -487,7 +487,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="5"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=756150"> Udemy/Angular5-The-Complete-Guide </a></td>
+            <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=756150"> Udemy/AngularJ5-The-Complete-Guide </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -507,12 +507,19 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/angularjs-authentication-with-auth0/"> Udemy/AngularJS-Authentication:Secure-your-app-with-Auth0 </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/become-an-angularjs-developer"> Lynda/Become=AngularJS-Developer </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
-          <tr>
+        <tr>
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/become-an-angular-2-developer"> Lynda/Become-Angular(2+)-Developer </a></td>
@@ -525,7 +532,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/rxjs-reactive-angular-course/"> Udemy/Angular5-RxJs-Reactive-Programming </a></td>
+            <td><a href="https://www.udemy.com/rxjs-reactive-angular-course/"> Udemy/AngularJ5-RxJs-Reactive-Programming </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
