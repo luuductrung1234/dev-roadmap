@@ -842,10 +842,31 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+        <tr>
+            <td rowspan="4"> :white_check_mark: </td>
+            <td rowspan="4"><b> Grids </b></td>
+            <td rowspan="4"> :ledger:  </td>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://courses.wesbos.com/account/access/5a924c2e4ea3f06ee903cd44"> CSS Grid Video Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
          <tr>
-            <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> Gradients </b></td>
-            <td rowspan="1"> :ledger:  </td>
+            <td><b> on hold </b></td>
+            <td> reading </td>
+            <td><a href="https://css-tricks.com/snippets/css/complete-guide-grid/"> Complete Guide to CSS Grid </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> on hold </b></td>
+            <td> reading </td>
+            <td><a href="https://learncssgrid.com/#grid-container"> Learn CSS Grid </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -854,7 +875,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> Grids </b></td>
+            <td rowspan="1"><b> Gradients </b></td>
             <td rowspan="1"> :ledger:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
