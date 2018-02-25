@@ -895,7 +895,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
           <tr>
-            <td><b> complte </b></td>
+            <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://getbem.com/introduction/"> BEM Instruction </a></td>
             <td> --- </td>
