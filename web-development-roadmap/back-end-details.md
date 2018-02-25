@@ -444,9 +444,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="9"> :black_square_button: </td>
-            <td rowspan="9"><b> PHP Essential </b></td>
-            <td rowspan="9"> ---  </td>
+            <td rowspan="13"> :black_square_button: </td>
+            <td rowspan="13"><b> PHP Essential </b></td>
+            <td rowspan="13"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/php-developer"> Lymda/Become-PHP-Developer </a></td>
@@ -499,6 +499,34 @@ kyu (your current level) | Ability
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/complete-woocommerce-plugin-tutorial-for-wordpress-2017/"> Udemy/Complete-WooCommerce-plugin-tutorial-for-WordPress-2017 </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/code-dynamic-websites/"> Udemy/Practical-PHP-Master-the-basic-and-Code-Dynamic-Website </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/learn-object-oriented-php-by-building-a-complete-website/"> Udemy/Learn-OOP-PHP-by-building-a-complete-website </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/php-mysql-tutorial/"> Udemy/Beginner-PHP-and-MySQL-Tutorial </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/chat-system-in-php-ajax/"> Udemy/Building-a-Chat-System-in-AJAX-and-PHP </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -941,12 +969,19 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> <a href="https://app.pluralsight.com/channels/details/f09d68ec-d6d1-48fa-b7e1-4371cbd0308d?s=1">C# Essential</a> </b></td>
-            <td rowspan="1"> :ledger:  </td>
+            <td rowspan="2"> :white_check_mark: </td>
+            <td rowspan="2"><b> <a href="https://app.pluralsight.com/channels/details/f09d68ec-d6d1-48fa-b7e1-4371cbd0308d?s=1">C# Essential</a> </b></td>
+            <td rowspan="2"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/csharp"> PluralSight/CSharp-Skill-Path </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/selenium-qa/"> Udemy/Selenium-WebDriver-with-C#-for-beginners-and-Live-Testing-Site </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1058,9 +1093,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="3"> :black_square_button: </td>
-            <td rowspan="3"><b> Spring </b></td>
-            <td rowspan="3"> ---  </td>
+            <td rowspan="5"> :black_square_button: </td>
+            <td rowspan="5"><b> Spring </b></td>
+            <td rowspan="5"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/spring-hibernate-tutorial/learn/v4/overview"> Udemy/Spring-and-Hibernate-for-Beginner </a></td>
@@ -1071,6 +1106,20 @@ kyu (your current level) | Ability
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/become-a-full-stack-developer-with-spring-aws-and-stripe/"> Udemy/Become-a-Full-Stack-Developer-with-Spring-AWS-and-Stripe </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/spring-framework-video-tutorial/"> Udemy/Spring-framework-and-Dependency-Injection-for-beginner </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/spring-boot-getting-started/"> Udemy/Introduction-Spring-Boot </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
