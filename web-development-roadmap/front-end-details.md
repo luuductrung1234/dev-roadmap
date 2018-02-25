@@ -190,7 +190,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
         <tr>
-            <td><b>  on hold </b></td>
+            <td><b>  complete </b></td>
             <td> book </td>
             <td><a href="http://jsforcats.com/"> JavaScript for cat </a></td>
             <td> --- </td>
