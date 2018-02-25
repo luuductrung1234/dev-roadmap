@@ -245,8 +245,8 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         <tr>
             <td rowspan="2"> :white_check_mark: </td>
             <td rowspan="2"><b> CSS Advance </b></td>
-            <td rowspan="2"> :notebook:  </td>
-            <td><b> on hold </b></td>
+            <td rowspan="2"> :ledger:  </td>
+            <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/advanced-css-and-sass/learn/v4/"> Udemy/Advanced-CSS-and-SASS </a></td>
             <td><a href="https://github.com/ITComma/first-portfolio"> projects </a></td>
