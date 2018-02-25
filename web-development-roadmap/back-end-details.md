@@ -74,9 +74,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="2"> :black_square_button: </td>
-            <td rowspan="2"><b> Ruby on Rails </b></td>
-            <td rowspan="2"> ---  </td>
+            <td rowspan="3"> :black_square_button: </td>
+            <td rowspan="3"><b> Ruby on Rails </b></td>
+            <td rowspan="3"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/become-a-ruby-on-rails-developer"> Lymda/Become-RubyonRails-Developer </a></td>
@@ -88,6 +88,13 @@ kyu (your current level) | Ability
             <td> path </td>
             <td><a href="https://www.coursera.org/specializations/ruby-on-rails"> Coursera/RubyonRails-Web-Development </a></td>
             <td> certificate </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/learn-ruby-on-rails-from-scratch/"> Udemy/Learn Ruby on Rails from Scratch (free) </a></td>
+            <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
@@ -1037,12 +1044,19 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="2"> :black_square_button: </td>
-            <td rowspan="2"><b> Spring </b></td>
-            <td rowspan="2"> ---  </td>
+            <td rowspan="3"> :black_square_button: </td>
+            <td rowspan="3"><b> Spring </b></td>
+            <td rowspan="3"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href=""> Udemy/Spring-and-Hibernate-for-Beginner </a></td>
+            <td><a href="https://www.udemy.com/spring-hibernate-tutorial/learn/v4/overview"> Udemy/Spring-and-Hibernate-for-Beginner </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/become-a-full-stack-developer-with-spring-aws-and-stripe/"> Udemy/Become-a-Full-Stack-Developer-with-Spring-AWS-and-Stripe </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
