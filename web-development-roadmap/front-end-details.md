@@ -66,9 +66,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="11"> :white_check_mark: </td>
-            <td rowspan="11"><b> The Front-End Basic </b></td>
-            <td rowspan="11"> :ledger:  </td>
+            <td rowspan="12"> :white_check_mark: </td>
+            <td rowspan="12"><b> The Front-End Basic </b></td>
+            <td rowspan="12"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
@@ -142,6 +142,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> on hold </b></td>
             <td> bootcamp </td>
             <td><a href="https://courses.thinkful.com/gh-studentv2/course/0"> Thinkfull/Front-End-Development </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/emmet-start-coding-html-and-css-fast-and-easy/"> Udemy/EMMET-Faster-HTML-and CSS-workflow-Best-Tool-for-developer </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -321,9 +328,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="2"> :white_check_mark: </td>
-            <td rowspan="2"><b> SASS </b></td>
-            <td rowspan="2"> :ledger:  </td>
+            <td rowspan="3"> :white_check_mark: </td>
+            <td rowspan="3"><b> SASS </b></td>
+            <td rowspan="3"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> reading </td>
             <td><a href="https://sass-guidelin.es/"> SASS Guideline </a></td>
@@ -334,6 +341,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> on hold </b></td>
             <td> reading </td>
             <td><a href="http://thesassway.com/beginner"> The SASS way </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/sass-workflow/"> Udemy/SASS-Workflow </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -410,9 +424,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
          <tr>
-            <td rowspan="2"> :white_square_button: </td>
-            <td rowspan="2"><b> Advance JavaScript </b></td>
-            <td rowspan="2"> ---  </td>
+            <td rowspan="3"> :white_square_button: </td>
+            <td rowspan="3"><b> Advance JavaScript </b></td>
+            <td rowspan="3"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/advance-your-javascript-skills"> Lynda/Advance-your-JavaScript-Skills </a></td>
@@ -426,13 +440,20 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/code-your-first-game/"> Udemy/Code-your-First-Game:-Acade-Classic-in-JavaScript-Canvas </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
          <tr>
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> ES6d </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/essentials-in-javascript-es6/"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -461,12 +482,26 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="3"> :black_square_button: </td>
-            <td rowspan="3"><b> Angular </b></td>
-            <td rowspan="3"> ---  </td>
+            <td rowspan="5"> :black_square_button: </td>
+            <td rowspan="5"><b> Angular </b></td>
+            <td rowspan="5"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=756150"> Udemy/Angular5-The-Complete-Guide </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/angularjs-masterclass/"> Udemy/AngularJS Masterclass-deep-dive-and-understand-AngularJS </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/quickstart-angularjs/"> Udemy/QUickstart-AngularJS </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -597,9 +632,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> npm </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/npm-mastering-the-basics/"> Udemy/NPM-Mastering-the-basic </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -716,12 +751,19 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> webpack </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"><b> webpack </b></td>
+            <td rowspan="2"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/webpack-2-the-complete-developers-guide/"> Udemy/Webpack2-The-Complete-Developer's-Guide </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr> 
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/learn-webpack-2-from-scratch/"> Udemy/Learn-Webpack-2-from-scratch  </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
