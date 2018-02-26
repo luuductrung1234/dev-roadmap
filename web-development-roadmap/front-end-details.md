@@ -53,7 +53,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 ---
 
 
-<h2 style="color:red">Learn the Basic</h2>
+## Learn the Basic
 <table>
         <tr>
             <th>Status</th>
