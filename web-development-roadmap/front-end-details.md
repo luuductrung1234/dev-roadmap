@@ -1128,7 +1128,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Regex </b></td>
