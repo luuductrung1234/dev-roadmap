@@ -481,6 +481,23 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+        <tr>
+            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"><b> Conventions </b></td>
+            <td rowspan="2"> ---  </td>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="https://google.github.io/styleguide/jsguide.html"> Google JavaScript Code Styles </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="https://github.com/rwaldron/idiomatic.js"> Idiomatic JavaScript </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
 </table>
 
 > #### Choose framework
