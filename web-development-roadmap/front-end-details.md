@@ -1093,10 +1093,42 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> book </td>
-            <td><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjquery"> Learn JavaScript desgin pattern </a></td>
+            <td><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/"> Learn JavaScript desgin pattern </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
+         <tr>
+            <td rowspan="4"> :white_square_button: </td>
+            <td rowspan="4"><b> Creation Design Patterns </b></td>
+            <td rowspan="4"> :notebook:  </td>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript">Factory</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#prototypepatternjavascript">Prototype</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#mixinpatternjavascript">Mixin</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript">Singleton</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Regex </b></td>
