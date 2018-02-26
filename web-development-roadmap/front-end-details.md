@@ -190,7 +190,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td><b> not started </b></td>
+            <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://jstherightway.org/"> JS The Right Way </a></td>
             <td> --- </td>
