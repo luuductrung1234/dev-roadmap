@@ -197,14 +197,14 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> book </td>
             <td><a href="https://github.com/getify/You-Dont-Know-JS"> You don't know JS </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
           <tr>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> book </td>
             <td><a href="http://jqfundamentals.com/"> JQuery fundamental </a></td>
             <td> --- </td>
