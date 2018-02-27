@@ -173,9 +173,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="9"> :white_check_mark: </td>
-            <td rowspan="9"><b> JavaScript Basic </b></td>
-            <td rowspan="9"> :notebook:  </td>
+            <td rowspan="8"> :white_check_mark: </td>
+            <td rowspan="8"><b> JavaScript Basic </b></td>
+            <td rowspan="8"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Lynda/Improve-Your-JS-Language-Skills </a></td>
@@ -214,13 +214,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="https://drive.google.com/file/d/13nW5WReZ-B7DlkuKamWyDRusCuBhX4vo/view?usp=sharing"> JavaScript The Good Parts </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-        <tr>
-            <td><b> on hold </b></td>
-            <td> book </td>
-            <td><a href="http://jqfundamentals.com/"> JQuery fundamental </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -458,6 +451,15 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="https://drive.google.com/file/d/1u_4v1lYziLwIWQtjuTSO_Yasfj8g0xFT/view?usp=sharing"> The Secrects of JavaScript Ninja </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :white_square_button: </td>
+            <td rowspan="1"><b> Jquery </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> on hold </b></td>
+            <td> book </td>
+            <td><a href="http://jqfundamentals.com/"> JQuery fundamental </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
