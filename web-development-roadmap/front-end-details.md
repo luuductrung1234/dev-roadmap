@@ -1099,7 +1099,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="4"> :white_square_button: </td>
-            <td rowspan="4"><b> Creation Design Patterns </b></td>
+            <td rowspan="4"><b> Creational Design Patterns </b></td>
             <td rowspan="4"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> reading </td>
@@ -1125,6 +1125,103 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         	<td><b> not started </b></td>
             <td> reading </td>
             <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript">Singleton</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td rowspan="9"> :white_square_button: </td>
+            <td rowspan="9"><b> Structural Design Patterns </b></td>
+            <td rowspan="9"> :notebook:  </td>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#wrapperpatternjquery">Adapter</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://www.joezimjs.com/javascript/javascript-design-patterns-bridge/">Bridge</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://www.joezimjs.com/javascript/javascript-design-patterns-composite/">Composite</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#decoratorpatternjavascript">Decorator</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript">Facade</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailflyweight">Flyweight</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript">Module</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://www.joezimjs.com/javascript/javascript-design-patterns-proxy/">Proxy</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript">Revealing Modul</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+       	<tr>
+            <td rowspan="4"> :white_square_button: </td>
+            <td rowspan="4"><b> Behavioral Design Patterns </b></td>
+            <td rowspan="4"> :notebook:  </td>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://www.joezimjs.com/javascript/javascript-design-patterns-chain-of-responsibility/">Chain of Responsibility</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#commandpatternjavascript">Command</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#mediatorpatternjavascript">Mediator</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript">Observer</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
