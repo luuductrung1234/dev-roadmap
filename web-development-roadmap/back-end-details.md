@@ -181,6 +181,7 @@ kyu (your current level) | Ability
         </tr>
 </table>
 
+---
 
 ### Python
 <table>
@@ -428,7 +429,7 @@ kyu (your current level) | Ability
 </table>
 
 
-
+---
 
 
 ### PHP7
@@ -741,6 +742,7 @@ kyu (your current level) | Ability
 </table>
 
 
+---
 
 ### Node.js
 <table>
@@ -755,9 +757,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="3"> :black_square_button: </td>
-            <td rowspan="3"><b> Nodejs Essential </b></td>
-            <td rowspan="3"> ---  </td>
+            <td rowspan="4"> :black_square_button: </td>
+            <td rowspan="4"><b> Nodejs Essential </b></td>
+            <td rowspan="4"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=461160"> Udemy/Learn-and-Understand-Nodejs </a></td>
@@ -768,6 +770,13 @@ kyu (your current level) | Ability
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/the-complete-nodejs-developer-course-2/"> Udemy/The-Complete-Notejs-Developer-Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://nodeguide.com/beginner.html"> Felix's Nodejs beginner guide </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
