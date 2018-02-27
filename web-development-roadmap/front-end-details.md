@@ -963,7 +963,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
         <tr>
             <td rowspan="2"> :black_square_button: </td>
-            <td rowspan="2"><b> webpack </b></td>
+            <td rowspan="2"><b> Webpack </b></td>
             <td rowspan="2"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
@@ -980,7 +980,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> rollup </b></td>
+            <td rowspan="1"><b> Rollup </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
             <td> --- </td>
