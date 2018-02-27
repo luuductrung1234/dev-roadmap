@@ -234,7 +234,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
  </table>
 
 
-
+---
 
 ## Getting Deeper
 ### CSS
@@ -1054,7 +1054,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
 </table>
 
-
+---
 
 
 ## More
