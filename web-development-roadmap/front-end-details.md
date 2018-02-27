@@ -176,10 +176,10 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="8"> :white_check_mark: </td>
             <td rowspan="8"><b> JavaScript Basic </b></td>
             <td rowspan="8"> :notebook:  </td>
-            <td><b> on hold </b></td>
-            <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Lynda/Improve-Your-JS-Language-Skills </a></td>
-            <td> certificate </td>
+            <td><b> complete </b></td>
+            <td> reading </td>
+            <td><a href="http://jstherightway.org/"> JS The Right Way (Everything need to know about JS) </a></td>
+            <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
@@ -190,17 +190,17 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td><b> complete </b></td>
-            <td> reading </td>
-            <td><a href="http://jstherightway.org/"> JS The Right Way </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
             <td><b> on hold </b></td>
             <td> book </td>
             <td><a href="https://github.com/getify/You-Dont-Know-JS"> You don't know JS </a></td>
             <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+	    <td><b> on hold </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Lynda/Improve-Your-JS-Language-Skills </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
          <tr>
@@ -419,6 +419,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 </table>
 
 ### JavaScript
+<a href="http://jstherightway.org/">view for more info</a>
 <table>
          <tr>
             <th>Status</th>
@@ -451,15 +452,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="https://drive.google.com/file/d/1u_4v1lYziLwIWQtjuTSO_Yasfj8g0xFT/view?usp=sharing"> The Secrects of JavaScript Ninja </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr><td rowspan="1"> :white_square_button: </td>
-            <td rowspan="1"><b> Jquery </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> on hold </b></td>
-            <td> book </td>
-            <td><a href="http://jqfundamentals.com/"> JQuery fundamental </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -502,7 +494,56 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
 </table>
 
-> #### Choose framework
+> #### General Purpose Framework
+<table>
+	<tr><td rowspan="1"> :white_square_button: </td>
+            <td rowspan="1"><b> Jquery </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> on hold </b></td>
+            <td> book </td>
+            <td><a href="http://jqfundamentals.com/"> JQuery fundamental </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b>  YUI </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> ZeptoJS </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Dojo Toolkit </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Underscore.js </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+> ### MV* Framework
 <table>
          <tr>
             <th>Status</th>
@@ -514,9 +555,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Reconition</th>
             <th>Start Date</th>
         </tr>
-        <tr>
+	<tr>
             <td rowspan="6"> :black_square_button: </td>
-            <td rowspan="6"><b> Angular </b></td>
+            <td rowspan="6"><b> AngularJS </b></td>
             <td rowspan="6"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
@@ -569,7 +610,103 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+	<tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Angular </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Meteor </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Backbone.js </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Ember.js </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Knockout.js </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Spice.js </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Riot.js </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> CanJS </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
          <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Preact </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Ember JS </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+> #### Library Framework
+<table>
+	<tr>
             <td rowspan="6"> :black_square_button: </td>
             <td rowspan="6"><b> React </b></td>
             <td rowspan="6"> ---  </td>
@@ -624,9 +761,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-         <tr>
+	<tr>
             <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Preact </b></td>
+            <td rowspan="1"><b> Handlebars </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
             <td> --- </td>
@@ -634,9 +771,43 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-         <tr>
+	<tr>
             <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Ember JS </b></td>
+            <td rowspan="1"><b> Dust.js </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+> #### Animation Framework
+<table>
+	<tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> GSAP </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Velocity.js </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Bounce.js </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
             <td> --- </td>
@@ -848,6 +1019,42 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 </table>
+
+> #### Game Engines
+<table>
+	<tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> MelonJS </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> ImpactJS </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> COcos2d-HTML5 </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+</table>
+
+
 
 
 ## More
