@@ -962,7 +962,7 @@ kyu (your current level) | Ability
 </table>
 
 
-
+---
 
 
 ### C#
@@ -1021,6 +1021,7 @@ kyu (your current level) | Ability
 </table>
 
 
+---
 
 
 ### Java
@@ -1172,7 +1173,7 @@ kyu (your current level) | Ability
 </table>
 
 
-
+---
 
 
 ### Go
@@ -1198,6 +1199,9 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
  </table>
+
+---
+
 
 ## Technical
 <table>
@@ -1264,9 +1268,6 @@ kyu (your current level) | Ability
 </table>
 
 
-
-
-
 ### Web Server
 <table>
          <tr>
@@ -1312,6 +1313,7 @@ kyu (your current level) | Ability
 </table>
 
 
+
 ### Authentication
 <table>
          <tr>
@@ -1345,6 +1347,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
 </table>
+
 
 
 ### Storage
@@ -1510,7 +1513,7 @@ kyu (your current level) | Ability
         </tr>
 </table>
 
-
+---
 
 ## Up you Game further!
 ### Search Engines
