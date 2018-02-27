@@ -463,7 +463,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> ES6d </b></td>
+            <td rowspan="1"><b> ES6 </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
@@ -1222,6 +1222,30 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         	<td><b> not started </b></td>
             <td> reading </td>
             <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript">Observer</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+		      <tr>
+            <td rowspan="3"> :white_square_button: </td>
+            <td rowspan="3"><b> MV* Design Patterns </b></td>
+            <td rowspan="3"> :notebook:  </td>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvc">MVC Pattern</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvp">MVP Pattern</a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+        	<td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvvm">MVVM Pattern</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
