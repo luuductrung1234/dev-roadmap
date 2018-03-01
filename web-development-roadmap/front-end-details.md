@@ -213,7 +213,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         <tr>
             <td><b> not started </b></td>
             <td> book </td>
-            <td><a href="https://drive.google.com/file/d/13nW5WReZ-B7DlkuKamWyDRusCuBhX4vo/view?usp=sharing"> JavaScript The Good Parts </a></td>
+            <td><a href="https://drive.google.com/file/d/13nW5WReZ-B7DlkuKamWyDRusCuBhX4vo/view?usp=sharing"> JavaScript The Good Parts </a> - (<a href="https://www.lynda.com/course-tutorials/Good-Parts-JavaScript-Web/">video course</a>)</td>
             <td> --- </td>
             <td> --- </td>
         </tr>
