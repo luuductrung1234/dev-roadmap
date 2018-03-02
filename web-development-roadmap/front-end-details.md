@@ -352,7 +352,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
         <tr>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/sass-workflow/"> Udemy/SASS-Workflow </a></td>
             <td> --- </td>
