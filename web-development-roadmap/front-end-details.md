@@ -139,7 +139,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
         <tr>
-            <td><b> not started </b></td>
+            <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/emmet-start-coding-html-and-css-fast-and-easy/"> Udemy/EMMET-Faster-HTML-and CSS-workflow-Best-Tool-for-developer </a></td>
             <td> --- </td>
