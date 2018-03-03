@@ -173,9 +173,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="8"> :white_check_mark: </td>
-            <td rowspan="8"><b> JavaScript Basic </b></td>
-            <td rowspan="8"> :notebook:  </td>
+            <td rowspan="9"> :white_check_mark: </td>
+            <td rowspan="9"><b> JavaScript Basic </b></td>
+            <td rowspan="9"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://jstherightway.org/"> JS The Right Way (Everything need to know about JS) </a></td>
