@@ -196,6 +196,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+	 <tr>
+            <td><b> on hold </b></td>
+            <td> reading </td>
+            <td><a href="https://davidwalsh.name/fixing-coercion"> Fixing Coercion </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
 	<tr>
 	    <td><b> on hold </b></td>
             <td> path </td>
