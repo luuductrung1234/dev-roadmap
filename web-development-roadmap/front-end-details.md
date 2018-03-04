@@ -118,17 +118,17 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
           <tr>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer"> Lynda/Become-a-Front-End-Web-Developer </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
           <tr>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/become-a-web-designer"> Lynda/Become-a-Web-Designer </a></td>
-            <td> --- </td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
         <tr>
