@@ -66,9 +66,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="12"> :white_check_mark: </td>
-            <td rowspan="12"><b> The Front-End Basic </b></td>
-            <td rowspan="12"> :ledger:  </td>
+            <td rowspan="14"> :white_check_mark: </td>
+            <td rowspan="14"><b> The Front-End Basic </b></td>
+            <td rowspan="14"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
@@ -143,6 +143,20 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> course </td>
             <td><a href="https://www.udemy.com/emmet-start-coding-html-and-css-fast-and-easy/"> Udemy/EMMET-Faster-HTML-and CSS-workflow-Best-Tool-for-developer </a></td>
             <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.lynda.com/Web-Web-Foundations-tutorials/Web-Technology-Fundamentals/158666-2.html"> Lynda/Web-Development-Foundation:-Web-Technologies </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.lynda.com/cPanel-tutorials/Managing-Hosted-Web-Site/94250-2.html"> Lynda/Learning-how-to-manage-a-Hosted-Website </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
          <tr>
@@ -229,6 +243,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> book </td>
             <td><a href="https://bonsaiden.github.io/JavaScript-Garden/"> JavaScript Garden </a></td>
             <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html"> Lynda/JavaScript-Function </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
          <tr>
