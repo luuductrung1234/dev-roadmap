@@ -279,7 +279,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 	<tr>
             <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="http://www.jibbering.com/faq/faq_notes/closures.html#clExCon"> Closures </a></td>
+            <td><a href="http://www.jibbering.com/faq/notes/closures/"> Closures </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
