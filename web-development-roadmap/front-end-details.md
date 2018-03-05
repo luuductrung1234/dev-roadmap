@@ -187,9 +187,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="11"> :white_check_mark: </td>
-            <td rowspan="11"><b> JavaScript Basic </b></td>
-            <td rowspan="11"> :notebook:  </td>
+            <td rowspan="13"> :white_check_mark: </td>
+            <td rowspan="13"><b> JavaScript Basic </b></td>
+            <td rowspan="13"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://jstherightway.org/"> JS The Right Way (Everything need to know about JS) </a></td>
@@ -227,7 +227,14 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 	<tr>
             <td><b> on hold </b></td>
             <td> course </td>
-            <td><a href="https://courses.wesbos.com/account/access/5a9cab4aa91cf7264a85eee0"> 30 Day Vanilla JavaScript Coding Challenge </a></td>
+            <td><a href="https://courses.wesbos.com/account/access/5a9cab4aa91cf7264a85eee0"> Webbos/30-Day-Vanilla-JS-Coding-Challenge </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://watchandcode.com/courses/enrolled/60264"> Practical JavaScript </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -474,9 +481,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
          <tr>
-            <td rowspan="3"> :white_square_button: </td>
-            <td rowspan="3"><b> Advance JavaScript </b></td>
-            <td rowspan="3"> ---  </td>
+            <td rowspan="4"> :white_square_button: </td>
+            <td rowspan="4"><b> Advance JavaScript </b></td>
+            <td rowspan="4"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/advance-your-javascript-skills"> Lynda/Advance-your-JavaScript-Skills </a></td>
@@ -494,6 +501,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="https://drive.google.com/file/d/1u_4v1lYziLwIWQtjuTSO_Yasfj8g0xFT/view?usp=sharing"> The Secrects of JavaScript Ninja </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://classroom.udacity.com/courses/ud109"> Udacity/Asynchronous-JavaScript-Requests </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -756,9 +770,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 > #### Library Framework
 <table>
 	<tr>
-            <td rowspan="7"> :black_square_button: </td>
-            <td rowspan="7"><b> React </b></td>
-            <td rowspan="7"> ---  </td>
+            <td rowspan="8"> :black_square_button: </td>
+            <td rowspan="8"><b> React </b></td>
+            <td rowspan="8"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/react-redux/learn/v4/"> Udemy/Modern-React-with-Redux </a></td>
@@ -797,6 +811,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> reading </td>
             <td><a href="https://reactjs.org/tutorial/tutorial.html"> ReactJS Tutorial </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://courses.wesbos.com/account/access/5a9cae5ca91cf7264a85eeeb"> Webbos/Learn-Redux </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1144,7 +1165,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="4"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> course </td>
-            <td><a href="https://courses.wesbos.com/account/access/5a924c2e4ea3f06ee903cd44"> CSS Grid Video Course </a></td>
+            <td><a href="https://courses.wesbos.com/account/access/5a924c2e4ea3f06ee903cd44"> Webbos/CSS-Grid </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
