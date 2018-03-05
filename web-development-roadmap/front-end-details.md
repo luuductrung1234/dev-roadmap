@@ -742,9 +742,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 > #### Library Framework
 <table>
 	<tr>
-            <td rowspan="6"> :black_square_button: </td>
-            <td rowspan="6"><b> React </b></td>
-            <td rowspan="6"> ---  </td>
+            <td rowspan="7"> :black_square_button: </td>
+            <td rowspan="7"><b> React </b></td>
+            <td rowspan="7"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/react-redux/learn/v4/"> Udemy/Modern-React-with-Redux </a></td>
