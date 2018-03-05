@@ -225,6 +225,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://courses.wesbos.com/account/access/5a9cab4aa91cf7264a85eee0"> 30 Day Vanilla JavaScript Coding Challenge </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
 	    <td><b> complete </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Lynda/Improve-Your-JS-Language-Skills </a></td>
@@ -491,12 +498,19 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> ES6 </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"><b> ES6 </b></td>
+            <td rowspan="2"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/essentials-in-javascript-es6/"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://laracasts.com/series/es6-cliffsnotes"> ES2015 Crash Course </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
