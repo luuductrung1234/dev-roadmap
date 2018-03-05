@@ -445,9 +445,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="13"> :black_square_button: </td>
-            <td rowspan="13"><b> PHP Essential </b></td>
-            <td rowspan="13"> ---  </td>
+            <td rowspan="14"> :black_square_button: </td>
+            <td rowspan="14"><b> PHP Essential </b></td>
+            <td rowspan="14"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/php-developer"> Lymda/Become-PHP-Developer </a></td>
@@ -528,6 +528,13 @@ kyu (your current level) | Ability
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/chat-system-in-php-ajax/"> Udemy/Building-a-Chat-System-in-AJAX-and-PHP </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://phpenthusiast.com/object-oriented-php-tutorials"> PHPEnthusiast/Learn-Object-Oriented-PHP </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
