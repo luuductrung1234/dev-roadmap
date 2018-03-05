@@ -187,9 +187,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="13"> :white_check_mark: </td>
-            <td rowspan="13"><b> JavaScript Basic </b></td>
-            <td rowspan="13"> :notebook:  </td>
+            <td rowspan="11"> :white_check_mark: </td>
+            <td rowspan="11"><b> JavaScript Basic </b></td>
+            <td rowspan="11"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://jstherightway.org/"> JS The Right Way (Everything need to know about JS) </a></td>
@@ -204,23 +204,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td><b> complete </b></td>
-            <td> reading </td>
-            <td><a href="http://helephant.com/2008/08/17/how-javascript-objects-work/"> How JavaScript objects work </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
             <td><b> on hold </b></td>
             <td> book </td>
             <td><a href="https://github.com/getify/You-Dont-Know-JS"> You don't know JS </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	 <tr>
-            <td><b> on hold </b></td>
-            <td> reading </td>
-            <td><a href="https://davidwalsh.name/fixing-coercion"> Fixing Coercion </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -277,6 +263,30 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="3"> :white_check_mark: </td>
+            <td rowspan="3"><b> JavaScript Feartures </b></td>
+            <td rowspan="3"> :notebook:  </td>
+            <td><b> complete </b></td>
+            <td> reading </td>
+            <td><a href="http://helephant.com/2008/08/17/how-javascript-objects-work/"> How JavaScript objects work </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> complete </b></td>
+            <td> reading </td>
+            <td><a href="http://www.jibbering.com/faq/faq_notes/closures.html#clExCon"> Closures </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> on hold </b></td>
+            <td> reading </td>
+            <td><a href="https://davidwalsh.name/fixing-coercion"> Fixing Coercion </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
