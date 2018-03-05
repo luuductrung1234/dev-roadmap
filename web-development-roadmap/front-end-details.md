@@ -779,6 +779,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="https://reactjs.org/tutorial/tutorial.html"> ReactJS Tutorial </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
         <tr>
             <td><b> not started </b></td>
             <td> course </td>
