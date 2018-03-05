@@ -144,9 +144,9 @@ kyu (your current level) | Ability
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Create a profile Explore relevant open source projects. Make a habit of looking under the hood of projects you make. Create and contribute to open source projects </b></td>
             <td rowspan="1"> :ledger:  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#">---</a></td>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://www.pixelearth.net/pages/project-specification"> Web Project Specification Documents </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
