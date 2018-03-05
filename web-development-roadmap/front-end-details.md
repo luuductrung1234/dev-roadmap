@@ -522,9 +522,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="2"> :black_square_button: </td>
-            <td rowspan="2"><b> ES6 </b></td>
-            <td rowspan="2"> ---  </td>
+            <td rowspan="3"> :black_square_button: </td>
+            <td rowspan="3"><b> ES6 </b></td>
+            <td rowspan="3"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/essentials-in-javascript-es6/"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
@@ -535,6 +535,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://laracasts.com/series/es6-cliffsnotes"> ES2015 Crash Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://www.ecma-international.org/ecma-262/8.0/index.html"> ECMA-262 </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
