@@ -259,6 +259,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> certificate </td>
             <td> --- </td>
         </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/share/1esq6/"> Udemy/The-complete-JavaScript-Course:-Build-Realworld-Project </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
          <tr>
             <td><b> --- </b></td>
             <td> --- </td>
