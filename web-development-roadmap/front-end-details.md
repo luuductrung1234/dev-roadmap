@@ -268,7 +268,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="3"> :white_check_mark: </td>
-            <td rowspan="3"><b> JavaScript Feartures </b></td>
+            <td rowspan="3"><b> JavaScript Specs </b></td>
             <td rowspan="3"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
@@ -284,7 +284,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td><b> on hold </b></td>
+            <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="https://davidwalsh.name/fixing-coercion"> Fixing Coercion </a></td>
             <td> --- </td>
