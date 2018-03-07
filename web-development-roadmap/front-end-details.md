@@ -290,6 +290,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+         <tr>
+            <td><b> complete </b></td>
+            <td> reading </td>
+            <td><a href="https://kipalog.com/posts/Object--Function--Method--Constructor-in-JavaScript"> Object, function, methodm, constructor in JavaScript </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
 	<tr>
             <td><b> complete </b></td>
             <td> reading </td>
