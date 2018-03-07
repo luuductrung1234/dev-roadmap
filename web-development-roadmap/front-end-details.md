@@ -66,9 +66,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="14"> :white_check_mark: </td>
-            <td rowspan="14"><b> The Front-End Basic </b></td>
-            <td rowspan="14"> :ledger:  </td>
+            <td rowspan="13"> :white_check_mark: </td>
+            <td rowspan="13"><b> The Front-End Basic </b></td>
+            <td rowspan="13"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
@@ -78,7 +78,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="http://marksheet.io/"> MarkSheet </a></td>
+            <td><a href="https://marksheet.io/"> MarkSheet </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -128,13 +128,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/become-a-web-designer"> Lynda/Become-a-Web-Designer </a></td>
-            <td> certificate </td>
-            <td> --- </td>
-        </tr>
-        <tr>
-            <td><b> on hold </b></td>
-            <td> path </td>
-            <td><a href="https://www.coursera.org/specializations/web-design"> Coursera/Web-Design-for-Everybody (basic web development and coding) </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
