@@ -187,9 +187,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="12"> :white_check_mark: </td>
-            <td rowspan="12"><b> JavaScript Basic </b></td>
-            <td rowspan="12"> :notebook:  </td>
+            <td rowspan="13"> :white_check_mark: </td>
+            <td rowspan="13"><b> JavaScript Basic </b></td>
+            <td rowspan="13"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://jstherightway.org/"> JS The Right Way (Everything need to know about JS) </a></td>
@@ -215,6 +215,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> course </td>
             <td><a href="https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html"> Lynda/JavaScript-Function </a></td>
             <td> certificate </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> on hold </b></td>
+            <td> path </td>
+            <td><a href="https://app.pluralsight.com/paths/skills/javascript"> PluralSight/JavaScript-Path </a></td>
+            <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
