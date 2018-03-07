@@ -211,6 +211,20 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html"> Lynda/JavaScript-Function </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/share/1esq6/"> Udemy/The-complete-JavaScript-Course:-Build-Realworld-Project </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://courses.wesbos.com/account/access/5a9cab4aa91cf7264a85eee0"> Webbos/30-Day-Vanilla-JS-Coding-Challenge </a></td>
@@ -224,18 +238,18 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-	<tr>
-	    <td><b> complete </b></td>
-            <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Lynda/Improve-Your-JS-Language-Skills </a></td>
-            <td><a href="https://www.linkedin.com/in/l%C6%B0u-%C4%91%E1%BB%A9c-trung-08b414117/"> certificate </a> </td>
-            <td> --- </td>
-        </tr>
          <tr>
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/understand-javascript/learn/v4/"> Udemy/JavaScript-understand-the-weird-part </a></td>
             <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+	    <td><b> complete </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Lynda/Improve-Your-JS-Language-Skills </a></td>
+            <td><a href="https://www.linkedin.com/in/l%C6%B0u-%C4%91%E1%BB%A9c-trung-08b414117/"> certificate </a> </td>
             <td> --- </td>
         </tr>
         <tr>
@@ -249,20 +263,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="https://bonsaiden.github.io/JavaScript-Garden/"> JavaScript Garden </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html"> Lynda/JavaScript-Function </a></td>
-            <td> certificate </td>
-            <td> --- </td>
-        </tr>
-        <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://www.udemy.com/share/1esq6/"> Udemy/The-complete-JavaScript-Course:-Build-Realworld-Project </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
