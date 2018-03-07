@@ -274,9 +274,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="3"> :white_check_mark: </td>
-            <td rowspan="3"><b> JavaScript Specs </b></td>
-            <td rowspan="3"> :notebook:  </td>
+            <td rowspan="4"> :white_check_mark: </td>
+            <td rowspan="4"><b> JavaScript Specs </b></td>
+            <td rowspan="4"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://helephant.com/2008/08/17/how-javascript-objects-work/"> How JavaScript objects work </a></td>
