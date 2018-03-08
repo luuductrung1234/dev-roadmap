@@ -65,11 +65,11 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Reconition</th>
             <th>Start Date</th>
         </tr>
-        <tr>
-            <td rowspan="13"> :white_check_mark: </td>
-            <td rowspan="13"><b> The Front-End Basic </b></td>
-            <td rowspan="13"> :ledger:  </td>
-            <td><b> complete </b></td>
+         <tr>
+            <td rowspan="6"> :white_check_mark: </td>
+            <td rowspan="6"><b> HTML/CSS Basic </b></td>
+            <td rowspan="6"> :ledger:  </td>
+ 	    <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
             <td> --- </td>
@@ -82,100 +82,31 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-          <tr>
-            <td><b> on hold </b></td>
-            <td> reading </td>
-            <td><a href="https://developer.mozilla.org/en-US/docs/Learn"> MDN Web Tutorials </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-        <tr>
-            <td><b> on hold </b></td>
-            <td> reading </td>
-            <td><a href="https://bento.io/home"> Bento.io personal progress </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-        <tr>
+	<tr>
             <td><b> on hold </b></td>
             <td> reading </td>
             <td><a href="https://learn-the-web.algonquindesign.ca/"> Learn the web </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
-         <tr>
-            <td><b> on hold </b></td>
-            <td> coding </td>
-            <td><a href="https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification"> FCC/front-End-Certification </a></td>
-            <td> certificate </td>
-            <td> 28-Jan-2018 </td>
-        </tr>
-         <tr>
-            <td><b> complete </b></td>
-            <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-web-developer"> Lynda/Become-a-Web-Developer </a></td>
-            <td><a href="https://www.linkedin.com/in/l%C6%B0u-%C4%91%E1%BB%A9c-trung-08b414117/"> certificate </a></td>
+	<tr>
+	    <td><b> complete </b></td>
+            <td> reading </td>
+            <td><a href="https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855"> Everything you need to know about CSS variable </a></td>
             <td> --- </td>
-        </tr>
-          <tr>
-            <td><b> on hold </b></td>
-            <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer"> Lynda/Become-a-Front-End-Web-Developer </a></td>
-            <td> certificate </td>
             <td> --- </td>
-        </tr>
-          <tr>
-            <td><b> on hold </b></td>
-            <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-web-designer"> Lynda/Become-a-Web-Designer </a></td>
-            <td> certificate </td>
-            <td> --- </td>
-        </tr>
-        <tr>
+	</tr>
+	<tr>
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/emmet-start-coding-html-and-css-fast-and-easy/"> Udemy/EMMET-Faster-HTML-and CSS-workflow-Best-Tool-for-developer </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
-         <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://www.lynda.com/Web-Web-Foundations-tutorials/Web-Technology-Fundamentals/158666-2.html"> Lynda/Web-Development-Foundation:-Web-Technologies </a></td>
-            <td> certificate </td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://www.lynda.com/cPanel-tutorials/Managing-Hosted-Web-Site/94250-2.html"> Lynda/Learning-how-to-manage-a-Hosted-Website </a></td>
-            <td> certificate </td>
-            <td> --- </td>
-        </tr>
-         <tr>
+	<tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-        <tr>
-            <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> HTML Basic </b></td>
-            <td rowspan="1"> :ledger:  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> CSS Basic </b></td>
-            <td rowspan="1"> :ledger:  </td>
-            <td><b> complete </b></td>
-            <td> reading </td>
-            <td><a href="https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855"> Everything you need to know about CSS variable </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -242,7 +173,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 	    <td><b> complete </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Lynda/Improve-Your-JS-Language-Skills </a></td>
-            <td><a href="https://www.linkedin.com/in/l%C6%B0u-%C4%91%E1%BB%A9c-trung-08b414117/"> certificate </a> </td>
+            <td><a href="https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx"> certificate </a> </td>
             <td> --- </td>
         </tr>
         <tr>
@@ -294,6 +225,79 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="https://davidwalsh.name/fixing-coercion"> Fixing Coercion </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td rowspan="10"> :white_check_mark: </td>
+            <td rowspan="10"><b> The Front-End Basic </b></td>
+            <td rowspan="10"> :ledger:  </td>
+            <td><b> complete </b></td>
+            <td> reading </td>
+            <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> on hold </b></td>
+            <td> reading </td>
+            <td><a href="https://developer.mozilla.org/en-US/docs/Learn"> MDN Web Tutorials </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> on hold </b></td>
+            <td> reading </td>
+            <td><a href="https://bento.io/home"> Bento.io personal progress </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> on hold </b></td>
+            <td> coding </td>
+            <td><a href="https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification"> FCC/front-End-Certification </a></td>
+            <td> certificate </td>
+            <td> 28-Jan-2018 </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.lynda.com/Web-Web-Foundations-tutorials/Web-Technology-Fundamentals/158666-2.html"> Lynda/Web-Development-Foundation:-Web-Technologies </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> complete </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-web-developer"> Lynda/Become-a-Web-Developer </a></td>
+            <td><a href="https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx"> certificate </a></td>
+            <td> --- </td>
+        </tr>
+          <tr>
+            <td><b> on hold </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer"> Lynda/Become-a-Front-End-Web-Developer </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> on hold </b></td>
+            <td> path </td>
+            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-web-designer"> Lynda/Become-a-Web-Designer </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.lynda.com/cPanel-tutorials/Managing-Hosted-Web-Site/94250-2.html"> Lynda/Learning-how-to-manage-a-Hosted-Website </a></td>
+            <td> certificate </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
