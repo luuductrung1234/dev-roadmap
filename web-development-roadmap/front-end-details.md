@@ -222,7 +222,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td><b> complete </b></td>
+            <td><b> on hold </b></td>
             <td> reading </td>
             <td><a href="http://www.jibbering.com/faq/notes/closures/"> Closures </a></td>
             <td> --- </td>
