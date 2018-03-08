@@ -118,9 +118,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="12"> :white_check_mark: </td>
-            <td rowspan="12"><b> JavaScript Basic </b></td>
-            <td rowspan="12"> :notebook:  </td>
+            <td rowspan="13"> :white_check_mark: </td>
+            <td rowspan="13"><b> JavaScript Basic </b></td>
+            <td rowspan="13"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://jstherightway.org/"> JS The Right Way (Everything need to know about JS) </a></td>
@@ -142,41 +142,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td><b> on hold </b></td>
-            <td> path </td>
-            <td><a href="https://app.pluralsight.com/paths/skills/javascript"> PluralSight/JavaScript-Path </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-        <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://www.udemy.com/share/1esq6/"> Udemy/The-complete-JavaScript-Course:-Build-Realworld-Project </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
-            <td><b> on hold </b></td>
-            <td> course </td>
-            <td><a href="https://courses.wesbos.com/account/access/5a9cab4aa91cf7264a85eee0"> Webbos/30-Day-Vanilla-JS-Coding-Challenge </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td><b> on hold </b></td>
-            <td> course </td>
-            <td><a href="https://watchandcode.com/courses/enrolled/60264"> Practical JavaScript </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td><b> on hold </b></td>
-            <td> course </td>
-            <td><a href="https://www.udemy.com/understand-javascript/learn/v4/"> Udemy/JavaScript-understand-the-weird-part </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
 	    <td><b> complete </b></td>
             <td> path </td>
             <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Lynda/Improve-Your-JS-Language-Skills </a></td>
@@ -194,6 +159,48 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="https://bonsaiden.github.io/JavaScript-Garden/"> JavaScript Garden </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> book </td>
+            <td><a href="https://eloquentjavascript.net/"> Eloquent JavaScript </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> on hold </b></td>
+            <td> path </td>
+            <td><a href="https://app.pluralsight.com/paths/skills/javascript"> PluralSight/JavaScript-Path </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://courses.wesbos.com/account/access/5a9cab4aa91cf7264a85eee0"> Webbos/30-Day-Vanilla-JS-Coding-Challenge </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://watchandcode.com/courses/enrolled/60264"> Practical JavaScript </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/understand-javascript/learn/v4/"> Udemy/JavaScript-understand-the-weird-part </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://www.udemy.com/share/1esq6/"> Udemy/The-complete-JavaScript-Course:-Build-Realworld-Project </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
