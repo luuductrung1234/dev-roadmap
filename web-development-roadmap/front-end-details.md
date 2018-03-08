@@ -66,9 +66,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
          <tr>
-            <td rowspan="6"> :white_check_mark: </td>
-            <td rowspan="6"><b> HTML/CSS Basic </b></td>
-            <td rowspan="6"> :ledger:  </td>
+            <td rowspan="7"> :white_check_mark: </td>
+            <td rowspan="7"><b> HTML/CSS Basic </b></td>
+            <td rowspan="7"> :ledger:  </td>
  	    <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
@@ -82,6 +82,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+	<tr>
+	    <td><b> complete </b></td>
+            <td> reading </td>
+            <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>	
 	<tr>
             <td><b> on hold </b></td>
             <td> reading </td>
@@ -229,16 +236,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td rowspan="10"> :white_check_mark: </td>
-            <td rowspan="10"><b> The Front-End Basic </b></td>
-            <td rowspan="10"> :ledger:  </td>
-            <td><b> complete </b></td>
-            <td> reading </td>
-            <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-        <tr>
+            <td rowspan="9"> :white_check_mark: </td>
+            <td rowspan="9"><b> The Front-End Basic </b></td>
+            <td rowspan="9"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> reading </td>
             <td><a href="https://developer.mozilla.org/en-US/docs/Learn"> MDN Web Tutorials </a></td>
