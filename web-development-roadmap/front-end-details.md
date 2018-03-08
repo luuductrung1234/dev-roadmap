@@ -155,17 +155,17 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-         <tr>
-            <td><b> not started </b></td>
-            <td> book </td>
-            <td><a href="https://bonsaiden.github.io/JavaScript-Garden/"> JavaScript Garden </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
 	<tr>
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="https://eloquentjavascript.net/"> Eloquent JavaScript </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> book </td>
+            <td><a href="https://bonsaiden.github.io/JavaScript-Garden/"> JavaScript Garden </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
