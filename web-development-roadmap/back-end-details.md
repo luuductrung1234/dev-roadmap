@@ -255,9 +255,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Django </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"><b> Django </b></td>
+            <td rowspan="2"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/"> Python-and-Django-FullStack-Web-Dev-Bootcamp </a></td>
