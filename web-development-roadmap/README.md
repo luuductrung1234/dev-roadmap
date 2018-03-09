@@ -4,7 +4,7 @@
 >- Choose your own path
 >- Looking through technologies and terminologies of this path
 >- Go into details
->- Follow the table list (contain online article, book, course, roadmap,....)
+>- Follow the table list (contain online article, book, course, roadmap,....) or fork it for your own
 >- Earn knowledge (make your own project, apply what you learnt to real world)
 
 
