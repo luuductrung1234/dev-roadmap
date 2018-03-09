@@ -1174,9 +1174,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Flexbox </b></td>
             <td rowspan="1"> :ledger:  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> challenge </td>
+            <td><a href="http://bit.ly/1Trwkq6"> Flexbox Froggy </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
