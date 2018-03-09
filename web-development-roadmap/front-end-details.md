@@ -1586,4 +1586,21 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+	<tr>
+            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"><b> The Front-End Advance </b></td>
+            <td rowspan="2"> :notebook:  </td>
+            <td><b> --- </b></td>
+            <td> source </td>
+            <td><a href="http://bit.ly/2oClzd4"> Github/Frontend-Case-Studies </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+	    <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
 </table>
