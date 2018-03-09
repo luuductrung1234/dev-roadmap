@@ -66,47 +66,40 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
          <tr>
-            <td rowspan="7"> :white_check_mark: </td>
-            <td rowspan="7"><b> HTML/CSS Basic </b></td>
-            <td rowspan="7"> :ledger:  </td>
+            <td rowspan="6"> :white_check_mark: </td>
+            <td rowspan="6"><b> HTML/CSS Basic </b></td>
+            <td rowspan="6"> :ledger:  </td>
  	    <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
+            <td><a href="http://bit.ly/2DCaOgN"> Shayhowe </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="https://marksheet.io/"> MarkSheet </a></td>
+            <td><a href="http://bit.ly/2Fn2Dth"> MarkSheet </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
-	<tr>
-	    <td><b> complete </b></td>
-            <td> reading </td>
-            <td><a href="https://learn.shayhowe.com/"> Shayhowe </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>	
 	<tr>
             <td><b> on hold </b></td>
             <td> reading </td>
-            <td><a href="https://learn-the-web.algonquindesign.ca/"> Learn the web </a></td>
+            <td><a href="http://bit.ly/2c9BtDr"> Learn the web </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
 	    <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855"> Everything you need to know about CSS variable </a></td>
+            <td><a href="http://bit.ly/2HU0WRF"> Everything you need to know about CSS variable </a></td>
             <td> --- </td>
             <td> --- </td>
 	</tr>
 	<tr>
             <td><b> complete </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/emmet-start-coding-html-and-css-fast-and-easy/"> Udemy/EMMET-Faster-HTML-and CSS-workflow-Best-Tool-for-developer </a></td>
+            <td><a href="http://bit.ly/2mY0vz1"> Udemy/EMMET-Faster-HTML-and CSS-workflow-Best-Tool-for-developer </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -123,84 +116,84 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="13"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="http://jstherightway.org/"> JS The Right Way (Everything need to know about JS) </a></td>
+            <td><a href="http://bit.ly/1gfAaCZ"> JS The Right Way (Everything need to know about JS) </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b>  complete </b></td>
             <td> book </td>
-            <td><a href="http://jsforcats.com/"> JavaScript for cat </a></td>
+            <td><a href="http://bit.ly/1hRs697"> JavaScript for cat </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> on hold </b></td>
             <td> book </td>
-            <td><a href="https://github.com/getify/You-Dont-Know-JS"> You don't know JS </a></td>
+            <td><a href="http://bit.ly/1maWvl5"> You don't know JS </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
 	    <td><b> complete </b></td>
             <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-javascript-language-skills"> Lynda/Improve-Your-JS-Language-Skills </a></td>
-            <td><a href="https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx"> certificate </a> </td>
+            <td><a href="http://bit.ly/2DcuVR6"> Lynda/Improve-Your-JS-Language-Skills </a></td>
+            <td><a href="http://bit.ly/2aEtxLB"> certificate </a> </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
             <td> book </td>
-            <td><a href="https://drive.google.com/file/d/13nW5WReZ-B7DlkuKamWyDRusCuBhX4vo/view?usp=sharing"> JavaScript The Good Parts </a> - (<a href="https://www.lynda.com/course-tutorials/Good-Parts-JavaScript-Web/604268-2.html">video course</a>)</td>
+            <td><a href="http://bit.ly/2Da22oJ"> JavaScript The Good Parts </a> - (<a href="http://bit.ly/2ibIKez">video course</a>)</td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> not started </b></td>
             <td> book </td>
-            <td><a href="https://eloquentjavascript.net/"> Eloquent JavaScript </a></td>
+            <td><a href="http://bit.ly/2IgM2oY"> Eloquent JavaScript </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> not started </b></td>
             <td> book </td>
-            <td><a href="https://bonsaiden.github.io/JavaScript-Garden/"> JavaScript Garden </a></td>
+            <td><a href="http://bit.ly/2Dco5eI"> JavaScript Garden </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> on hold </b></td>
             <td> path </td>
-            <td><a href="https://app.pluralsight.com/paths/skills/javascript"> PluralSight/JavaScript-Path </a></td>
+            <td><a href="http://bit.ly/2zTHGm1"> PluralSight/JavaScript-Path </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> on hold </b></td>
             <td> course </td>
-            <td><a href="https://courses.wesbos.com/account/access/5a9cab4aa91cf7264a85eee0"> Webbos/30-Day-Vanilla-JS-Coding-Challenge </a></td>
+            <td><a href="http://bit.ly/2FvMqOg"> Webbos/30-Day-Vanilla-JS-Coding-Challenge </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> on hold </b></td>
             <td> course </td>
-            <td><a href="https://watchandcode.com/courses/enrolled/60264"> Practical JavaScript </a></td>
+            <td><a href="http://bit.ly/2DcuhTT"> Practical JavaScript </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> on hold </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/understand-javascript/learn/v4/"> Udemy/JavaScript-understand-the-weird-part </a></td>
+            <td><a href="http://bit.ly/2FnzgHj"> Udemy/JavaScript-understand-the-weird-part </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/share/1esq6/"> Udemy/The-complete-JavaScript-Course:-Build-Realworld-Project </a></td>
+            <td><a href="http://bit.ly/2G9iqsL"> Udemy/The-complete-JavaScript-Course:-Build-Realworld-Project </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -217,28 +210,28 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="4"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="http://helephant.com/2008/08/17/how-javascript-objects-work/"> How JavaScript objects work </a></td>
+            <td><a href="http://bit.ly/2HlA7F8"> How JavaScript objects work </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> on hold </b></td>
             <td> reading </td>
-            <td><a href="http://www.jibbering.com/faq/notes/closures/"> Closures </a></td>
+            <td><a href="http://bit.ly/2oVmjdo/"> Closures </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="https://kipalog.com/posts/Object--Function--Method--Constructor-in-JavaScript"> Object, function, methodm, constructor in JavaScript </a></td>
+            <td><a href="http://bit.ly/2p0W84u"> Object, function, methodm, constructor in JavaScript </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="https://davidwalsh.name/fixing-coercion"> Fixing Coercion </a></td>
+            <td><a href="http://bit.ly/2HiGXuL"> Fixing Coercion </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -248,56 +241,56 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="9"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> reading </td>
-            <td><a href="https://developer.mozilla.org/en-US/docs/Learn"> MDN Web Tutorials </a></td>
+            <td><a href="https://mzl.la/2qPELG7"> MDN Web Tutorials </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> on hold </b></td>
             <td> reading </td>
-            <td><a href="https://bento.io/home"> Bento.io personal progress </a></td>
+            <td><a href="http://bit.ly/2ttEETz"> Bento.io personal progress </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> on hold </b></td>
             <td> coding </td>
-            <td><a href="https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification"> FCC/front-End-Certification </a></td>
+            <td><a href="http://bit.ly/2HgIe5O"> FCC/front-End-Certification </a></td>
             <td> certificate </td>
             <td> 28-Jan-2018 </td>
         </tr>
 	<tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.lynda.com/Web-Web-Foundations-tutorials/Web-Technology-Fundamentals/158666-2.html"> Lynda/Web-Development-Foundation:-Web-Technologies </a></td>
+            <td><a href="http://bit.ly/2IdNHLG"> Lynda/Web-Development-Foundation:-Web-Technologies </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> complete </b></td>
             <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-web-developer"> Lynda/Become-a-Web-Developer </a></td>
-            <td><a href="https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx"> certificate </a></td>
+            <td><a href="http://bit.ly/2p0e4w8"> Lynda/Become-a-Web-Developer </a></td>
+            <td><a href="http://bit.ly/2aEtxLB"> certificate </a></td>
             <td> --- </td>
         </tr>
           <tr>
             <td><b> on hold </b></td>
             <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer"> Lynda/Become-a-Front-End-Web-Developer </a></td>
+            <td><a href="http://bit.ly/1Vih6rv"> Lynda/Become-a-Front-End-Web-Developer </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> on hold </b></td>
             <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-web-designer"> Lynda/Become-a-Web-Designer </a></td>
+            <td><a href="http://bit.ly/2bAEH6Z"> Lynda/Become-a-Web-Designer </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.lynda.com/cPanel-tutorials/Managing-Hosted-Web-Site/94250-2.html"> Lynda/Learning-how-to-manage-a-Hosted-Website </a></td>
+            <td><a href="http://bit.ly/2FzLtIj"> Lynda/Learning-how-to-manage-a-Hosted-Website </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
