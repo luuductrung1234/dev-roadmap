@@ -16,7 +16,7 @@ Welcome to developer roadmap, this repository contain the learning **path/roadma
    *  [Machine Learning](https://github.com/luuductrung1234/dev-roadmap/tree/master/machine-learning-roadmap)
   
 * ### [Web Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/web-development-roadmap)
-* ### [Mobile Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/mobile-development-roadmap)
+* ### [Mobile Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/mobile-development-roadmap) `not ready`
 * ### [Game Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/game-development-roadmap) `not ready`
 * ### [Design]()              `not ready`
 
