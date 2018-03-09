@@ -320,20 +320,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="2"> :white_check_mark: </td>
-            <td rowspan="2"><b> CSS Advance </b></td>
-            <td rowspan="2"> :ledger:  </td>
+            <td rowspan="1"> :white_check_mark: </td>
+            <td rowspan="1"><b> CSS Advance </b></td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/advanced-css-and-sass/learn/v4/"> Udemy/Advanced-CSS-and-SASS </a></td>
-            <td><a href="https://github.com/ITComma/first-portfolio"> projects </a></td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td><b> not-started </b></td>
-            <td> path </td>
-            <td><a href="https://www.coursera.org/specializations/website-development"> Coursera/Responsive-Web-Development-and-Design </a></td>
-            <td> certificate </td>
+            <td><a href="http://bit.ly/2DaZ4Aw"> Udemy/Advanced-CSS-and-SASS </a></td>
+            <td><a href="http://bit.ly/2FFcFpa"> projects </a></td>
             <td> --- </td>
         </tr>
 </table>
@@ -356,7 +349,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> tutorials </td>
-            <td><a href="https://foundation.zurb.com/learn/tutorials.html"> Zurb Foundation framework tutorial </a></td>
+            <td><a href="http://bit.ly/2Fqftmx"> Zurb Foundation framework tutorial </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -410,21 +403,21 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="3"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> reading </td>
-            <td><a href="https://sass-guidelin.es/"> SASS Guideline </a></td>
+            <td><a href="http://bit.ly/2eb1hTm"> SASS Guideline </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> on hold </b></td>
             <td> reading </td>
-            <td><a href="http://thesassway.com/beginner"> The SASS way </a></td>
+            <td><a href="http://bit.ly/2FtkxGT"> The SASS way </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> on hold </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/sass-workflow/"> Udemy/SASS-Workflow </a></td>
+            <td><a href="http://bit.ly/2HjumYo"> Udemy/SASS-Workflow </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -454,35 +447,35 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="5"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> source code </td>
-            <td><a href="https://github.com/postcss/postcss"> Github/PostCSS </a></td>
+            <td><a href="http://bit.ly/1IYvMU2"> Github/PostCSS </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
             <td> read </td>
-            <td><a href="https://webdesign.tutsplus.com/series/postcss-deep-dive--cms-889"> PostCSS Deep Dive </a></td>
+            <td><a href="http://bit.ly/2tsHmch"> PostCSS Deep Dive </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3apost+css%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"> Lynda/PostCSS-the-first-look </a></td>
+            <td><a href="http://bit.ly/2p55ZGz"> Lynda/PostCSS-the-first-look </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.lynda.com/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html?srchtrk=index%3a6%0alinktypeid%3a2%0aq%3apost+css%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"> Lynda/Building-respnsive-single-page-design-with-postcss </a></td>
+            <td><a href="http://bit.ly/2oZopIH"> Lynda/Building-respnsive-single-page-design-with-postcss </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
           <tr>
             <td><b> not started </b></td>
             <td> resouce </td>
-            <td><a href="https://github.com/jjaderg/awesome-postcss"> Github/Awesome=PostCSS </a></td>
+            <td><a href="http://bit.ly/29R9lUZ"> Github/Awesome=PostCSS </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -507,28 +500,28 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="4"> ---  </td>
             <td><b> not started </b></td>
             <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/advance-your-javascript-skills"> Lynda/Advance-your-JavaScript-Skills </a></td>
+            <td><a href="http://bit.ly/2FmMsfJ"> Lynda/Advance-your-JavaScript-Skills </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/code-your-first-game/"> Udemy/Code-your-First-Game:-Acade-Classic-in-JavaScript-Canvas </a></td>
+            <td><a href="http://bit.ly/1Ue8L26"> Udemy/Code-your-First-Game:-Acade-Classic-in-JavaScript-Canvas </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
           <tr>
             <td><b> not started </b></td>
             <td> book </td>
-            <td><a href="https://drive.google.com/file/d/1u_4v1lYziLwIWQtjuTSO_Yasfj8g0xFT/view?usp=sharing"> The Secrects of JavaScript Ninja </a></td>
+            <td><a href="http://bit.ly/2FmMHYb"> The Secrects of JavaScript Ninja </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://classroom.udacity.com/courses/ud109"> Udacity/Asynchronous-JavaScript-Requests </a></td>
+            <td><a href="http://bit.ly/2G7BW8X"> Udacity/Asynchronous-JavaScript-Requests </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -538,21 +531,21 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="3"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/essentials-in-javascript-es6/"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
+            <td><a href="http://bit.ly/2Fk0lLo"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://laracasts.com/series/es6-cliffsnotes"> ES2015 Crash Course </a></td>
+            <td><a href="http://bit.ly/2nkSy5n"> ES2015 Crash Course </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://www.ecma-international.org/ecma-262/8.0/index.html"> ECMA-262 </a></td>
+            <td><a href="http://bit.ly/2DdEFdT"> ECMA-262 </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -562,7 +555,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/understanding-typescript/"> Udemy/Understand-TypeScript </a></td>
+            <td><a href="http://bit.ly/2tpnC96"> Udemy/Understand-TypeScript </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -572,14 +565,14 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="2"> ---  </td>
             <td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="https://google.github.io/styleguide/jsguide.html"> Google JavaScript Code Styles </a></td>
+            <td><a href="http://bit.ly/2x5lUKD"> Google JavaScript Code Styles </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="https://github.com/rwaldron/idiomatic.js"> Idiomatic JavaScript </a></td>
+            <td><a href="http://bit.ly/1IECwYH"> Idiomatic JavaScript </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -592,7 +585,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> ---  </td>
             <td><b> on hold </b></td>
             <td> book </td>
-            <td><a href="http://jqfundamentals.com/"> JQuery fundamental </a></td>
+            <td><a href="http://bit.ly/1g3FRPp"> JQuery fundamental </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -652,42 +645,42 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="6"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=756150"> Udemy/AngularJ5-The-Complete-Guide </a></td>
+            <td><a href="http://bit.ly/2nupmJ5"> Udemy/AngularJ5-The-Complete-Guide </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/angularjs-masterclass/"> Udemy/AngularJS Masterclass-deep-dive-and-understand-AngularJS </a></td>
+            <td><a href="http://bit.ly/2DdWj1e"> Udemy/AngularJS Masterclass-deep-dive-and-understand-AngularJS </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/quickstart-angularjs/"> Udemy/QUickstart-AngularJS </a></td>
+            <td><a href="http://bit.ly/2FBZOUn"> Udemy/QUickstart-AngularJS </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/angularjs-authentication-with-auth0/"> Udemy/AngularJS-Authentication:Secure-your-app-with-Auth0 </a></td>
+            <td><a href="http://bit.ly/2oXBqTG"> Udemy/AngularJS-Authentication:Secure-your-app-with-Auth0 </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> not started </b></td>
             <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/become-an-angularjs-developer"> Lynda/Become=AngularJS-Developer </a></td>
+            <td><a href="http://bit.ly/2Ftbvte"> Lynda/Become=AngularJS-Developer </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
             <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/become-an-angular-2-developer"> Lynda/Become-Angular(2+)-Developer </a></td>
+            <td><a href="http://bit.ly/2HisHSW"> Lynda/Become-Angular(2+)-Developer </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -697,7 +690,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/rxjs-reactive-angular-course/"> Udemy/AngularJ5-RxJs-Reactive-Programming </a></td>
+            <td><a href="http://bit.ly/2Hm8CLB"> Udemy/AngularJ5-RxJs-Reactive-Programming </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -803,56 +796,56 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="8"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/react-redux/learn/v4/"> Udemy/Modern-React-with-Redux </a></td>
+            <td><a href="http://bit.ly/2tuu0vT"> Udemy/Modern-React-with-Redux </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/react-redux-tutorial/learn/v4/"> Udemy/Advance-React-and-Redux </a></td>
+            <td><a href="http://bit.ly/2Fop4y6"> Udemy/Advance-React-and-Redux </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/"> Udemy/The-Complate-React-Native-and-Redux-Course </a></td>
+            <td><a href="http://bit.ly/2GatOVy"> Udemy/The-Complate-React-Native-and-Redux-Course </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
           <tr>
             <td><b> not started </b></td>
             <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/become-a-react-developer"> Lymda/Become-a-React-Developer </a></td>
+            <td><a href="http://bit.ly/2FueLF3"> Lymda/Become-a-React-Developer </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> not started </b></td>
             <td> path </td>
-            <td><a href="https://www.lynda.com/learning-paths/Web/improve-your-react-skills"> Lymda/Improve-react-skill </a></td>
+            <td><a href="http://bit.ly/2FvNfXm"> Lymda/Improve-react-skill </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="https://reactjs.org/tutorial/tutorial.html"> ReactJS Tutorial </a></td>
+            <td><a href="http://bit.ly/2pi7Smg"> ReactJS Tutorial </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://courses.wesbos.com/account/access/5a9cae5ca91cf7264a85eeeb"> Webbos/Learn-Redux </a></td>
+            <td><a href="http://bit.ly/2tsHXux"> Webbos/Learn-Redux </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/graphql-with-react-course/"> Udemy/GraphQL-with-React-The-Complete-Guide </a></td>
+            <td><a href="http://bit.ly/2DdX8ak"> Udemy/GraphQL-with-React-The-Complete-Guide </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -862,7 +855,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/"> Udemy/VueJS2-The-Complete-Guide </a></td>
+            <td><a href="http://bit.ly/2Ftmkvk"> Udemy/VueJS2-The-Complete-Guide </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -950,7 +943,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/npm-mastering-the-basics/"> Udemy/NPM-Mastering-the-basic </a></td>
+            <td><a href="http://bit.ly/2FqgvPr"> Udemy/NPM-Mastering-the-basic </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1072,14 +1065,14 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="2"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/webpack-2-the-complete-developers-guide/"> Udemy/Webpack2-The-Complete-Developer's-Guide </a></td>
+            <td><a href="http://bit.ly/2p3G2Xw"> Udemy/Webpack2-The-Complete-Developer's-Guide </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr> 
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/learn-webpack-2-from-scratch/"> Udemy/Learn-Webpack-2-from-scratch  </a></td>
+            <td><a href="http://bit.ly/2FAhGz1"> Udemy/Learn-Webpack-2-from-scratch  </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1193,21 +1186,21 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="4"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> course </td>
-            <td><a href="https://courses.wesbos.com/account/access/5a924c2e4ea3f06ee903cd44"> Webbos/CSS-Grid </a></td>
+            <td><a href="http://bit.ly/2p2HQ35"> Webbos/CSS-Grid </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> on hold </b></td>
             <td> reading </td>
-            <td><a href="https://css-tricks.com/snippets/css/complete-guide-grid/"> Complete Guide to CSS Grid </a></td>
+            <td><a href="http://bit.ly/1UM0gSd"> Complete Guide to CSS Grid </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> on hold </b></td>
             <td> reading </td>
-            <td><a href="https://learncssgrid.com/#grid-container"> Learn CSS Grid </a></td>
+            <td><a href="http://bit.ly/2FC0sRN"> Learn CSS Grid </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1305,21 +1298,21 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td><b> complete </b></td>
             <td> video </td>
-            <td><a href="https://itcomma-my.sharepoint.com/:f:/p/luuductrung/Evd9r1UUf_VMjgLumtbuUegB4RCYZVxEpRQTgkmxnNYFfA?e=9WbWTT"> CSS architecture with BEM </a></td>
+            <td><a href="http://bit.ly/2p2IGwL"> CSS architecture with BEM </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
           <tr>
             <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="http://getbem.com/introduction/"> BEM Instruction </a></td>
+            <td><a href="http://bit.ly/2nWFpBp"> BEM Instruction </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
            <tr>
             <td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://bradfrost.com/blog/post/atomic-web-design/"> Anatomic Design <em>(optional)</em> </a></td>
+            <td><a href="http://bit.ly/1AfjRtS"> Anatomic Design <em>(optional)</em> </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1407,7 +1400,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> book </td>
-            <td><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/"> Learn JavaScript desgin pattern </a></td>
+            <td><a href="http://bit.ly/1OwAMCp"> Learn JavaScript desgin pattern </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1417,28 +1410,28 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="4"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript">Factory</a></td>
+            <td><a href="http://bit.ly/2IgQ9RW">Factory</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#prototypepatternjavascript">Prototype</a></td>
+            <td><a href="http://bit.ly/1l1qxqz">Prototype</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#mixinpatternjavascript">Mixin</a></td>
+            <td><a href="http://bit.ly/1xl1Uhe">Mixin</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript">Singleton</a></td>
+            <td><a href="http://bit.ly/1htIVpK">Singleton</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1448,63 +1441,63 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="9"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#wrapperpatternjquery">Adapter</a></td>
+            <td><a href="http://bit.ly/2G7AF1R">Adapter</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://www.joezimjs.com/javascript/javascript-design-patterns-bridge/">Bridge</a></td>
+            <td><a href="http://bit.ly/2p0huyN">Bridge</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://www.joezimjs.com/javascript/javascript-design-patterns-composite/">Composite</a></td>
+            <td><a href="http://bit.ly/2tvnFQU">Composite</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#decoratorpatternjavascript">Decorator</a></td>
+            <td><a href="http://bit.ly/2FFCQfk">Decorator</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript">Facade</a></td>
+            <td><a href="http://bit.ly/2FAr45Q">Facade</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailflyweight">Flyweight</a></td>
+            <td><a href="http://bit.ly/2HgKwSs">Flyweight</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript">Module</a></td>
+            <td><a href="http://bit.ly/1F9H72j">Module</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://www.joezimjs.com/javascript/javascript-design-patterns-proxy/">Proxy</a></td>
+            <td><a href="http://bit.ly/2FCYpwY">Proxy</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript">Revealing Modul</a></td>
+            <td><a href="http://bit.ly/NrGQR2">Revealing Modul</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1514,28 +1507,28 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="4"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://www.joezimjs.com/javascript/javascript-design-patterns-chain-of-responsibility/">Chain of Responsibility</a></td>
+            <td><a href="http://bit.ly/2G897JH">Chain of Responsibility</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#commandpatternjavascript">Command</a></td>
+            <td><a href="http://bit.ly/2tqyRhE">Command</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#mediatorpatternjavascript">Mediator</a></td>
+            <td><a href="http://bit.ly/1fj9yLH">Mediator</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript">Observer</a></td>
+            <td><a href="http://bit.ly/2oWmipL">Observer</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1545,21 +1538,21 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="3"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvc">MVC Pattern</a></td>
+            <td><a href="http://bit.ly/2oXCHKs">MVC Pattern</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvp">MVP Pattern</a></td>
+            <td><a href="http://bit.ly/2IepEwm">MVP Pattern</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
         	<td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvvm">MVVM Pattern</a></td>
+            <td><a href="http://bit.ly/2G7DvUn">MVVM Pattern</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1569,7 +1562,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aregular+expression%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"> Lynda/Learning Regular Expression </a></td>
+            <td><a href="http://bit.ly/2HkN4yR"> Lynda/Learning Regular Expression </a></td>
             <td> certificate </td>
             <td> --- </td>
         </tr>
