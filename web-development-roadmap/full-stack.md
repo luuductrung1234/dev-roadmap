@@ -69,7 +69,7 @@ _(this path is general for front-end and back-end)_
             <td> --- </td>
         </tr>
         <tr>
-            <td rowspan="13"> :black_square_button: </td>
+            <td rowspan="13"> :white_square_button: </td>
             <td rowspan="13"><b> FullStack </b></td>
             <td rowspan="13"> ---  </td>
             <td><b> on hold </b></td>
