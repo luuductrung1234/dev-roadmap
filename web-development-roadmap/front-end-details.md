@@ -1586,6 +1586,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
+</table>
+
+<table>
 	<tr>
             <td rowspan="2"> :black_square_button: </td>
             <td rowspan="2"><b> The Front-End Advance </b></td>
@@ -1602,5 +1605,5 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><a href="#"> --- </a></td>
             <td> --- </td>
             <td> --- </td>
-        </tr>
+        </tr>	
 </table>
