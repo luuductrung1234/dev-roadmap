@@ -217,7 +217,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 	<tr>
             <td><b> on hold </b></td>
             <td> reading </td>
-            <td><a href="http://bit.ly/2oVmjdo/"> Closures </a></td>
+            <td><a href="http://bit.ly/2tEKGB0"> Closures </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
