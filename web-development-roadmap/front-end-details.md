@@ -144,7 +144,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         <tr>
             <td><b> not started </b></td>
             <td> book </td>
-            <td><a href="http://bit.ly/2Da22oJ"> JavaScript The Good Parts </a> - (<a href="http://bit.ly/2ibIKez">video course</a>)</td>
+            <td><a href="http://bit.ly/2Da22oJ"> JavaScript The Good Parts </a> - (<a href="http://bit.ly/2ibIKez">video course</a>) - (<a href="http://bit.ly/2p9V3YL">notes</a>)</td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -217,7 +217,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 	<tr>
             <td><b> on hold </b></td>
             <td> reading </td>
-	    <td><a href="http://bit.ly/2FwbQvh"> understand Closures part1 </a> <a href="http://bit.ly/2FBsU7q">part2</a></td>
+	    <td><a href="http://bit.ly/2FwbQvh"> understand Closures part1 </a> - <a href="http://bit.ly/2FBsU7q">part2</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
