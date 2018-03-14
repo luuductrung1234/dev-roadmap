@@ -205,9 +205,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="5"> :white_check_mark: </td>
-            <td rowspan="5"><b> JavaScript Specs </b></td>
-            <td rowspan="5"> :notebook:  </td>
+            <td rowspan="4"> :white_check_mark: </td>
+            <td rowspan="4"><b> JavaScript Specs </b></td>
+            <td rowspan="4"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/2HlA7F8"> How JavaScript objects work </a></td>
@@ -217,14 +217,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 	<tr>
             <td><b> on hold </b></td>
             <td> reading </td>
-            <td><a href="http://bit.ly/2tEKGB0"> Closures </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
-            <td><b> complete </b></td>
-            <td> reading </td>
-            <td><a href="http://bit.ly/2FwbQvh"> My Closure explaination (p1) </a></td>
+	    <td><a href="http://bit.ly/2FwbQvh"> understand Closures part1 </a> <a href="http://bit.ly/2FBsU7q">part2</a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
