@@ -1486,13 +1486,20 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> MongoDB </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"><b> MongoDB </b></td>
+            <td rowspan="2"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/learn-mongodb-leading-nosql-database-from-scratch/learn/v4/"> Udemy/Learn-MongoDB-Leading-NoSQL-from-sratch </a></td>
             <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="http://bit.ly/1ir8U0A"> MongoDb University </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
          <tr>
