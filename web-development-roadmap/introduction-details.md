@@ -56,6 +56,16 @@ kyu (your current level) | Ability
             <td>Certificate</td>
             <td>1-Fer-2018</td>
         </tr>
+         <tr>
+            <td rowspan="1"> :white_check_mark: </td>
+            <td rowspan="1"><b> Vim </b></td>
+            <td rowspan="1"> :notebook: </td>
+            <td><b> --- </b></td>
+            <td> cheat sheet </td>
+            <td><a href="http://bit.ly/2tPQY0D"> VSCodeVim/Command-Roadmap </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
         <tr>
             <td rowspan="3"> :white_check_mark: </td>
             <td rowspan="3"><b> Git - Version Control </b></td>
