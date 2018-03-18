@@ -128,7 +128,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td><b> on hold </b></td>
+            <td><b> complete </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2FnzgHj"> Udemy/JavaScript-understand-the-weird-part </a></td>
             <td> --- </td>
