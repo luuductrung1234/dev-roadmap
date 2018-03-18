@@ -529,7 +529,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="3"> :black_square_button: </td>
             <td rowspan="3"><b> ES6 </b></td>
             <td rowspan="3"> ---  </td>
-            <td><b> not started </b></td>
+            <td><b> complete </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2Fk0lLo"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
             <td> --- </td>
