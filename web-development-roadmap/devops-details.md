@@ -33,7 +33,7 @@ kyu (your current level) | Ability
  :blue_book:  `Judan` | have recognition from a nother people that you're an expert of this topic, people talk about you when they learn/discuss/search this topic |
 ---
 
-![](https://i.imgur.com/wpj5pqk.png)
+![](https://i.imgur.com/pyg9mH1.png)
 
 
 
