@@ -390,7 +390,7 @@ Courses | Duration | Effort | Prerequisites
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | Python, programming experience
 [LAFF: Programming for Correctness](https://www.edx.org/course/laff-programming-correctness-utaustinx-ut-p4c-14-01x) | 7 weeks | 6 hours/week | linear algebra
-[Introduction to Parallel Programming](https://www.udacity.com/course/intro-to-parallel-programming--cs344) | 12 weeks | - | C, algorithms
+[Introduction to Parallel Programming](https://www.udacity.com/course/intro-to-parallel-programming--cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) | 12 weeks | - | C, algorithms
 [Parallel, Concurrent and Distributed Programming in Java specialization](https://www.coursera.org/specializations/java-programming) | 12 weeks | 6-8 hours/week | The Specialization is targeted at an audience that is already familiar with sequential programming in Java, including a basic knowledge of Java 8 lambdas.
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week | software engineering in Java
 [Software Design and Architecture specialization](https://www.coursera.org/specializations/software-design-architecture) | 3 – 5 weeks | 6-8 hours/week | Familiarity with object-oriented programming structures is essential. Basic Java programming knowledge is expected. Assignments and quizzes will require coding in Java. The capstone application will require you to use Android Studio, an integrated development environment.
