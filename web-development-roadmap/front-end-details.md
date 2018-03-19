@@ -357,9 +357,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Bootstrap </b></td>
             <td rowspan="1"> :notebook:  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="http://bit.ly/28IH8Sj"> Udemy/The-complete-Bootstrap-master-class </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
