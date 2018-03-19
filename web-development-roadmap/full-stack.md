@@ -69,16 +69,23 @@ _(this path is general for front-end and back-end)_
             <td> --- </td>
         </tr>
         <tr>
-            <td rowspan="13"> :white_square_button: </td>
-            <td rowspan="13"><b> FullStack </b></td>
-            <td rowspan="13"> ---  </td>
+            <td rowspan="14"> :white_square_button: </td>
+            <td rowspan="14"><b> FullStack </b></td>
+            <td rowspan="14"> ---  </td>
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2tqEzjA"> Udemy/The-Complete-Web-Developer-Course2.0 </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
-           <tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="http://bit.ly/2HMisGP"> Udemy/The-Complete-2018-Full-Stack-Development-Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
             <td><b> on hold </b></td>
             <td> bootcamp </td>
             <td><a href="http://bit.ly/2DcagNg"> Learnco/FullStack-Community-Bootcamp </a></td>
@@ -95,6 +102,13 @@ _(this path is general for front-end and back-end)_
          <tr>
             <td><b> not started </b></td>
             <td> course </td>
+            <td><a href="http://bit.ly/2DdMiRz"> Udemy/Thoughtful-Web-Development-Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
             <td><a href="http://bit.ly/2DdaS5k"> Udemy/The-Web-Developer-BootCamp </a></td>
             <td> --- </td>
             <td> --- </td>
@@ -103,13 +117,6 @@ _(this path is general for front-end and back-end)_
             <td><b> not stated </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2FtwNHf"> Udemy/The-Advance-Web-Developer-BootCamp </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-          <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="http://bit.ly/2DdMiRz"> Udemy/Thoughtful-Web-Development-Course </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
