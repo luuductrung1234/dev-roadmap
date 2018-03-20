@@ -543,10 +543,10 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td><b> not started </b></td>
+            <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/2GFcPe9"> Lynda/Learning-ECMAScript-6 </a></td>
-            <td> --- </td>
+            <td> <a href="http://bit.ly/2aEtxLB"> certificate </a> </td>
             <td> --- </td>
         </tr>
 	<tr>
