@@ -243,9 +243,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td rowspan="11"> :white_check_mark: </td>
-            <td rowspan="11"><b> The Front-End Basic </b></td>
-            <td rowspan="11"> :ledger:  </td>
+            <td rowspan="12"> :white_check_mark: </td>
+            <td rowspan="12"><b> The Front-End Basic </b></td>
+            <td rowspan="12"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> reading </td>
             <td><a href="https://mzl.la/2qPELG7"> MDN Web Tutorials </a></td>
@@ -312,6 +312,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2FUVSew"> PluralSight/Get-started-with-HTML-Boilerplate </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b>  on hold </b></td>
+            <td> course </td>
+            <td><a href="http://bit.ly/2pwYZT5"> PluralSight/Using-THe-Chrome-Developer-Tool </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
