@@ -592,9 +592,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="7"> :black_square_button: </td>
-            <td rowspan="7"><b> ES6 </b></td>
-            <td rowspan="7"> ---  </td>
+            <td rowspan="6"> :black_square_button: </td>
+            <td rowspan="6"><b> ES6 </b></td>
+            <td rowspan="6"> ---  </td>
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2Fk0lLo"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
@@ -626,13 +626,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> on hold </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/2FOVNNs"> Babelio/Learn-ES2015 </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
-            <td><b> on hold </b></td>
-            <td> reading </td>
-            <td><a href="http://bit.ly/2IHwf2G"> Core JS </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
