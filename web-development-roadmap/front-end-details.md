@@ -647,9 +647,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 	<tr><td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Underscore.js </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="http://bit.ly/2HPy6B1"> Lynda/Learning-Undersore.js </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
