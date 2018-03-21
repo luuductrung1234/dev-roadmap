@@ -1029,9 +1029,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> npm </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2FqgvPr"> Udemy/NPM-Mastering-the-basic </a></td>
@@ -1188,12 +1188,26 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> RequireJS / AMD </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="3"> :white_check_mark: </td>
+            <td rowspan="3"><b> RequireJS / AMD </b></td>
+            <td rowspan="3"> :notebook:  </td>
 	    <td><b> not started </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/1heDM2c"> RequireJS/Why-AMD </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	    <tr>
+	    <td><b> complete </b></td>
+            <td> reading </td>
+            <td><a href="http://bit.ly/2GoIgJ0"> JS Module Guide P1 </a> - <a href="http://bit.ly/2ptMGHF"> JS Module Guide P2 </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+	    <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
