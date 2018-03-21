@@ -561,9 +561,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
          <tr>
-            <td rowspan="4"> :white_square_button: </td>
+            <td rowspan="4"> :white_check_mark: </td>
             <td rowspan="4"><b> Advance JavaScript </b></td>
-            <td rowspan="4"> ---  </td>
+            <td rowspan="4"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="http://bit.ly/2FmMsfJ"> Lynda/Advance-your-JavaScript-Skills </a></td>
@@ -592,9 +592,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="6"> :black_square_button: </td>
-            <td rowspan="6"><b> ES6 </b></td>
-            <td rowspan="6"> ---  </td>
+            <td rowspan="7"> :white_check_mark: </td>
+            <td rowspan="7"><b> ES6 </b></td>
+            <td rowspan="7"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2Fk0lLo"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
@@ -619,6 +619,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/2DdEFdT"> ECMA-262 </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> book </td>
+            <td><a href="http://bit.ly/2jFLeRf"> Exploring ES6 </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -667,9 +674,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 
 > #### General Purpose Framework
 <table>
-	<tr><td rowspan="1"> :white_square_button: </td>
+	<tr><td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Jquery </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> book </td>
             <td><a href="http://bit.ly/1g3FRPp"> JQuery fundamental </a></td>
@@ -703,9 +710,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-	<tr><td rowspan="1"> :black_square_button: </td>
+	<tr><td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Underscore.js </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2HPy6B1"> Lynda/Learning-Undersore.js </a></td>
@@ -1046,9 +1053,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> npm scripts </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -1144,9 +1151,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"> :white_check_mark: </td>
             <td rowspan="2"><b> Webpack </b></td>
-            <td rowspan="2"> ---  </td>
+            <td rowspan="2"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2p3G2Xw"> Udemy/Webpack2-The-Complete-Developer's-Guide </a></td>
@@ -1181,12 +1188,12 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> RequireJS / AMD </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td rowspan="1"> :notebook:  </td>
+	    <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://bit.ly/1heDM2c"> RequireJS/Why-AMD </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
