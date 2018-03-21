@@ -630,7 +630,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td><b> on hold </b></td>
+            <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/2FOVNNs"> Babelio/Learn-ES2015 </a></td>
             <td> --- </td>
