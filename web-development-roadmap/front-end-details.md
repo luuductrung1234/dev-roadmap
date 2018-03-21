@@ -111,9 +111,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="14"> :white_check_mark: </td>
-            <td rowspan="14"><b> JavaScript Basic </b></td>
-            <td rowspan="14"> :notebook:  </td>
+            <td rowspan="13"> :white_check_mark: </td>
+            <td rowspan="13"><b> JavaScript Basic </b></td>
+            <td rowspan="13"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/1gfAaCZ"> JS The Right Way (Everything need to know about JS) </a></td>
@@ -166,13 +166,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="http://bit.ly/2Dco5eI"> JavaScript Garden </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
-            <td><b> on hold </b></td>
-            <td> path </td>
-            <td><a href="http://bit.ly/2zTHGm1"> PluralSight/JavaScript-Path </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1427,12 +1420,19 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :white_square_button: </td>
-            <td rowspan="1"><b> Design Patterns </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="2"> :white_square_button: </td>
+            <td rowspan="2"><b> Design Patterns </b></td>
+            <td rowspan="2"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="http://bit.ly/1OwAMCp"> Learn JavaScript desgin pattern </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> on hold </b></td>
+            <td> path </td>
+            <td><a href="http://bit.ly/2zTHGm1"> PluralSight/JavaScript-Path </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
