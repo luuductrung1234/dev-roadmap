@@ -668,9 +668,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
 	<tr>
-            <td rowspan="6"> :black_square_button: </td>
-            <td rowspan="6"><b> AngularJS </b></td>
-            <td rowspan="6"> ---  </td>
+            <td rowspan="7"> :black_square_button: </td>
+            <td rowspan="7"><b> AngularJS </b></td>
+            <td rowspan="7"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2nupmJ5"> Udemy/AngularJ5-The-Complete-Guide </a></td>
@@ -709,6 +709,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> path </td>
             <td><a href="http://bit.ly/2HisHSW"> Lynda/Become-Angular(2+)-Developer </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not buy yet </b></td>
+            <td> course </td>
+            <td><a href="http://bit.ly/2GeAhkq"> The Ultimate Guide to Mastering Angular </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -797,16 +804,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Preact </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Ember JS </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
             <td> --- </td>
