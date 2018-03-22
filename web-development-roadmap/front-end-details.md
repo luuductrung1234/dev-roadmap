@@ -156,9 +156,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="13"> :white_check_mark: </td>
-            <td rowspan="13"><b> JavaScript Basic </b></td>
-            <td rowspan="13"> :notebook:  </td>
+            <td rowspan="12"> :white_check_mark: </td>
+            <td rowspan="12"><b> JavaScript Basic </b></td>
+            <td rowspan="12"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/1gfAaCZ"> JS The Right Way (overview about JS) </a></td>
@@ -218,13 +218,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2FvMqOg"> Webbos/30-Day-Vanilla-JS-Coding-Challenge </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
-            <td><b> on hold </b></td>
-            <td> course </td>
-            <td><a href="http://bit.ly/2DcuhTT"> Practical JavaScript </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
