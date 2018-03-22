@@ -1192,26 +1192,16 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Rollup </b></td>
             <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Parcel </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td><b> not started </b></td>
+            <td> reading </td>
+            <td><a href="http://bit.ly/2FT5bQa"> RollupJS Guide </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
-         <tr>
+	<tr>
             <td rowspan="2"> :white_check_mark: </td>
             <td rowspan="2"><b> RequireJS / AMD </b></td>
             <td rowspan="2"> :notebook:  </td>
@@ -1231,6 +1221,16 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Browserify </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> Parcel </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
             <td> --- </td>
