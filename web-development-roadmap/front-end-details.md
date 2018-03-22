@@ -161,7 +161,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="13"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="http://bit.ly/1gfAaCZ"> JS The Right Way (Everything need to know about JS) </a></td>
+            <td><a href="http://bit.ly/1gfAaCZ"> JS The Right Way (overview about JS) </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
