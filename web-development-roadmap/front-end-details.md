@@ -58,7 +58,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 ├── learn The Basic
 │   ├── HTML/CSS basic
 │   └── Javascript basic
-│   └── Javascript specs
+│   └── Javascript native specs
 │   └── The Front-End basic
 │
 ├── Getting Deeper
@@ -251,7 +251,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="4"> :white_check_mark: </td>
-            <td rowspan="4"><b> JavaScript Specs </b></td>
+            <td rowspan="4"><b> JavaScript Native Specs </b></td>
             <td rowspan="4"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
@@ -632,7 +632,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 	<tr>
             <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="http://bit.ly/2FOVNNs"> Babelio/Learn-ES2015 </a></td>
+            <td><a href="http://bit.ly/2FOVNNs"> Babelio/Learn-ES2015-Fetures </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -645,7 +645,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
 	<tr>
             <td><b> on hold </b></td>
-            <td> reading </td>
+            <td> source </td>
             <td><a href="http://bit.ly/2GbQI0Q"> ECMAScript 6 Resources For The Curious JavaScripter </a></td>
             <td> --- </td>
             <td> --- </td>
