@@ -666,7 +666,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
         <tr>
             <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> TypeScript / Flow </b></td>
+            <td rowspan="1"><b> <a href="https://bit.ly/2pxwcgQ">TypeScript</a> / <a href="https://flow.org/">Flow</a> </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
@@ -696,7 +696,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 > #### General Purpose Framework
 <table>
 	<tr><td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> Jquery </b></td>
+            <td rowspan="1"><b> <a href="https://jquery.com/">Jquery</a> </b></td>
             <td rowspan="1"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> book </td>
@@ -732,11 +732,20 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr><td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> Underscore.js </b></td>
+            <td rowspan="1"><b> <a href="http://underscorejs.org/">Underscore.js</a> </b></td>
             <td rowspan="1"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2HPy6B1"> Lynda/Learning-Undersore.js </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr><td rowspan="1"> :white_check_mark: </td>
+            <td rowspan="1"><b> <a href="https://lodash.com/">Lodash</a> </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
