@@ -807,12 +807,26 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> RxJS </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="3"> :black_square_button: </td>
+            <td rowspan="3"><b> RxJS </b></td>
+            <td rowspan="3"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2Hm8CLB"> Udemy/AngularJ5-RxJs-Reactive-Programming </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> source </td>
+            <td><a href="https://bit.ly/2FWmGPI"> ReactiveX/Tutorial - RxJS section </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
