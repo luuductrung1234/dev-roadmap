@@ -1179,18 +1179,25 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
 	<tr>
-	    <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> About Module Loader/Bundler </b></td>
-            <td rowspan="1"> :notebook:  </td>
+	    <td rowspan="2"> :white_check_mark: </td>
+            <td rowspan="2"><b> About Module Loader/Bundler </b></td>
+            <td rowspan="2"> :notebook:  </td>
 	    <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/2GoIgJ0"> JS Module Guide P1 </a> - <a href="http://bit.ly/2ptMGHF"> JS Module Guide P2 </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
+	<tr>
+	    <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
         <tr>
             <td rowspan="2"> :white_check_mark: </td>
-            <td rowspan="2"><b> Webpack </b></td>
+            <td rowspan="2"><b> <a href="https://webpack.js.org/">Webpack</a> </b></td>
             <td rowspan="2"> :notebook:  </td>
             <td><b> not started </b></td>
             <td> course </td>
@@ -1207,7 +1214,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> Rollup </b></td>
+            <td rowspan="1"><b> <a href="https://rollupjs.org/guide/en">Rollup</a> </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> reading </td>
@@ -1216,16 +1223,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td rowspan="2"> :white_check_mark: </td>
-            <td rowspan="2"><b> RequireJS / AMD </b></td>
-            <td rowspan="2"> :notebook:  </td>
-	    <td><b> not started </b></td>
-            <td> reading </td>
-            <td><a href="http://bit.ly/1heDM2c"> RequireJS/Why-AMD </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
+            <td rowspan="1"> :white_check_mark: </td>
+            <td rowspan="1"><b> <a href="http://requirejs.org/">RequireJS / AMD</a> </b></td>
+            <td rowspan="1"> :notebook:  </td>
 	    <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
