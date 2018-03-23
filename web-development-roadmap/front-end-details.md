@@ -1058,7 +1058,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> npm </b></td>
+            <td rowspan="1"><b> <a href="https://www.npmjs.com/">npm</a> </b></td>
             <td rowspan="1"> :ledger:  </td>
             <td><b> not started </b></td>
             <td> course </td>
@@ -1082,7 +1082,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
         <tr>
             <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> npm scripts </b></td>
+            <td rowspan="1"><b> <a href="https://bit.ly/1K6s3pM">npm scripts</a> </b></td>
             <td rowspan="1"> :notebook:  </td>
             <td><b> --- </b></td>
             <td> --- </td>
