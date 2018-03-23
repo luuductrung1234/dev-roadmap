@@ -756,7 +756,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
 	<tr>
             <td rowspan="7"> :black_square_button: </td>
-            <td rowspan="7"><b> AngularJS </b></td>
+            <td rowspan="7"><b> <a href="https://angularjs.org/">AngularJS</a> </b></td>
             <td rowspan="7"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
@@ -808,7 +808,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="3"> :black_square_button: </td>
-            <td rowspan="3"><b> RxJS </b></td>
+	    <td rowspan="3"><b> <a href="http://reactivex.io/rxjs/">RxJS</a> </b></td>
             <td rowspan="3"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
@@ -831,7 +831,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr><td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Angular </b></td>
+            <td rowspan="1"><b> <a href="https://angular.io/">Angular</a> </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
             <td> --- </td>
@@ -917,9 +917,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 > #### Library Framework
 <table>
 	<tr>
-            <td rowspan="8"> :black_square_button: </td>
-            <td rowspan="8"><b> React </b></td>
-            <td rowspan="8"> ---  </td>
+            <td rowspan="7"> :black_square_button: </td>
+            <td rowspan="7"><b> <a href="https://reactjs.org/">React</a> </b></td>
+            <td rowspan="7"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2tuu0vT"> Udemy/Modern-React-with-Redux </a></td>
@@ -956,13 +956,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
 	<tr>
             <td><b> not started </b></td>
-            <td> reading </td>
-            <td><a href="http://bit.ly/2pi7Smg"> ReactJS Tutorial </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
-            <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2tsHXux"> Webbos/Learn-Redux </a></td>
             <td> --- </td>
@@ -977,7 +970,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
         </tr>
          <tr>
             <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Vue JS </b></td>
+            <td rowspan="1"><b> <a href="https://vuejs.org/">Vue.js</a> </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
