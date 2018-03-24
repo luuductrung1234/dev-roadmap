@@ -606,9 +606,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="9"> :white_check_mark: </td>
-            <td rowspan="9"><b> ES6 </b></td>
-            <td rowspan="9"> :notebook:  </td>
+            <td rowspan="10"> :white_check_mark: </td>
+            <td rowspan="10"><b> ES6 </b></td>
+            <td rowspan="10"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2Fk0lLo"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
@@ -661,6 +661,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> on hold </b></td>
             <td> source </td>
             <td><a href="http://bit.ly/2GbQI0Q"> ECMAScript 6 Resources For The Curious JavaScripter </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> kata </td>
+            <td><a href="http://es6katas.org/"> ES6 Katas (learning by doing) </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
