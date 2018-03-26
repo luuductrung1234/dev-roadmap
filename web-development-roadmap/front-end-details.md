@@ -557,7 +557,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td rowspan="7"> :white_check_mark: </td>
             <td rowspan="7"><b> Advance JavaScript </b></td>
             <td rowspan="7"> :notebook:  </td>
-	    <td><b> --- </b></td>
+	    <td><b> complete </b></td>
             <td> source </td>
             <td><a href="https://bit.ly/2DRvHU2"> Awesome Javascript Learning </a></td>
             <td> --- </td>
@@ -606,9 +606,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="10"> :white_check_mark: </td>
-            <td rowspan="10"><b> ES6 </b></td>
-            <td rowspan="10"> :notebook:  </td>
+            <td rowspan="11"> :white_check_mark: </td>
+            <td rowspan="11"><b> ES6 </b></td>
+            <td rowspan="11"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2Fk0lLo"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
@@ -627,6 +627,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> course </td>
             <td><a href="http://bit.ly/2nkSy5n"> ES2015 Crash Course </a></td>
             <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2DW4u2A"> Lynda/ES6-The-Right-Part </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
 	<tr>
