@@ -577,11 +577,11 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-          <tr>
-            <td><b> not started </b></td>
-            <td> book </td>
-            <td><a href="http://bit.ly/2FmMHYb"> The Secrects of JavaScript Ninja </a></td>
-            <td> --- </td>
+	<tr>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2GrdXEE"> Lynda/Rethinking-Asynchronous-Javascript </a></td>
+            <td> certificate </td>
             <td> --- </td>
         </tr>
 	<tr>
@@ -591,10 +591,10 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-	<tr>
+          <tr>
             <td><b> not started </b></td>
-            <td> reading </td>
-            <td><a href="https://bit.ly/2krQNAK"> State of Javascript 2017 </a></td>
+            <td> book </td>
+            <td><a href="http://bit.ly/2FmMHYb"> The Secrects of JavaScript Ninja </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
