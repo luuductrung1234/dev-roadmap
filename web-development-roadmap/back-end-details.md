@@ -1452,9 +1452,23 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> MSSQL </b></td>
-            <td rowspan="1"> ---  </td>
+            <td rowspan="3"> :white_check_mark: </td>
+            <td rowspan="3"><b> MSSQL </b></td>
+            <td rowspan="3"> :ledger:  </td>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2IfA1iy"> PluralSight/Introduction-to-SQL-Server </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/1Mr2DQ6"> PluralSight/SQL-Server-fundamentals </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
