@@ -1051,9 +1051,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="7"> :white_check_mark: </td>
-            <td rowspan="7"><b> <a href="https://app.pluralsight.com/channels/details/a7153976-e14a-428d-a0d3-dadc795c4676?s=1">Java Essential</a> </b></td>
-            <td rowspan="7"> :ledger:  </td>
+            <td rowspan="9"> :white_check_mark: </td>
+            <td rowspan="9"><b> <a href="https://app.pluralsight.com/channels/details/a7153976-e14a-428d-a0d3-dadc795c4676?s=1">Java Essential</a> </b></td>
+            <td rowspan="9"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java"> PluralSight/JavaSE-Skill-Path </a></td>
@@ -1061,7 +1061,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java-ee-foundations"> PluralSight/JavaEE-Skill-Path </a></td>
             <td> --- </td>
@@ -1092,6 +1092,20 @@ kyu (your current level) | Ability
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/java-multithreading/"> Udemy/Java-Multithreading </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2nzurk2"> JavaBrains/Maven-Tutorials </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2qeGMKe"> PluralSight/Maven-Fundamental </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
