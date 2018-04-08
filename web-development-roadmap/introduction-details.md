@@ -101,9 +101,9 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
         <tr>
-            <td rowspan="1"> :white_check_mark: </td>
-            <td rowspan="1"><b> HTTP/HTTPS and APIs </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="2"> :white_check_mark: </td>
+            <td rowspan="2"><b> HTTP/HTTPS and APIs </b></td>
+            <td rowspan="2"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2qgrFAE"> PkuralSight/HTTP-Fundamentals </a></td>
