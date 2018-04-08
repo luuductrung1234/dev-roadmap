@@ -72,14 +72,14 @@ kyu (your current level) | Ability
             <td rowspan="3"> :ledger: </td>
             <td><b> complete </b></td>
             <td>Course</td>
-            <td><a href="https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html">Lynda/Git-Essential-Trainning</a></td>
-            <td><a href="https://www.lynda.com/ViewCertificate/DDECEA6B0AF343E39B16510724B8C0CF?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate">Certificate</a></td>
+            <td><a href="https://bit.ly/2JtDgEB">Lynda/Git-Essential-Trainning</a></td>
+            <td><a href="https://bit.ly/2aEtxLB">Certificate</a></td>
             <td>Jan-2018</td>
         </tr>
          <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/learn/v4/"> Udemy/Git-a-web-developer-mastering-workflow </a></td>
+            <td><a href="https://bit.ly/2H6EDL6"> Udemy/Git-a-web-developer-mastering-workflow </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -96,17 +96,24 @@ kyu (your current level) | Ability
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
             <td> Course </td>
-            <td><a href="https://www.lynda.com/Developer-Network-Administration-tutorials/Understanding-SSH/189066-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3assh%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"> Understanding SSH </a></td>
+            <td><a href="https://bit.ly/2EumKR6"> Understanding SSH </a></td>
             <td> Certificate </td>
             <td> --- </td>
         </tr>
         <tr>
-            <td rowspan="1"> :white_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> HTTP/HTTPS and APIs </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
+            <td rowspan="1"> :notebook:  </td>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2qgrFAE"> PkuralSight/HTTP-Fundamentals </a></td>
             <td> --- </td>
-            <td><a href="#">---</a></td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2H64umk"> PluralSigh/HTTP/2-Fundamentals </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
