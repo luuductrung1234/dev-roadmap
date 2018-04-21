@@ -1051,9 +1051,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="9"> :white_check_mark: </td>
-            <td rowspan="9"><b> <a href="https://app.pluralsight.com/channels/details/a7153976-e14a-428d-a0d3-dadc795c4676?s=1">Java Essential</a> </b></td>
-            <td rowspan="9"> :ledger:  </td>
+            <td rowspan="10"> :white_check_mark: </td>
+            <td rowspan="10"><b> <a href="https://app.pluralsight.com/channels/details/a7153976-e14a-428d-a0d3-dadc795c4676?s=1">Java Essential</a> </b></td>
+            <td rowspan="10"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java"> PluralSight/JavaSE-Skill-Path </a></td>
@@ -1106,6 +1106,13 @@ kyu (your current level) | Ability
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2qeGMKe"> PluralSight/Maven-Fundamental </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2JZFfkl"> PluralSight/Working-with-XML-in-Java-using-JAXB </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
