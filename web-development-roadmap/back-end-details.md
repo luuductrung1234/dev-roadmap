@@ -771,19 +771,26 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="4"> :black_square_button: </td>
-            <td rowspan="4"><b> Nodejs Essential </b></td>
-            <td rowspan="4"> ---  </td>
+            <td rowspan="5"> :black_square_button: </td>
+            <td rowspan="5"><b> Nodejs Essential </b></td>
+            <td rowspan="5"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/course-dashboard-redirect/?course_id=461160"> Udemy/Learn-and-Understand-Nodejs </a></td>
+            <td><a href="https://bit.ly/1oZIbBi"> Udemy/Learn-and-Understand-Nodejs </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/the-complete-nodejs-developer-course-2/"> Udemy/The-Complete-Notejs-Developer-Course </a></td>
+            <td><a href="https://bit.ly/2n3zsO2"> Udemy/The-Complete-Notejs-Developer-Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2I1tkoG"> NodeJS-Advanced-Concepts </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1148,12 +1155,19 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="5"> :black_square_button: </td>
-            <td rowspan="5"><b> Spring </b></td>
-            <td rowspan="5"> ---  </td>
+            <td rowspan="6"> :black_square_button: </td>
+            <td rowspan="6"><b> Spring </b></td>
+            <td rowspan="6"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://www.udemy.com/spring-hibernate-tutorial/learn/v4/overview"> Udemy/Spring-and-Hibernate-for-Beginner </a></td>
+            <td><a href="https://bit.ly/1XUUoFB"> Udemy/Spring-and-Hibernate-for-Beginner </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2IbQDIF"> Udemy/Spring-Framework-Master-Class-Beginner-to-Expert </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
