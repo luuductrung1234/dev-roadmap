@@ -69,6 +69,23 @@ _(this path is general for front-end and back-end)_
             <td> --- </td>
         </tr>
         <tr>
+            <td rowspan="2"> :white_check_mark: </td>
+            <td rowspan="2"><b> Web Hacking </b></td>
+            <td rowspan="2"> ---  </td>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2rvj9Of"> Udemy/Learn-Website-Hacking-and-Penetration-Testing-From-Scratch </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
             <td rowspan="14"> :white_square_button: </td>
             <td rowspan="14"><b> FullStack </b></td>
             <td rowspan="14"> ---  </td>
