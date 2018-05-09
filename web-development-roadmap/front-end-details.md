@@ -613,9 +613,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="11"> :white_check_mark: </td>
-            <td rowspan="11"><b> ES6 </b></td>
-            <td rowspan="11"> :notebook:  </td>
+            <td rowspan="12"> :white_check_mark: </td>
+            <td rowspan="12"><b> ES6 </b></td>
+            <td rowspan="12"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2Fk0lLo"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
