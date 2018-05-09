@@ -195,7 +195,7 @@ Courses | Duration | Effort | Prerequisites
 - **Extra read** an open source repo, contain about design pattern topic, that can easily mind wobble [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans#creational-design-patterns)
 - **Note**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
   - **OBS**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
-- **Required**, to learn about logic programming, backtracking, unification: [Learn Prolog Now!](http://www.learnprolognow.org/)
+- **Required**, to learn about logic programming, backtracking, unification: [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 
 ### Core math
 
