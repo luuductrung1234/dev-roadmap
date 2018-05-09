@@ -1149,21 +1149,21 @@ kyu (your current level) | Ability
         </tr>
         <tr>
             <td><b> not started </b></td>
-            <td> course </td>
+            <td> free course </td>
             <td><a href="https://www.udemy.com/become-a-full-stack-developer-with-spring-aws-and-stripe/"> Udemy/Become-a-Full-Stack-Developer-with-Spring-AWS-and-Stripe </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
-            <td> course </td>
+            <td> free course </td>
             <td><a href="https://www.udemy.com/spring-framework-video-tutorial/"> Udemy/Spring-framework-and-Dependency-Injection-for-beginner </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
             <td><b> not started </b></td>
-            <td> course </td>
+            <td> free course </td>
             <td><a href="https://www.udemy.com/spring-boot-getting-started/"> Udemy/Introduction-Spring-Boot </a></td>
             <td> --- </td>
             <td> --- </td>
