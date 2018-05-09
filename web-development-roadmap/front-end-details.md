@@ -630,9 +630,16 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2nkSy5n"> ES2015 Crash Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2KPFDSL"> Udemy/Accelerate-ES6-JavaScript-Training </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
