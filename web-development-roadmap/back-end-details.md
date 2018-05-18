@@ -1082,12 +1082,33 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="8"> :white_check_mark: </td>
-            <td rowspan="8"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
-            <td rowspan="8"> :ledger:  </td>
+            <td rowspan="11"> :white_check_mark: </td>
+            <td rowspan="11"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
+            <td rowspan="11"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java-ee-foundations"> PluralSight/JavaEE-Skill-Path </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2GuKANl"> PluralSight/JavaEE-JavaServer-Pages </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2wOLmp3"> PluralSight/JavaEE-Get-Started-with-JavaServer-Facecs </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2rS4L3i"> PluralSight/Introduction-to-Struts-2 </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
