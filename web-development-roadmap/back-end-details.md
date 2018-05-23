@@ -1310,12 +1310,19 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> RESTful APIs </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
+            <td rowspan="2"> :black_square_button: </td>
+            <td rowspan="2"><b> RESTful APIs </b></td>
+            <td rowspan="2"> ---  </td>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2EGyCjL"> PluralSight/REST-Fundamentals </a></td>
             <td> --- </td>
-            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2KPF8HJ"> PluralSight/Web-API-Design </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
