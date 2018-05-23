@@ -1082,9 +1082,9 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="11"> :white_check_mark: </td>
-            <td rowspan="11"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
-            <td rowspan="11"> :ledger:  </td>
+            <td rowspan="12"> :white_check_mark: </td>
+            <td rowspan="12"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
+            <td rowspan="12"> :ledger:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java-ee-foundations"> PluralSight/JavaEE-Skill-Path </a></td>
@@ -1106,9 +1106,16 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td><b> on hold </b></td>
+            <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2rS4L3i"> PluralSight/Introduction-to-Struts-2 </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2x5kLUZ"> PluralSight/RESTful-Service-in-Java-using-Jersey </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1176,9 +1183,16 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="6"> :black_square_button: </td>
-            <td rowspan="6"><b> Spring </b></td>
-            <td rowspan="6"> ---  </td>
+            <td rowspan="7"> :black_square_button: </td>
+            <td rowspan="7"><b> Spring </b></td>
+            <td rowspan="7"> ---  </td>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://bit.ly/2LoC8CZ"> PluralSight/Core-Spring </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/1XUUoFB"> Udemy/Spring-and-Hibernate-for-Beginner </a></td>
