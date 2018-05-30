@@ -1085,7 +1085,7 @@ kyu (your current level) | Ability
             <td rowspan="12"> :white_check_mark: </td>
             <td rowspan="12"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
             <td rowspan="12"> :ledger:  </td>
-            <td><b> on hold </b></td>
+            <td><b> complete </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java-ee-foundations"> PluralSight/JavaEE-Skill-Path </a></td>
             <td> --- </td>
@@ -1113,7 +1113,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td><b> on hold </b></td>
+            <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2x5kLUZ"> PluralSight/RESTful-Service-in-Java-using-Jersey </a></td>
             <td> --- </td>
@@ -1186,7 +1186,7 @@ kyu (your current level) | Ability
             <td rowspan="7"> :black_square_button: </td>
             <td rowspan="7"><b> Spring </b></td>
             <td rowspan="7"> ---  </td>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://bit.ly/2LoC8CZ"> PluralSight/Core-Spring </a></td>
             <td> --- </td>
