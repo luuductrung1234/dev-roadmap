@@ -1120,14 +1120,14 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
           <tr>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/java-web-services/"> Udemy/Java-Web-Service </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
            <tr>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/javawebservicespart2/"> Udemy/Java-Web-Service-Part-2 </a></td>
             <td> --- </td>
