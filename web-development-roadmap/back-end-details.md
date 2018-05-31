@@ -1082,9 +1082,9 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="12"> :white_check_mark: </td>
-            <td rowspan="12"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
-            <td rowspan="12"> :ledger:  </td>
+            <td rowspan="14"> :white_check_mark: </td>
+            <td rowspan="14"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
+            <td rowspan="14"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java-ee-foundations"> PluralSight/JavaEE-Skill-Path </a></td>
@@ -1130,6 +1130,20 @@ kyu (your current level) | Ability
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/javawebservicespart2/"> Udemy/Java-Web-Service-Part-2 </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2srK8e3"> Udemy/Java-WebService-Complete-Guide-SOAP+REST+Buide App </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2J0I5su"> Udemy/REST-API-with-Java-JAX-RS-Create-and-Deploy-to-Amazon-Cloud </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
