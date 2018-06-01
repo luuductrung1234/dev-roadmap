@@ -36,6 +36,10 @@ kyu (your current level) | Ability
 
 ![](https://i.imgur.com/WrfLESm.png)
 
+### Details Version Path
+
+![](./images/frontend-v2.png)
+
 ### ⚡ First starting
 
 [HTML5 Front-end developer](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/images/frontend-html-dev.png)
