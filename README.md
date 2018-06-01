@@ -18,7 +18,8 @@ Welcome to developer roadmap, this repository contain the learning **path/roadma
 * ### [Web Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/web-development-roadmap)
 * ### [Mobile Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/mobile-development-roadmap) `not ready`
 * ### [Game Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/game-development-roadmap) `not ready`
-* ### [Design]()              `not ready`
+* ### [Design](https://github.com/togiberlin/ui-ux-designer-roadmap)              `not ready`
+* ### [IOS Development][https://github.com/BohdanOrlov/iOS-Developer-Roadmap]           `not ready`
 
 
 ## About
