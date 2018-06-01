@@ -31,7 +31,14 @@ kyu (your current level) | Ability
  :blue_book:  `Judan` | have recognition from a nother people that you're an expert of this topic, people talk about you when they learn/discuss/search this topic |
 ---
 
+### General Path
+
 ![](https://i.imgur.com/Ihg4YAb.png)
+
+### Details Version Path
+
+![](./images/backend-v2.png)
+
 
 
 ## Programming Language
