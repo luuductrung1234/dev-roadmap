@@ -1089,9 +1089,9 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="14"> :white_check_mark: </td>
-            <td rowspan="14"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
-            <td rowspan="14"> :ledger:  </td>
+            <td rowspan="8"> :white_check_mark: </td>
+            <td rowspan="8"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
+            <td rowspan="8"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java-ee-foundations"> PluralSight/JavaEE-Skill-Path </a></td>
@@ -1119,14 +1119,66 @@ kyu (your current level) | Ability
             <td> --- </td>
             <td> --- </td>
         </tr>
+          <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/1TXAAMW"> Udemy/Selenium-WebDriver-with-Java </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2nzurk2"> JavaBrains/Maven-Tutorials </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
          <tr>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2qeGMKe"> PluralSight/Maven-Fundamental </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td rowspan="9"> :white_check_mark: </td>
+            <td rowspan="9"><b> <a href="https://bit.ly/2rxMXuj">JavaEE WebService</a> </b></td>
+            <td rowspan="9"> :ledger:  </td>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2JZFfkl"> PluralSight/Working-with-XML-in-Java-using-JAXB </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2HnyR3U"> PluralSight/Building-JAX-WS-Web-Service-with-Apache-CXF </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2x5kLUZ"> PluralSight/RESTful-Service-in-Java-using-Jersey </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
-          <tr>
+        <tr>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2sHblJK"> PluralSight/Building-Asynchronous-RESTful-Services-with-Jersey </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://www.udemy.com/java-web-services/"> Udemy/Java-Web-Service </a></td>
@@ -1154,35 +1206,7 @@ kyu (your current level) | Ability
             <td> --- </td>
             <td> --- </td>
         </tr>
-          <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://bit.ly/1TXAAMW"> Udemy/Selenium-WebDriver-with-Java </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-        <tr>
-            <td><b> complete </b></td>
-            <td> course </td>
-            <td><a href="https://bit.ly/2nzurk2"> JavaBrains/Maven-Tutorials </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
          <tr>
-            <td><b> complete </b></td>
-            <td> course </td>
-            <td><a href="https://bit.ly/2qeGMKe"> PluralSight/Maven-Fundamental </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td><b> on hold </b></td>
-            <td> course </td>
-            <td><a href="https://bit.ly/2JZFfkl"> PluralSight/Working-with-XML-in-Java-using-JAXB </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-        <tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
