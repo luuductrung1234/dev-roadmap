@@ -28,8 +28,8 @@ Welcome to developer roadmap, this repository contain the learning **path/roadma
 > Feel free to fork and use it in your own way (note: your forked repo will not contain resource boards)
 
 ## Instruction
-> - Visit [Wiki](https://github.com/luuductrung1234/dev-roadmap/wiki) to see instruction details
-> - Visit [Project](https://github.com/luuductrung1234/dev-roadmap/projects) to see the resource boards
+> - Visit [**Wiki**](https://github.com/luuductrung1234/dev-roadmap/wiki) to see instruction details
+> - Visit [**My Collected Resources**](https://github.com/luuductrung1234/dev-roadmap/projects) to see the resource boards
 > - You can choose a specific major that you concern to start learning and using these resources 
 
 ## :clipboard: Owner Todo List
