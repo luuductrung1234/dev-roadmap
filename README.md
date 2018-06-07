@@ -25,7 +25,7 @@ Welcome to developer roadmap, this repository contain the learning **path/roadma
 ## About
 > This repository is base on many other public repo in Github. It's still in the construction.
 >
-> Feel free to fork and use it in your own way
+> Feel free to fork and use it in your own way (note: your forked repo will not contain resource boards)
 
 ## Instruction
 > - Visit [Wiki](https://github.com/luuductrung1234/dev-roadmap/wiki) to see instruction details
