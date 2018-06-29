@@ -90,14 +90,56 @@ kyu (your current level) | Ability
             <td> --- </td>
             <td> --- </td>
         </tr>
+         <tr>
+            <td rowspan="7"> :white_check_mark: </td>
+            <td rowspan="7"><b> Networking </b></td>
+            <td rowspan="7"> :notebook:  </td>
+            <td><b> on hold </b></td>
+            <td> path </td>
+            <td><a href="https://bit.ly/2Kli1ZB"> PluralSight/Networking-Fundamentals </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> SSH </b></td>
-            <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
-            <td> Course </td>
-            <td><a href="https://bit.ly/2EumKR6"> Understanding SSH </a></td>
-            <td> Certificate </td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2Kurqxs"> PluralSight/TCP-IP-Metworing-For-Developer </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2tGIRkw"> PluralSight/TCP-IP-And-Networking-For-ITPros </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2zpuzss"> Udemy/The-Complete-Networking-Fundamentals-Course-Your-CCNA-Start </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2KtmBo1"> Udemy/Start-Using-WireSharp-To-hack-Like-A-Pro </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> path </td>
+            <td><a href="https://bit.ly/2lDY7KK"> PluralSight/Cisco-CCNA-Routing-And-Switching </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> --- </b></td>
+            <td> --- </td>
+            <td><a href="#"> --- </a></td>
+            <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
@@ -108,6 +150,16 @@ kyu (your current level) | Ability
             <td> course </td>
             <td><a href="https://bit.ly/2qgrFAE"> PkuralSight/HTTP-Fundamentals </a></td>
             <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"><b> SSH </b></td>
+            <td rowspan="1"> ---  </td>
+            <td><b> not started </b></td>
+            <td> Course </td>
+            <td><a href="https://bit.ly/2EumKR6"> Understanding SSH </a></td>
+            <td> Certificate </td>
             <td> --- </td>
         </tr>
         <tr>
