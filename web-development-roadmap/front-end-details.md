@@ -645,9 +645,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="12"> :white_check_mark: </td>
-            <td rowspan="12"><b> ES6 </b></td>
-            <td rowspan="12"> :notebook:  </td>
+            <td rowspan="11"> :white_check_mark: </td>
+            <td rowspan="11"><b> ES6 </b></td>
+            <td rowspan="11"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2Fk0lLo"> Udemy/Essential-in-JavaScript-ES6-a-fun-and-clear-intro </a></td>
@@ -659,13 +659,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> reading </td>
             <td><a href="http://bit.ly/2GFcPe9"> Lynda/Learning-ECMAScript-6 </a></td>
             <td> <a href="http://bit.ly/2aEtxLB"> certificate </a> </td>
-            <td> --- </td>
-        </tr>
-	<tr>
-            <td><b> on hold </b></td>
-            <td> course </td>
-            <td><a href="http://bit.ly/2nkSy5n"> ES2015 Crash Course </a></td>
-            <td> --- </td>
             <td> --- </td>
         </tr>
 	<tr>
@@ -683,9 +676,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td><b> not started </b></td>
+            <td><b> complete </b></td>
             <td> reading </td>
-            <td><a href="http://bit.ly/2DdEFdT"> ECMA-262 </a></td>
+            <td><a href="http://bit.ly/2FOVNNs"> Babelio/Learn-ES2015-Fetures </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -697,9 +690,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td><b> complete </b></td>
+            <td><b> not started </b></td>
             <td> reading </td>
-            <td><a href="http://bit.ly/2FOVNNs"> Babelio/Learn-ES2015-Fetures </a></td>
+            <td><a href="http://bit.ly/2DdEFdT"> ECMA-262 </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
