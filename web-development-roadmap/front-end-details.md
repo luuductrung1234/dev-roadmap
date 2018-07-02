@@ -160,19 +160,12 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="14"> :white_check_mark: </td>
-            <td rowspan="14"><b> JavaScript Basic </b></td>
-            <td rowspan="14"> :notebook:  </td>
+            <td rowspan="11"> :white_check_mark: </td>
+            <td rowspan="11"><b> JavaScript Basic </b></td>
+            <td rowspan="1"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/1gfAaCZ"> JS The Right Way (overview about JS) </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-        <tr>
-            <td><b>  complete </b></td>
-            <td> book </td>
-            <td><a href="http://bit.ly/1hRs697"> JavaScript for cat </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -183,18 +176,18 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-         <tr>
-            <td><b> on hold </b></td>
-            <td> book </td>
-            <td><a href="http://bit.ly/1maWvl5"> You don't know JS </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
 	<tr>
 	    <td><b> complete </b></td>
             <td> path </td>
             <td><a href="http://bit.ly/2DcuVR6"> Lynda/Improve-Your-JS-Language-Skills </a></td>
             <td><a href="http://bit.ly/2aEtxLB"> certificate </a> </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> on hold </b></td>
+            <td> book </td>
+            <td><a href="http://bit.ly/1maWvl5"> You don't know JS </a></td>
+            <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
@@ -226,30 +219,16 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2KOKS5p"> Udemy/Modern-JavaScript-From-The-Beginning </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
             <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2FvMqOg"> Webbos/30-Day-Vanilla-JS-Coding-Challenge </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="http://bit.ly/1Ue8L26"> Udemy/Code-your-First-Game:-Acade-Classic-in-JavaScript-Canvas </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
-            <td><b> on hold </b></td>
-            <td> reading </td>
-            <td><a href="https://javascript.info/"> The Modern Javascript Tutorial </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-	<tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://bit.ly/2KOKS5p"> Udemy/Modern-JavaScript-From-The-Beginning </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -271,7 +250,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 	<tr>
-            <td><b> on hold </b></td>
+            <td><b> complete </b></td>
             <td> reading </td>
 	    <td><a href="http://bit.ly/2FwbQvh"> understand Closures part1 </a> - <a href="http://bit.ly/2FBsU7q">part2</a></td>
             <td> --- </td>
@@ -593,9 +572,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
          <tr>
-            <td rowspan="7"> :white_check_mark: </td>
-            <td rowspan="7"><b> Advance JavaScript </b></td>
-            <td rowspan="7"> :notebook:  </td>
+            <td rowspan="8"> :white_check_mark: </td>
+            <td rowspan="8"><b> Advance JavaScript </b></td>
+            <td rowspan="8"> :notebook:  </td>
 	    <td><b> complete </b></td>
             <td> source </td>
             <td><a href="https://bit.ly/2DRvHU2"> Awesome Javascript Learning </a></td>
@@ -620,6 +599,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2G7BW8X"> Udacity/Asynchronous-JavaScript-Requests </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> on hold </b></td>
+            <td> reading </td>
+            <td><a href="https://javascript.info/"> The Modern Javascript Tutorial </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
