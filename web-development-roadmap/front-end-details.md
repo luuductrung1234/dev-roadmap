@@ -162,7 +162,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="11"> :white_check_mark: </td>
             <td rowspan="11"><b> JavaScript Basic </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="11"> :notebook:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/1gfAaCZ"> JS The Right Way (overview about JS) </a></td>
