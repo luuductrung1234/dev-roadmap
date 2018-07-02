@@ -115,7 +115,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2zpuzss"> Udemy/The-Complete-Networking-Fundamentals-Course-Your-CCNA-Start </a></td>
             <td> --- </td>
