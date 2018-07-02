@@ -1158,7 +1158,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
         <tr>
-            <td><b> not  </b></td>
+            <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2HnyR3U"> PluralSight/Building-JAX-WS-Web-Service-with-Apache-CXF </a></td>
             <td> --- </td>
