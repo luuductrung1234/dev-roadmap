@@ -152,6 +152,13 @@ kyu (your current level) | Ability
             <td> --- </td>
             <td> --- </td>
         </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2H64umk"> PluralSigh/HTTP/2-Fundamentals </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
         <tr>
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> SSH </b></td>
@@ -160,13 +167,6 @@ kyu (your current level) | Ability
             <td> Course </td>
             <td><a href="https://bit.ly/2EumKR6"> Understanding SSH </a></td>
             <td> Certificate </td>
-            <td> --- </td>
-        </tr>
-        <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
-            <td><a href="https://bit.ly/2H64umk"> PluralSigh/HTTP/2-Fundamentals </a></td>
-            <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
