@@ -1158,7 +1158,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
         <tr>
-            <td><b> on hold </b></td>
+            <td><b> not  </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2HnyR3U"> PluralSight/Building-JAX-WS-Web-Service-with-Apache-CXF </a></td>
             <td> --- </td>
@@ -1245,14 +1245,14 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
         <tr>
-            <td><b> not started </b></td>
+            <td><b> on hold </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2IbQDIF"> Udemy/Spring-Framework-Master-Class-Beginner-to-Expert </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
         <tr>
-            <td><b> not started </b></td>
+            <td><b> on  </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2tLoMsx"> Udemy/Spring-Framework5-Beginner-to-Guru </a></td>
             <td> --- </td>
