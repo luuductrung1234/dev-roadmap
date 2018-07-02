@@ -1228,12 +1228,19 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="11"> :black_square_button: </td>
-            <td rowspan="11"><b> Spring </b></td>
-            <td rowspan="11"> ---  </td>
+            <td rowspan="12"> :black_square_button: </td>
+            <td rowspan="12"><b> Spring </b></td>
+            <td rowspan="12"> ---  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://bit.ly/2LoC8CZ"> PluralSight/Core-Spring </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> on hold </b></td>
+            <td> books </td>
+            <td><a href="https://drive.google.com/drive/folders/135469udnQEoI_zbGa9_JgnDAzKz19GPy"> Reading : Spring-In-Action </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1247,18 +1254,18 @@ kyu (your current level) | Ability
         <tr>
             <td><b> not started </b></td>
             <td> course </td>
-            <td><a href="https://bit.ly/1XUUoFB"> Udemy/Spring-and-Hibernate-for-Beginner </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-          <tr>
-            <td><b> not started </b></td>
-            <td> course </td>
             <td><a href="https://bit.ly/2tLoMsx"> Udemy/Spring-Framework5-Beginner-to-Guru </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
-          <tr>
+        <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/1XUUoFB"> Udemy/Spring-and-Hibernate-for-Beginner </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2Mxyg2i"> Udemy/Master-Spring-WebService-And-REST-API-with-Spring-Boot </a></td>
@@ -1320,16 +1327,6 @@ kyu (your current level) | Ability
          <tr>
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> Play </b></td>
-            <td rowspan="1"> ---  </td>
-            <td><b> --- </b></td>
-            <td> --- </td>
-            <td><a href="#"> --- </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
-         <tr>
-            <td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> Hibernate </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> --- </b></td>
             <td> --- </td>
