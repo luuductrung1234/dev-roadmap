@@ -593,9 +593,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
          <tr>
-            <td rowspan="6"> :white_check_mark: </td>
-            <td rowspan="6"><b> Advance JavaScript </b></td>
-            <td rowspan="6"> :notebook:  </td>
+            <td rowspan="7"> :white_check_mark: </td>
+            <td rowspan="7"><b> Advance JavaScript </b></td>
+            <td rowspan="7"> :notebook:  </td>
 	    <td><b> complete </b></td>
             <td> source </td>
             <td><a href="https://bit.ly/2DRvHU2"> Awesome Javascript Learning </a></td>
@@ -627,6 +627,13 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td><b> not started </b></td>
             <td> book </td>
             <td><a href="http://bit.ly/2FmMHYb"> The Secrects of JavaScript Ninja </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> videos </td>
+            <td><a href="https://bit.ly/2KmhGpw"> Youtube/Let's Code </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
