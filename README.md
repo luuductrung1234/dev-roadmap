@@ -4,7 +4,7 @@
 
 ***
 
-Welcome to developer roadmap, this repository contain the learning **path/roadmap**, **resource** for many seperated IT majors
+Welcome to developer roadmap, this repository contains learning **paths/roadmaps**, **resources** for many seperated IT majors
 
 ***
 
@@ -23,13 +23,13 @@ Welcome to developer roadmap, this repository contain the learning **path/roadma
 
 
 ## About
-> This repository is base on many other public repo in Github. It's still in the construction.
+> This repository is base on many other public repos in Github. It's still in the construction.
 >
 > Feel free to fork and use it in your own way (note: your forked repo will not contain resource boards)
 
 ## Instruction
-> - Visit [**Wiki**](https://github.com/luuductrung1234/dev-roadmap/wiki) to see instruction details
-> - Visit [**My Collected Resources**](https://github.com/luuductrung1234/dev-roadmap/projects) to see the resource boards
+> - Let visit [**Wiki**](https://github.com/luuductrung1234/dev-roadmap/wiki) to see instruction details
+> - Let visit [**My Board**](https://github.com/luuductrung1234/dev-roadmap/projects) to see the collected resources
 > - You can choose a specific major that you concern to start learning and using these resources 
 
 ## Contribute
