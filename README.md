@@ -32,6 +32,9 @@ Welcome to developer roadmap, this repository contain the learning **path/roadma
 > - Visit [**My Collected Resources**](https://github.com/luuductrung1234/dev-roadmap/projects) to see the resource boards
 > - You can choose a specific major that you concern to start learning and using these resources 
 
+## Contribute
+> If you have your own favorite resources (website, video, books, etc.) that related to this repo, you can send me or create a pull request to help we impove the repo better. Thank you! :heart:
+
 ## :clipboard: Owner Todo List
 > - add Single-Platform/Hybrid-App/Native-App details path in **Mobile-Development-Roadmap**
 > - update path in **Data-Science-Roadmap**
