@@ -1,4 +1,4 @@
-<img src="https://github.com/luuductrung1234/dev-roadmap/blob/master/devroadmap.png" alt="devroadmap">
+<img src="devroadmap.png" alt="devroadmap">
 
 # :mortar_board: Developer Roadmap
 
@@ -11,15 +11,15 @@ Welcome to developer roadmap, this repository contains learning **paths/roadmaps
 
 ## :fire: Index
 * ### [Academy](https://github.com/luuductrung1234/dev-roadmap/projects/2)   
-   *  [Computer Science](https://github.com/luuductrung1234/dev-roadmap/tree/master/computer-science-roadmap)
-   *  [Data Science](https://github.com/luuductrung1234/dev-roadmap/tree/master/data-science-roadmap)
-   *  [Machine Learning](https://github.com/luuductrung1234/dev-roadmap/tree/master/machine-learning-roadmap)
+   *  [Computer Science](/computer-science-roadmap)
+   *  [Data Science](/data-science-roadmap)
+   *  [Machine Learning](/machine-learning-roadmap)
   
-* ### [Web Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/web-development-roadmap)
-* ### [Mobile Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/mobile-development-roadmap) `not ready`
-* ### [Game Development](https://github.com/luuductrung1234/dev-roadmap/tree/master/game-development-roadmap) `not ready`
-* ### [Design](https://github.com/togiberlin/ui-ux-designer-roadmap)              `not ready`
-* ### [IOS Development](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)           `not ready`
+* ### [Web Development](/web-development-roadmap)
+* ### [Mobile Development](/mobile-development-roadmap) `not ready`
+* ### [Game Development](/game-development-roadmap) `not ready`
+* ### [Design](/ui-ux-designer-roadmap)              `not ready`
+* ### [IOS Development](/iOS-Developer-Roadmap)           `not ready`
 
 
 ## About
