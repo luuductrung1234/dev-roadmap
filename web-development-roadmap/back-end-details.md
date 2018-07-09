@@ -1228,9 +1228,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="12"> :black_square_button: </td>
-            <td rowspan="12"><b> Spring </b></td>
-            <td rowspan="12"> ---  </td>
+            <td rowspan="14"> :black_square_button: </td>
+            <td rowspan="14"><b> Spring </b></td>
+            <td rowspan="14"> ---  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://bit.ly/2LoC8CZ"> PluralSight/Core-Spring </a></td>
@@ -1252,7 +1252,21 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
         <tr>
-            <td><b> on  </b></td>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2L1s0CO"> Udemy/Spring-Core-Learn-Spring-Framnework4-and-SpringBoot </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2MYRy12"> Udemy/Spring-Core-Advanced-Beyond-The-Basic </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started  </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2tLoMsx"> Udemy/Spring-Framework5-Beginner-to-Guru </a></td>
             <td> --- </td>
