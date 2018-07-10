@@ -91,12 +91,19 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="7"> :white_check_mark: </td>
-            <td rowspan="7"><b> Networking </b></td>
-            <td rowspan="7"> :notebook:  </td>
+            <td rowspan="8"> :white_check_mark: </td>
+            <td rowspan="8"><b> Networking </b></td>
+            <td rowspan="8"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://bit.ly/2Kli1ZB"> PluralSight/Networking-Fundamentals </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> on hold </b></td>
+            <td> book </td>
+            <td><a href="https://1drv.ms/b/s!Aoo1lJ2qnAfPgVDDuiAqkBCXJaq5"> Computer-Networking-A-Top-Down-Approach </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
