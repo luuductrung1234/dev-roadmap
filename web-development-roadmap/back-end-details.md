@@ -1089,9 +1089,9 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="8"> :white_check_mark: </td>
-            <td rowspan="8"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
-            <td rowspan="8"> :ledger:  </td>
+            <td rowspan="9"> :white_check_mark: </td>
+            <td rowspan="9"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
+            <td rowspan="9"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java-ee-foundations"> PluralSight/JavaEE-Skill-Path </a></td>
@@ -1137,6 +1137,13 @@ kyu (your current level) | Ability
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2qeGMKe"> PluralSight/Maven-Fundamental </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> book </td>
+            <td><a href="https://livebook.manning.com/#!/book/junit-in-action-second-edition/table-of-contents/"> Junit-In-Action </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
