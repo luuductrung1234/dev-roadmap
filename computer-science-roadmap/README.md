@@ -350,7 +350,6 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Object Oriented Java Programming: Data Structures and Beyond specialization](https://www.coursera.org/specializations/java-object-oriented) | 4-6 months | 8-12 hours/weeks | none pre-requisite
 [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) [(more)](https://github.com/luuductrung1234/computer-science/blob/master/extras/db-courses.md#course)| 12 weeks | 8-12 hours/week | some programming, basic CS
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | linear algebra
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)| 6 weeks | 12 hours/week | C++ or Java, linear algebra
