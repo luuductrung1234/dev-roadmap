@@ -153,8 +153,6 @@ Both are required, but feel free to skip straight to the second course when CS50
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Learn to Program: The Fundationtals](https://www.coursera.org/learn/learn-to-program) | 7 weeks | 3-4 hours/week | none pre-requisite
-[Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code) | 5 weeks | 3-4 hours/week | Learn to Program: The Fundationtals
 [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week | none
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | high school algebra
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)  _(optional)_ | 10 weeks | 15 hours/week | above
