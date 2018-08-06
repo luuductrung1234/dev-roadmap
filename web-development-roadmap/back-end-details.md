@@ -1266,7 +1266,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td><b> on hold </b></td>
+            <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2MYRy12"> Udemy/Spring-Core-Advanced-Beyond-The-Basic </a></td>
             <td> --- </td>
@@ -1294,7 +1294,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
         <tr>
-            <td><b> not started </b></td>
+            <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2Mxyg2i"> Udemy/Master-Spring-WebService-And-REST-API-with-Spring-Boot </a></td>
             <td> --- </td>
