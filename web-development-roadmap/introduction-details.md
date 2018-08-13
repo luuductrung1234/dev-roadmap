@@ -166,6 +166,16 @@ kyu (your current level) | Ability
             <td> --- </td>
             <td> --- </td>
         </tr>
+         <tr>
+            <td rowspan="1"> :white_check_mark: </td>
+            <td rowspan="1"><b> DNS </b></td>
+            <td rowspan="1"> :notebook:  </td>
+            <td><b> on hold </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2w3deSM"> PkuralSight/Deep-Dive:Domain-Name-Service </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
         <tr>
             <td rowspan="1"> :black_square_button: </td>
             <td rowspan="1"><b> SSH </b></td>
