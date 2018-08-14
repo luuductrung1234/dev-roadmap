@@ -170,7 +170,7 @@ kyu (your current level) | Ability
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> DNS </b></td>
             <td rowspan="1"> :notebook:  </td>
-            <td><b> comp </b></td>
+            <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2w3deSM"> PkuralSight/Deep-Dive:Domain-Name-Service </a></td>
             <td> --- </td>
