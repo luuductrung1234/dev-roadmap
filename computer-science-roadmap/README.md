@@ -219,23 +219,22 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) _(optional)_ | - | - | -
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
 [Pre-Calculus: Function](https://www.coursera.org/learn/pre-calculus) _(optional)_ | - | - | -
 [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry) _(optional)_ | - | - | - 
-[Pre-Calculus](https://www.edx.org/course/precalculus-asux-mat170x) ([alt](https://www.edx.org/course/pre-university-calculus-delftx-calc001x-2))| 6 weeks | 6-8 hours/weeks | College Algebra and Problem Solving
+[Pre-Calculus](https://www.edx.org/course/precalculus-asux-mat170x) ([alt](https://www.edx.org/course/pre-university-calculus-delftx-calc001x-2)) _(optional)_ | 6 weeks | 6-8 hours/weeks | College Algebra and Problem Solving
 [Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> ([alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
 [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | Calculus One
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x-0) | 13 weeks | 6-10 hours/week | pre-calculus
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x-0) | 13 weeks | 5-10 hours/week | Calculus 1A
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | 13 weeks | 5-10 hours/week | Calculus 1B
-[Calculus Applied](https://www.edx.org/course/calculus-applied-harvardx-calcapl1x) _(optional)_ | 7-9 weeks | 3-6 hours/week | Single-variable Calculus (derivatives, integrals and basics of differential equations); College or AP/IB High School Level
 [Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-mitx-18-031x) | 15 weeks | 5-8 hours/week | Single-variable Calculus
 [Differential Equation 2x2 System](https://www.edx.org/course/differential-equations-2x2-systems-mitx-18-032x) | 9 weeks | 2-5 hours/week | above
 [Differential Equations: Linear Algebra and NxN Systems of Differential Equations]() | 9 weeks | 5-8 hours/week | above
-[Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab?siteID=SAyYsTvLiGQ-..1bdIcvepAf7mfRUjm8rA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | 9 weeks | 8 hours/week | none pre-requisite
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x-0) | 13 weeks | 5-10 hours/week | Calculus 1A
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | 13 weeks | 5-10 hours/week | Calculus 1B
+[Calculus Applied](https://www.edx.org/course/calculus-applied-harvardx-calcapl1x) _(optional)_ | 7-9 weeks | 3-6 hours/week | Single-variable Calculus (derivatives, integrals and basics of differential equations); College or AP/IB High School Level
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week | single variable calculus (Calculus Two)
+[Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab?siteID=SAyYsTvLiGQ-..1bdIcvepAf7mfRUjm8rA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | 9 weeks | 8 hours/week | none pre-requisite
 
 
 <sup>**1**</sup>: Students struggling with MIT Math for CS can consider taking the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first.
