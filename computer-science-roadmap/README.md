@@ -151,13 +151,13 @@ Both are required, but feel free to skip straight to the second course when CS50
 `basic HTML, CSS, JavaScript`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week | none
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | high school algebra
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)  _(optional)_ | 10 weeks | 15 hours/week | above
-[Fundamentals of Computing specialization](https://www.coursera.org/specializations/computer-fundamentals) |  6-9 months | 15 hours/weeks | Knowledge of high school mathematics is required. No previous programming knowledge is required.
-[Introduction to Scripting in Python specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) _(optional)_ | 4 months | 15 hours/weeks | No prior programming experience is necessary.
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week | none
+:black_square_button:  | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | high school algebra
+:black_square_button:  | [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)  _(optional)_ | 10 weeks | 15 hours/week | above
+:black_square_button:  | [Fundamentals of Computing specialization](https://www.coursera.org/specializations/computer-fundamentals) |  6-9 months | 15 hours/weeks | Knowledge of high school mathematics is required. No previous programming knowledge is required.
+:black_square_button:  | [Introduction to Scripting in Python specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) _(optional)_ | 4 months | 15 hours/weeks | No prior programming experience is necessary.
 
 ## Core CS
 
@@ -179,15 +179,15 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `Ruby`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none
-[How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
-[Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | 6 weeks | 8-10 hours/week | How to Code - Complex Data
-[Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | 6 weeks | 8-10 hours/week | Software Construction - Data Abstraction
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 8-16 hours/week | recommended: Java, C
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 8-16 hours/week | Programming Languages, Part A
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8-16 hours/week | Programming Languages, Part B
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none
+:black_square_button: | [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
+:black_square_button: | [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | 6 weeks | 8-10 hours/week | How to Code - Complex Data
+:black_square_button: | [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | 6 weeks | 8-10 hours/week | Software Construction - Data Abstraction
+:black_square_button: | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 8-16 hours/week | recommended: Java, C
+:black_square_button: | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 8-16 hours/week | Programming Languages, Part A
+:black_square_button: | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8-16 hours/week | Programming Languages, Part B
 
 #### Readings
 - **Extra read** an open source repo, contain about design pattern topic, that can easily mind wobble [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans#creational-design-patterns)
@@ -217,24 +217,24 @@ Courses | Duration | Effort | Prerequisites
 `discrete probability`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
-[Pre-Calculus: Function](https://www.coursera.org/learn/pre-calculus) _(optional)_ | - | - | -
-[Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry) _(optional)_ | - | - | - 
-[Pre-Calculus](https://www.edx.org/course/precalculus-asux-mat170x) ([alt](https://www.edx.org/course/pre-university-calculus-delftx-calc001x-2)) _(optional)_ | 6 weeks | 6-8 hours/weeks | College Algebra and Problem Solving
-[Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> ([alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
-[Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | Calculus One
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x-0) | 13 weeks | 6-10 hours/week | pre-calculus
-[Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-mitx-18-031x) | 15 weeks | 5-8 hours/week | Single-variable Calculus
-[Differential Equation 2x2 System](https://www.edx.org/course/differential-equations-2x2-systems-mitx-18-032x) | 9 weeks | 2-5 hours/week | above
-[Differential Equations: Linear Algebra and NxN Systems of Differential Equations]() | 9 weeks | 5-8 hours/week | above
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x-0) | 13 weeks | 5-10 hours/week | Calculus 1A
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | 13 weeks | 5-10 hours/week | Calculus 1B
-[Calculus Applied](https://www.edx.org/course/calculus-applied-harvardx-calcapl1x) _(optional)_ | 7-9 weeks | 3-6 hours/week | Single-variable Calculus (derivatives, integrals and basics of differential equations); College or AP/IB High School Level
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week | single variable calculus (Calculus Two)
-[Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab?siteID=SAyYsTvLiGQ-..1bdIcvepAf7mfRUjm8rA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | 9 weeks | 8 hours/week | none pre-requisite
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
+:black_square_button: | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
+:black_square_button: | [Pre-Calculus: Function](https://www.coursera.org/learn/pre-calculus) _(optional)_ | - | - | -
+:black_square_button: | [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry) _(optional)_ | - | - | - 
+:black_square_button: | [Pre-Calculus](https://www.edx.org/course/precalculus-asux-mat170x) ([alt](https://www.edx.org/course/pre-university-calculus-delftx-calc001x-2)) _(optional)_ | 6 weeks | 6-8 hours/weeks | College Algebra and Problem Solving
+:black_square_button: | [Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> ([alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
+:black_square_button: | [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | Calculus One
+:black_square_button: | [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x-0) | 13 weeks | 6-10 hours/week | pre-calculus
+:black_square_button: | [Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-mitx-18-031x) | 15 weeks | 5-8 hours/week | Single-variable Calculus
+:black_square_button: | [Differential Equation 2x2 System](https://www.edx.org/course/differential-equations-2x2-systems-mitx-18-032x) | 9 weeks | 2-5 hours/week | above
+:black_square_button: | [Differential Equations: Linear Algebra and NxN Systems of Differential Equations]() | 9 weeks | 5-8 hours/week | above
+:black_square_button: | [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x-0) | 13 weeks | 5-10 hours/week | Calculus 1A
+:black_square_button: | [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | 13 weeks | 5-10 hours/week | Calculus 1B
+:black_square_button: | [Calculus Applied](https://www.edx.org/course/calculus-applied-harvardx-calcapl1x) _(optional)_ | 7-9 weeks | 3-6 hours/week | Single-variable Calculus (derivatives, integrals and basics of differential equations); College or AP/IB High School Level
+:black_square_button: | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week | single variable calculus (Calculus Two)
+:black_square_button: | [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab?siteID=SAyYsTvLiGQ-..1bdIcvepAf7mfRUjm8rA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | 9 weeks | 8 hours/week | none pre-requisite
 
 
 <sup>**1**</sup>: Students struggling with MIT Math for CS can consider taking the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first.
