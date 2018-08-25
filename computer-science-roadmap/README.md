@@ -257,14 +257,14 @@ It is more interactive but less comprehensive, and it costs money to unlock full
 `network protocols`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | none
-[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I
-[Carnegie Mellon Computer Architecture](https://www.youtube.com/channel/UCnoYy1k6I5gLIxhlNiStrdQ) _(optional)_ | - | - | -
-[Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| 8 weeks | 4–12 hours/week | algebra, probability, basic CS
-[ops-class.org - Hack the Kernel](https://www.ops-class.org/) | 15 weeks | 6 hours/week | algorithms
-[Cisco Networking Basics Specialization](https://www.coursera.org/specializations/networking-basics) | 4 weeks long | 4-12 hours/week | none pre-requistie
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | none
+:black_square_button: | [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I
+:black_square_button: | [Carnegie Mellon Computer Architecture](https://www.youtube.com/channel/UCnoYy1k6I5gLIxhlNiStrdQ) _(optional)_ | - | - | -
+:black_square_button: | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| 8 weeks | 4–12 hours/week | algebra, probability, basic CS
+:black_square_button: | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | 15 weeks | 6 hours/week | algorithms
+:black_square_button: | [Cisco Networking Basics Specialization](https://www.coursera.org/specializations/networking-basics) | 4 weeks long | 4-12 hours/week | none pre-requistie
 
 #### Readings
 - **Recommended**: While Hack the Kernel recommends Modern Operating Systems as a textbook, we suggest using [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/).
@@ -284,12 +284,12 @@ Courses | Duration | Effort | Prerequisites
 `NP-completeness`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Data Structures and Algorithms specialization](https://www.coursera.org/specializations/data-structures-algorithms) | 6-8 months | 4-8 hours/weeks | Basic knowledge of at least one programming language (C, C++, C#, Haskell, Java, JavaScript, Python2, Python3, Ruby, and Scala): loops, arrays, stacks, recursion. Basic knowledge of mathematics: proof by induction, proof by contradiction.
-[Algorithms](https://www.coursera.org/specializations/algorithms) | 16 weeks | 4-8 hours/weeks | Learners should know how to program in at least one programming language (like C, Java, or Python); some familiarity with proofs, including proofs by induction and by contradiction; and some discrete probability, like how to compute the probability that a poker hand is a full house. At Stanford, a version of this course is taken by sophomore, junior, and senior-level computer science majors.
-[Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science
-[Algorithms: Design and Analysis, Part II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | 8 weeks | 4-8 hours/week | Part I
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [Data Structures and Algorithms specialization](https://www.coursera.org/specializations/data-structures-algorithms) | 6-8 months | 4-8 hours/weeks | Basic knowledge of at least one programming language (C, C++, C#, Haskell, Java, JavaScript, Python2, Python3, Ruby, and Scala): loops, arrays, stacks, recursion. Basic knowledge of mathematics: proof by induction, proof by contradiction.
+:black_square_button: | [Algorithms](https://www.coursera.org/specializations/algorithms) | 16 weeks | 4-8 hours/weeks | Learners should know how to program in at least one programming language (like C, Java, or Python); some familiarity with proofs, including proofs by induction and by contradiction; and some discrete probability, like how to compute the probability that a poker hand is a full house. At Stanford, a version of this course is taken by sophomore, junior, and senior-level computer science majors.
+:black_square_button: | [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science
+:black_square_button: | [Algorithms: Design and Analysis, Part II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | 8 weeks | 4-8 hours/week | Part I
 
 
 **Extra stuff**
@@ -311,17 +311,17 @@ Path: go top-down
 ```
 _[see the MIT Interdisciplinary Program: Computer Science and Molecular Biology](http://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/computer-science-molecular-biology/)_
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Bioinformatics _(optional)_](https://www.coursera.org/specializations/bioinformatics) | 4-6 months | 4-8 hours/weeks | We require only a basic knowledge of high school-level biology and the ability to think technically.
-[Algorithmic Design and Techniques (Algorithmic Toolbox)](https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x) | 6 weeks | 8-10 hours/week | above
-[Data Structure](https://www.edx.org/course/data-structures-uc-san-diegox-algs201x) | 6 weeks | 8-10 hours/week | above
-[Graph Algorithms](https://www.edx.org/course/graph-algorithms-uc-san-diegox-algs202x) | 6 weeks | 8-10 hours/week | above
-[NP Complete Problem](https://www.edx.org/course/np-complete-problems-uc-san-diegox-algs203x) _(coming soon)_| 3 weeks | 8-10 hours/week | above
-[String processing and Pattern Matching Algorithms](https://www.edx.org/course/string-processing-pattern-matching-uc-san-diegox-algs204x) | 4 weeks | 8-10 hours/week | above
-[Dynamic Programming: Applications In Machine Learning and Genomics](https://www.edx.org/course/dynamic-programming-applications-machine-uc-san-diegox-algs205x) | 4 weeks | 8-10 hours/week | above
-[Graph Algorithms in Genome Sequencing](https://www.edx.org/course/graph-algorithms-genome-sequencing-uc-san-diegox-algs206x) | 3 weeks | 8-10 hours/week | above
-[Algorithms and Data Structures Capstone](https://www.edx.org/course/algorithms-data-structures-capstone-uc-san-diegox-algs207x) | 4 weeks | 8-10 hours/weeks | any programming language, Mathematics for Computer Science, Bioinformatics
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [Bioinformatics _(optional)_](https://www.coursera.org/specializations/bioinformatics) | 4-6 months | 4-8 hours/weeks | We require only a basic knowledge of high school-level biology and the ability to think technically.
+:black_square_button: | [Algorithmic Design and Techniques (Algorithmic Toolbox)](https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x) | 6 weeks | 8-10 hours/week | above
+:black_square_button: | [Data Structure](https://www.edx.org/course/data-structures-uc-san-diegox-algs201x) | 6 weeks | 8-10 hours/week | above
+:black_square_button: | [Graph Algorithms](https://www.edx.org/course/graph-algorithms-uc-san-diegox-algs202x) | 6 weeks | 8-10 hours/week | above
+:black_square_button: | [NP Complete Problem](https://www.edx.org/course/np-complete-problems-uc-san-diegox-algs203x) _(coming soon)_| 3 weeks | 8-10 hours/week | above
+:black_square_button: | [String processing and Pattern Matching Algorithms](https://www.edx.org/course/string-processing-pattern-matching-uc-san-diegox-algs204x) | 4 weeks | 8-10 hours/week | above
+:black_square_button: | [Dynamic Programming: Applications In Machine Learning and Genomics](https://www.edx.org/course/dynamic-programming-applications-machine-uc-san-diegox-algs205x) | 4 weeks | 8-10 hours/week | above
+:black_square_button: | [Graph Algorithms in Genome Sequencing](https://www.edx.org/course/graph-algorithms-genome-sequencing-uc-san-diegox-algs206x) | 3 weeks | 8-10 hours/week | above
+:black_square_button: | [Algorithms and Data Structures Capstone](https://www.edx.org/course/algorithms-data-structures-capstone-uc-san-diegox-algs207x) | 4 weeks | 8-10 hours/weeks | any programming language, Mathematics for Computer Science, Bioinformatics
 
 
 
@@ -345,15 +345,15 @@ Courses | Duration | Effort | Prerequisites
 `public key encryption`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) [(more)](https://github.com/luuductrung1234/computer-science/blob/master/extras/db-courses.md#course)| 12 weeks | 8-12 hours/week | some programming, basic CS
-[Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | linear algebra
-[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)| 6 weeks | 12 hours/week | C++ or Java, linear algebra
-[Cryptography I](https://www.coursera.org/course/crypto)| 6 weeks | 5-7 hours/week | linear algebra, probability
-[Java Programming and Software Engineering Fundamentals specialization](https://www.coursera.org/specializations/java-programming) | 6-7 months | 8-12 hours/week | above
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design
-[Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) [(more)](https://github.com/luuductrung1234/computer-science/blob/master/extras/db-courses.md#course)| 12 weeks | 8-12 hours/week | some programming, basic CS
+:black_square_button: | [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | linear algebra
+:black_square_button: | [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)| 6 weeks | 12 hours/week | C++ or Java, linear algebra
+:black_square_button: | [Cryptography I](https://www.coursera.org/course/crypto)| 6 weeks | 5-7 hours/week | linear algebra, probability
+:black_square_button: | [Java Programming and Software Engineering Fundamentals specialization](https://www.coursera.org/specializations/java-programming) | 6-7 months | 8-12 hours/week | above
+:black_square_button: | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design
+:black_square_button: | [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
 
 ## Advanced CS
 
@@ -378,16 +378,16 @@ If not, or if a student chooses not to take the Capstone, then a separate Final 
 `large-scale software architecture and design`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)| 9 weeks | 6-8 hours/week | none
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | Python, programming experience
-[LAFF: Programming for Correctness](https://www.edx.org/course/laff-programming-correctness-utaustinx-ut-p4c-14-01x) | 7 weeks | 6 hours/week | linear algebra
-[Introduction to Parallel Programming](https://www.udacity.com/course/intro-to-parallel-programming--cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) | 12 weeks | - | C, algorithms
-[Parallel, Concurrent and Distributed Programming in Java specialization](https://www.coursera.org/specializations/java-programming) | 12 weeks | 6-8 hours/week | The Specialization is targeted at an audience that is already familiar with sequential programming in Java, including a basic knowledge of Java 8 lambdas.
-[Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week | software engineering in Java
-[Software Design and Architecture specialization](https://www.coursera.org/specializations/software-design-architecture) | 3 – 5 weeks | 6-8 hours/week | Familiarity with object-oriented programming structures is essential. Basic Java programming knowledge is expected. Assignments and quizzes will require coding in Java. The capstone application will require you to use Android Studio, an integrated development environment.
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)| 9 weeks | 6-8 hours/week | none
+:black_square_button: | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming
+:black_square_button: | [Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | Python, programming experience
+:black_square_button: | [LAFF: Programming for Correctness](https://www.edx.org/course/laff-programming-correctness-utaustinx-ut-p4c-14-01x) | 7 weeks | 6 hours/week | linear algebra
+:black_square_button: | [Introduction to Parallel Programming](https://www.udacity.com/course/intro-to-parallel-programming--cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) | 12 weeks | - | C, algorithms
+:black_square_button: | [Parallel, Concurrent and Distributed Programming in Java specialization](https://www.coursera.org/specializations/java-programming) | 12 weeks | 6-8 hours/week | The Specialization is targeted at an audience that is already familiar with sequential programming in Java, including a basic knowledge of Java 8 lambdas.
+:black_square_button: | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week | software engineering in Java
+:black_square_button: | [Software Design and Architecture specialization](https://www.coursera.org/specializations/software-design-architecture) | 3 – 5 weeks | 6-8 hours/week | Familiarity with object-oriented programming structures is essential. Basic Java programming knowledge is expected. Assignments and quizzes will require coding in Java. The capstone application will require you to use Android Studio, an integrated development environment.
 
 ### Advanced math
 
@@ -399,13 +399,13 @@ Courses | Duration | Effort | Prerequisites
 `probability theory`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Calculus: Parametric Equations and Polar Coordinates](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/) | - | - | single-variable calculus (Calculus Two)
-[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 13 weeks | 12 hours/week | Parametric Equations and Polar Coordinates
-[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | 18 weeks | 12 hours/week | Multivariable Calculus
-[Introduction to Probability-part 1]() _(optional)_ | 16 weeks | 6 hours/week | College-level calculus (single-variable & multivariable). Comfort with mathematical reasoning, familiarity with sequences, limits, infinite series, the chain rule, and ordinary or multiple integrals.
-[Introduction to Probability-part 2](https://www.edx.org/course/introduction-to-probability-part-2-inference-processes) _(optional)_ | 16 weeks | 6 hours/week | above
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [Calculus: Parametric Equations and Polar Coordinates](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/) | - | - | single-variable calculus (Calculus Two)
+:black_square_button: | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 13 weeks | 12 hours/week | Parametric Equations and Polar Coordinates
+:black_square_button: | [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | 18 weeks | 12 hours/week | Multivariable Calculus
+:black_square_button: | [Introduction to Probability-part 1]() _(optional)_ | 16 weeks | 6 hours/week | College-level calculus (single-variable & multivariable). Comfort with mathematical reasoning, familiarity with sequences, limits, infinite series, the chain rule, and ordinary or multiple integrals.
+:black_square_button: | [Introduction to Probability-part 2](https://www.edx.org/course/introduction-to-probability-part-2-inference-processes) _(optional)_ | 16 weeks | 6 hours/week | above
 
 ### Advanced systems
 
@@ -425,16 +425,16 @@ Courses | Duration | Effort | Prerequisites
 `system call interface`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Mechanics: Kinematics and Dynamics](https://www.edx.org/course/mechanics-kinematics-dynamics-mitx-8-01-1x-0) | 5 weeks  | 10-12 hours/week | -
-[Mechanics: Momentum and Energy](https://www.edx.org/course/mechanics-momentum-energy-mitx-8-01-2x-0) | 6 weeks | 10-12 hours/week | above
-[Mechanics: Rotational Dynamics](https://www.edx.org/course/mechanics-rotational-dynamics-mitx-8-01-3x-0) | 6 weeks | 10-12 hours/week | above
-[Physics II: Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)<sup>1</sup> | 7 weeks | 8-10 hours/week | calculus, basic mechanics
-[Physics II: Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | 7 weeks | 8-10 hours/week | Electricity and Magnetism, Part 1
-[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | 10 weeks | 6 hours/week | electricity, magnetism
-[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | 10 weeks | 6 hours/week | Computation Structures 1
-[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | 10 weeks | 6 hours/week | Computation Structures 2
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [Mechanics: Kinematics and Dynamics](https://www.edx.org/course/mechanics-kinematics-dynamics-mitx-8-01-1x-0) | 5 weeks  | 10-12 hours/week | -
+:black_square_button: | [Mechanics: Momentum and Energy](https://www.edx.org/course/mechanics-momentum-energy-mitx-8-01-2x-0) | 6 weeks | 10-12 hours/week | above
+:black_square_button: | [Mechanics: Rotational Dynamics](https://www.edx.org/course/mechanics-rotational-dynamics-mitx-8-01-3x-0) | 6 weeks | 10-12 hours/week | above
+:black_square_button: | [Physics II: Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)<sup>1</sup> | 7 weeks | 8-10 hours/week | calculus, basic mechanics
+:black_square_button: | [Physics II: Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | 7 weeks | 8-10 hours/week | Electricity and Magnetism, Part 1
+:black_square_button: | [Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | 10 weeks | 6 hours/week | electricity, magnetism
+:black_square_button: | [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | 10 weeks | 6 hours/week | Computation Structures 1
+:black_square_button: | [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | 10 weeks | 6 hours/week | Computation Structures 2
 
 **<sup>1</sup> Note**:
 These courses assume knowledge of basic physics.
@@ -461,15 +461,15 @@ If you are struggling, you can find a physics MOOC or utilize the materials from
 `game trees`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | set theory
-[Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) | 8 weeks | 10 hours/week | discrete mathematics, logic, algorithms
-[Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) | 5 weeks | 5 hours/week | Scala, intermediate CS
-[Reliable Distributed Systems, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x) | 5 weeks | 5 hours/week | Part 1
-[Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++
-[Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | 6 weeks | 4-6 hours/week | logic, probability
-[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | x hours/week | mathematical thinking, probability, calculus
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | set theory
+:black_square_button: | [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) | 8 weeks | 10 hours/week | discrete mathematics, logic, algorithms
+:black_square_button: | [Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) | 5 weeks | 5 hours/week | Scala, intermediate CS
+:black_square_button: | [Reliable Distributed Systems, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x) | 5 weeks | 5 hours/week | Part 1
+:black_square_button: | [Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++
+:black_square_button: | [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | 6 weeks | 4-6 hours/week | logic, probability
+:black_square_button: | [Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | x hours/week | mathematical thinking, probability, calculus
 
 ### Advanced applications
 
@@ -478,16 +478,16 @@ Depending on the course, you may be able to utilize the Capstone as your Final P
 Note that doing a Specialization with the Capstone at the end always costs money.
 So if you don't wish to spend money or use the Capstone as your Final, it may be possible to take the courses in the Specialization for free by manually searching for them, but not all allow this.
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Robotics (Specialization)](https://www.coursera.org/specializations/robotics) | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
-[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
-[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
-[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
-[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
-[Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
-[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
-[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/weeks | One year programming experience
+Process | Courses | Duration | Effort | Prerequisites
+ :--: | :-- | :--: | :--: | :--:
+:black_square_button: | [Robotics (Specialization)](https://www.coursera.org/specializations/robotics) | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
+:black_square_button: | [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
+:black_square_button: | [Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
+:black_square_button: | [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
+:black_square_button: | [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
+:black_square_button: | [Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
+:black_square_button: | [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
+:black_square_button: | [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/weeks | One year programming experience
 
 ## Final project
 
