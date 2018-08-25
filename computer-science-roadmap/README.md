@@ -219,17 +219,17 @@ Process | Courses | Duration | Effort | Prerequisites
 
 Process | Courses | Duration | Effort | Prerequisites
  :--: | :-- | :--: | :--: | :--:
-:black_square_button: | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
-:black_square_button: | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
 :black_square_button: | [Pre-Calculus: Function](https://www.coursera.org/learn/pre-calculus) _(optional)_ | - | - | -
 :black_square_button: | [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry) _(optional)_ | - | - | - 
 :black_square_button: | [Pre-Calculus](https://www.edx.org/course/precalculus-asux-mat170x) ([alt](https://www.edx.org/course/pre-university-calculus-delftx-calc001x-2)) _(optional)_ | 6 weeks | 6-8 hours/weeks | College Algebra and Problem Solving
+:black_square_button: | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
+:black_square_button: | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
 :black_square_button: | [Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> ([alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
 :black_square_button: | [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | Calculus One
 :black_square_button: | [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x-0) | 13 weeks | 6-10 hours/week | pre-calculus
-:black_square_button: | [Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-mitx-18-031x) | 15 weeks | 5-8 hours/week | Single-variable Calculus
-:black_square_button: | [Differential Equation 2x2 System](https://www.edx.org/course/differential-equations-2x2-systems-mitx-18-032x) | 9 weeks | 2-5 hours/week | above
-:black_square_button: | [Differential Equations: Linear Algebra and NxN Systems of Differential Equations]() | 9 weeks | 5-8 hours/week | above
+:black_square_button: | [Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-mitx-18-031x)   _(optional)_ | 15 weeks | 5-8 hours/week | Single-variable Calculus
+:black_square_button: | [Differential Equation 2x2 System](https://www.edx.org/course/differential-equations-2x2-systems-mitx-18-032x)   _(optional)_  | 9 weeks | 2-5 hours/week | above
+:black_square_button: | [Differential Equations: Linear Algebra and NxN Systems of Differential Equations]()   _(optional)_  | 9 weeks | 5-8 hours/week | above
 :black_square_button: | [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x-0) | 13 weeks | 5-10 hours/week | Calculus 1A
 :black_square_button: | [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | 13 weeks | 5-10 hours/week | Calculus 1B
 :black_square_button: | [Calculus Applied](https://www.edx.org/course/calculus-applied-harvardx-calcapl1x) _(optional)_ | 7-9 weeks | 3-6 hours/week | Single-variable Calculus (derivatives, integrals and basics of differential equations); College or AP/IB High School Level
