@@ -91,6 +91,23 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
+            <td rowspan="2"> :white_check_mark: </td>
+            <td rowspan="2"><b> Visual Studio Team Service - VSTS </b></td>
+            <td rowspan="2"> :ledger: </td>
+            <td><b> on hold </b></td>
+            <td>Course</td>
+            <td><a href="https://bit.ly/2NPUfCK"> PluralSight/Getting-Started-With-Visual-Studio-Team-Service-(2018) </a></td>
+            <td><a href="#">Certificate</a></td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2oOwEHU"> PluralSight/Visual-Studio-Team-Service-Migrating-From-TFS </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
             <td rowspan="8"> :white_check_mark: </td>
             <td rowspan="8"><b> Networking </b></td>
             <td rowspan="8"> :notebook:  </td>
