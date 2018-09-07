@@ -97,7 +97,7 @@ kyu (your current level) | Ability
             <td><b> on hold </b></td>
             <td>Course</td>
             <td><a href="https://bit.ly/2NPUfCK"> PluralSight/Getting-Started-With-Visual-Studio-Team-Service-(2018) </a></td>
-            <td><a href="#">Certificate</a></td>
+            <td> --- </td>
             <td> --- </td>
         </tr>
          <tr>
