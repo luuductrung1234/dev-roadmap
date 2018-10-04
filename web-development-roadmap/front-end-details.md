@@ -810,9 +810,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
 	<tr>
-            <td rowspan="7"> :black_square_button: </td>
-            <td rowspan="7"><b> <a href="https://angularjs.org/">AngularJS</a> </b></td>
-            <td rowspan="7"> ---  </td>
+            <td rowspan="6"> :black_square_button: </td>
+            <td rowspan="6"><b> <a href="https://angularjs.org/">AngularJS</a> </b></td>
+            <td rowspan="6"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2nupmJ5"> Udemy/AngularJ5-The-Complete-Guide </a></td>
@@ -847,13 +847,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-        <tr>
-            <td><b> not started </b></td>
-            <td> path </td>
-            <td><a href="http://bit.ly/2HisHSW"> Lynda/Become-Angular(2+)-Developer </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
 	<tr>
             <td><b> not buy yet </b></td>
             <td> course </td>
@@ -885,9 +878,58 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-	<tr><td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> <a href="https://angular.io/">Angular</a> </b></td>
-            <td rowspan="1"> ---  </td>
+	<tr><td rowspan="8"> :white_check_mark: </td>
+            <td rowspan="8"><b> <a href="https://angular.io/">Angular</a> </b></td>
+            <td rowspan="8"> :ledger:  </td>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2mESyfg"> Udemy/Angular6-(formerly-Angular2)-The-Complete-Guide </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2DUCRfJ"> Udemy/Angular5-Concept-Mastery-Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2IzHavv"> Udemy/Testing-Angular4-Apps-with-Jasmine </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2xWtmaw"> Udemy/Angular-RxJS-Reactive-Programming-Free-Ebook </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2ybeJiD"> Udemy/Angular6-Security-MasterClass </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2Pa7M8T"> Udemy/Angular-NodeJS-The-MEAN-Stack-Guide </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2NlIl2o"> Udemy/Build-An-App-With-ASPNET-Core-And-Angular-From-Scratch </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
