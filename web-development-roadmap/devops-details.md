@@ -35,6 +35,8 @@ kyu (your current level) | Ability
 
 ![](https://i.imgur.com/pyg9mH1.png)
 
+![](./images/devops.png)
+
 
 
 ### Operating System
