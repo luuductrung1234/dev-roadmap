@@ -18,7 +18,7 @@ Welcome to developer roadmap, this repository contains learning **paths/roadmaps
 * ### [Web Development](/web-development-roadmap)
 * ### [Mobile Development](/mobile-development-roadmap) `not ready`
 * ### [Game Development](/game-development-roadmap) `not ready`
-* ### [Design](/ui-ux-designer-roadmap)              `not ready`
+* ### [Design](/design-roadmap)
 * ### [IOS Development](/iOS-Developer-Roadmap)           `not ready`
 
 
