@@ -12,7 +12,7 @@ Index:
 ## Software Engineering - Greenwich University
 ### Advanced Programming
  - [Design Pattern bookmark](https://keep.google.com/u/0/#label/Design%20Pattern)
- - [Medium/omarelgabrys-blog Software Requirement Engineering series](https://medium.com/omarelgabrys-blog/requirements-engineering-introduction-part-1-6d49001526d3)
+ - [Software Requirement Engineering series - (Medium/omarelgabrys-blog)](https://medium.com/omarelgabrys-blog/requirements-engineering-introduction-part-1-6d49001526d3)
 
 
 ### Business Intelligence
