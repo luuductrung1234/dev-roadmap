@@ -1,6 +1,7 @@
 # Research Note and Bookmark
 Index:
 - [Software Development](#software-engineering---greenwich-university)
+  - [software development life cycle]
   - [advanced programming](#advanced-programming)
   - [business intelligence](#business-intelligence)
   - [security](#security)
@@ -11,7 +12,7 @@ Index:
 
 ## Software Engineering - Greenwich University
 ### Software Development Life Cycle
- - [Software Development Lift Cycle bookmark](https://keep.google.com/u/0/#label/Software%20Development%20Life%20Cycle)
+ - [Software Development Life Cycle bookmark](https://keep.google.com/u/0/#label/Software%20Development%20Life%20Cycle)
 
 ### Advanced Programming
  - [Design Pattern bookmark](https://keep.google.com/u/0/#label/Design%20Pattern)
