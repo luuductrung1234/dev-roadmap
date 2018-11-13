@@ -162,7 +162,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="11"> :white_check_mark: </td>
             <td rowspan="11"><b> JavaScript Basic </b></td>
-            <td rowspan="11"> :notebook:  </td>
+            <td rowspan="11"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/1gfAaCZ"> JS The Right Way (overview about JS) </a></td>
@@ -242,7 +242,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="4"> :white_check_mark: </td>
             <td rowspan="4"><b> JavaScript Native Specs </b></td>
-            <td rowspan="4"> :notebook:  </td>
+            <td rowspan="4"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/2HlA7F8"> How JavaScript objects work </a></td>
@@ -433,7 +433,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Bootstrap </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/28IH8Sj"> Udemy/The-complete-Bootstrap-master-class </a></td>
@@ -574,7 +574,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="8"> :white_check_mark: </td>
             <td rowspan="8"><b> Advance JavaScript </b></td>
-            <td rowspan="8"> :notebook:  </td>
+            <td rowspan="8"> :ledger:  </td>
 	    <td><b> complete </b></td>
             <td> source </td>
             <td><a href="https://bit.ly/2DRvHU2"> Awesome Javascript Learning </a></td>
@@ -711,7 +711,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> <a href="https://bit.ly/2pxwcgQ">TypeScript</a> / <a href="https://flow.org/">Flow</a> </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
