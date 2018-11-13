@@ -35,6 +35,8 @@
   - [How to show your progress](#how-to-show-your-progress)
   - [Team](#team)
 - [References](#references)
+- [Research Note and Bookmark](research-note-and-bookmark.md)
+
 
 # Summary
 
