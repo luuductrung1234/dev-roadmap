@@ -10,15 +10,14 @@ Welcome to developer roadmap, this repository contains learning **paths/roadmaps
 
 
 ## :fire: Index
-* ### [Academy](https://github.com/luuductrung1234/dev-roadmap/projects/2)   
-   *  [Computer Science](/computer-science-roadmap)
-   *  [Data Science](/data-science-roadmap)
-   *  [Machine Learning](/machine-learning-roadmap)
-  
+ 
+* ### [Computer Science](/computer-science-roadmap)
+* ### [Data Science](/data-science-roadmap)
+* ### [Machine Learning](/machine-learning-roadmap)
 * ### [Web Development](/web-development-roadmap)
-* ### [Mobile Development](/mobile-development-roadmap) `not ready`
-* ### [Game Development](/game-development-roadmap) `not ready`
 * ### [Design](/design-roadmap)
+* ### [Mobile Development](/mobile-development-roadmap)
+* ### [Game Development](/game-development-roadmap)
 * ### [IOS Development](/iOS-Developer-Roadmap)           `not ready`
 
 
