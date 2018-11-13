@@ -1635,7 +1635,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="2"> :white_square_button: </td>
+            <td rowspan="2"> :white_check_mark: </td>
             <td rowspan="2"><b> Design Patterns </b></td>
             <td rowspan="2"> :notebook:  </td>
             <td><b> not started </b></td>
@@ -1652,7 +1652,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="4"> :white_square_button: </td>
+            <td rowspan="4"> :white_check_mark: </td>
             <td rowspan="4"><b> Creational Design Patterns </b></td>
             <td rowspan="4"> :notebook:  </td>
             <td><b> not started </b></td>
@@ -1683,7 +1683,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
         <tr>
-            <td rowspan="9"> :white_square_button: </td>
+            <td rowspan="9"> :white_check_mark: </td>
             <td rowspan="9"><b> Structural Design Patterns </b></td>
             <td rowspan="9"> :notebook:  </td>
             <td><b> not started </b></td>
@@ -1749,7 +1749,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
        	<tr>
-            <td rowspan="4"> :white_square_button: </td>
+            <td rowspan="4"> :white_check_mark: </td>
             <td rowspan="4"><b> Behavioral Design Patterns </b></td>
             <td rowspan="4"> :notebook:  </td>
             <td><b> not started </b></td>
@@ -1780,7 +1780,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 		      <tr>
-            <td rowspan="3"> :white_square_button: </td>
+            <td rowspan="3"> :white_check_mark: </td>
             <td rowspan="3"><b> MV* Design Patterns </b></td>
             <td rowspan="3"> :notebook:  </td>
             <td><b> not started </b></td>
