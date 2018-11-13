@@ -1,8 +1,8 @@
 # Research Note and Bookmark
 Index:
-- [advanced programming](##advanced-programming)
-- [business intelligence](##business-intelligence)
-- [security](##security)
+- [advanced programming](#advanced-programming)
+- [business intelligence](#business-intelligence)
+- [security](#security)
 
 
 
