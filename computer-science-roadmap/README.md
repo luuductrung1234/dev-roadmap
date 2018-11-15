@@ -128,6 +128,9 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 ---
 
+<br/>
+<br/>
+
 ## Prerequisites
 
 - [Core CS](#core-cs) assumes the student has already taken high school math and physics, including algebra, geometry, and pre-calculus.
@@ -160,6 +163,11 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button:  | [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)  _(optional)_ | 10 weeks | 15 hours/week | above
 :black_square_button:  | [Fundamentals of Computing specialization](https://www.coursera.org/specializations/computer-fundamentals) |  6-9 months | 15 hours/weeks | Knowledge of high school mathematics is required. No previous programming knowledge is required.
 :black_square_button:  | [Introduction to Scripting in Python specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) _(optional)_ | 4 months | 15 hours/weeks | No prior programming experience is necessary.
+
+
+<br/>
+<br/>
+
 
 ## Core CS
 
@@ -336,6 +344,11 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design
 :black_square_button: | [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
 
+
+<br/>
+<br/>
+
+
 ## Advanced CS
 
 After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest.
@@ -470,6 +483,12 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
 :black_square_button: | [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/weeks | One year programming experience
 
+
+
+<br/>
+<br/>
+
+
 ## Final project
 
 OSS University is **project-focused**.
@@ -519,6 +538,12 @@ You can use **any** language that you want to complete the final project.
 
 The important thing is to **internalize** the core concepts and to be able to use them with whatever tool (programming language) that you wish.
 
+
+
+<br/>
+<br/>
+
+
 ## Pro CS
 
 After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Computer Science, or quite close to one.
@@ -551,6 +576,12 @@ These aren't the only specializations you can choose. Check the following websit
   + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
+
+
+
+<br/>
+<br/>
+
 
 # Code of conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
