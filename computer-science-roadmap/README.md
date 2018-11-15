@@ -200,9 +200,8 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8-16 hours/week | Programming Languages, Part B
 
 #### Readings
-- **Extra read** an open source repo, contain about design pattern topic, that can easily mind wobble [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans#creational-design-patterns)
-- **Note**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
-  - **OBS**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
+- **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
+  - **Note**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
 - **Required**, to learn about logic programming, backtracking, unification: [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 
 ### Core math
@@ -233,7 +232,7 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry) _(optional)_ | - | - | - 
 :black_square_button: | [Pre-Calculus](https://www.edx.org/course/precalculus-asux-mat170x) ([alt](https://www.edx.org/course/pre-university-calculus-delftx-calc001x-2)) _(optional)_ | 6 weeks | 6-8 hours/weeks | College Algebra and Problem Solving
 :black_square_button: | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
-:black_square_button: | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
+:black_square_button: | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
 :black_square_button: | [Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> ([alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
 :black_square_button: | [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | Calculus One
 :black_square_button: | [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x-0) | 13 weeks | 6-10 hours/week | pre-calculus
@@ -244,7 +243,6 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | 13 weeks | 5-10 hours/week | Calculus 1B
 :black_square_button: | [Calculus Applied](https://www.edx.org/course/calculus-applied-harvardx-calcapl1x) _(optional)_ | 7-9 weeks | 3-6 hours/week | Single-variable Calculus (derivatives, integrals and basics of differential equations); College or AP/IB High School Level
 :black_square_button: | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week | single variable calculus (Calculus Two)
-:black_square_button: | [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab?siteID=SAyYsTvLiGQ-..1bdIcvepAf7mfRUjm8rA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | 9 weeks | 8 hours/week | none pre-requisite
 
 
 <sup>**1**</sup>: Students struggling with MIT Math for CS can consider taking the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first.
@@ -274,7 +272,6 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Carnegie Mellon Computer Architecture](https://www.youtube.com/channel/UCnoYy1k6I5gLIxhlNiStrdQ) _(optional)_ | - | - | -
 :black_square_button: | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| 8 weeks | 4–12 hours/week | algebra, probability, basic CS
 :black_square_button: | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | 15 weeks | 6 hours/week | algorithms
-:black_square_button: | [Cisco Networking Basics Specialization](https://www.coursera.org/specializations/networking-basics) | 4 weeks long | 4-12 hours/week | none pre-requistie
 
 #### Readings
 - **Recommended**: While Hack the Kernel recommends Modern Operating Systems as a textbook, we suggest using [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/).
@@ -343,6 +340,9 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Java Programming and Software Engineering Fundamentals specialization](https://www.coursera.org/specializations/java-programming) | 6-7 months | 8-12 hours/week | above
 :black_square_button: | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design
 :black_square_button: | [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
+
+#### Readings
+- **Extra read** an open source repo, contain about design pattern topic, that can easily mind wobble [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans#creational-design-patterns)
 
 **MicroMaster Software Development** (offer by [Edx.org at link](https://www.edx.org/micromasters/software-development))
 
@@ -424,9 +424,8 @@ Process | Courses | Duration | Effort | Prerequisites
 
 Process | Courses | Duration | Effort | Prerequisites
  :--: | :-- | :--: | :--: | :--:
-:black_square_button: | [Mechanics: Kinematics and Dynamics](https://www.edx.org/course/mechanics-kinematics-dynamics-mitx-8-01-1x-0) | 5 weeks  | 10-12 hours/week | -
-:black_square_button: | [Mechanics: Momentum and Energy](https://www.edx.org/course/mechanics-momentum-energy-mitx-8-01-2x-0) | 6 weeks | 10-12 hours/week | above
-:black_square_button: | [Mechanics: Rotational Dynamics](https://www.edx.org/course/mechanics-rotational-dynamics-mitx-8-01-3x-0) | 6 weeks | 10-12 hours/week | above
+:black_square_button: | [Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) | 5 weeks | 5 hours/week | Scala, intermediate CS
+:black_square_button: | [Reliable Distributed Systems, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x) | 5 weeks | 5 hours/week | Part 1
 :black_square_button: | [Physics II: Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)<sup>1</sup> | 7 weeks | 8-10 hours/week | calculus, basic mechanics
 :black_square_button: | [Physics II: Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | 7 weeks | 8-10 hours/week | Electricity and Magnetism, Part 1
 :black_square_button: | [Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | 10 weeks | 6 hours/week | electricity, magnetism
@@ -462,8 +461,6 @@ Process | Courses | Duration | Effort | Prerequisites
  :--: | :-- | :--: | :--: | :--:
 :black_square_button: | [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | set theory
 :black_square_button: | [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) | 8 weeks | 10 hours/week | discrete mathematics, logic, algorithms
-:black_square_button: | [Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) | 5 weeks | 5 hours/week | Scala, intermediate CS
-:black_square_button: | [Reliable Distributed Systems, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x) | 5 weeks | 5 hours/week | Part 1
 :black_square_button: | [Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++
 :black_square_button: | [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | 6 weeks | 4-6 hours/week | logic, probability
 :black_square_button: | [Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | x hours/week | mathematical thinking, probability, calculus
