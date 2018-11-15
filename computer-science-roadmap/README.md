@@ -304,27 +304,6 @@ Process | Courses | Duration | Effort | Prerequisites
 
 **MicroMaster Algorithms and Data Structures** (offer by [Edx.org at link](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures))
 
-```
-The board below is the optional step, which relevant Bioinformatics (interdisciplinary Program)
-The Average length: 3-7 weeks per course
-Effort: 8-10 hours/week per course
-Subjects: Computer Science, Biology & Life Sciences, Math
-Path: go top-down
-```
-_[see the MIT Interdisciplinary Program: Computer Science and Molecular Biology](http://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/computer-science-molecular-biology/)_
-
-Process | Courses | Duration | Effort | Prerequisites
- :--: | :-- | :--: | :--: | :--:
-:black_square_button: | [Bioinformatics _(optional)_](https://www.coursera.org/specializations/bioinformatics) | 4-6 months | 4-8 hours/weeks | We require only a basic knowledge of high school-level biology and the ability to think technically.
-:black_square_button: | [Algorithmic Design and Techniques (Algorithmic Toolbox)](https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x) | 6 weeks | 8-10 hours/week | above
-:black_square_button: | [Data Structure](https://www.edx.org/course/data-structures-uc-san-diegox-algs201x) | 6 weeks | 8-10 hours/week | above
-:black_square_button: | [Graph Algorithms](https://www.edx.org/course/graph-algorithms-uc-san-diegox-algs202x) | 6 weeks | 8-10 hours/week | above
-:black_square_button: | [NP Complete Problem](https://www.edx.org/course/np-complete-problems-uc-san-diegox-algs203x) _(coming soon)_| 3 weeks | 8-10 hours/week | above
-:black_square_button: | [String processing and Pattern Matching Algorithms](https://www.edx.org/course/string-processing-pattern-matching-uc-san-diegox-algs204x) | 4 weeks | 8-10 hours/week | above
-:black_square_button: | [Dynamic Programming: Applications In Machine Learning and Genomics](https://www.edx.org/course/dynamic-programming-applications-machine-uc-san-diegox-algs205x) | 4 weeks | 8-10 hours/week | above
-:black_square_button: | [Graph Algorithms in Genome Sequencing](https://www.edx.org/course/graph-algorithms-genome-sequencing-uc-san-diegox-algs206x) | 3 weeks | 8-10 hours/week | above
-:black_square_button: | [Algorithms and Data Structures Capstone](https://www.edx.org/course/algorithms-data-structures-capstone-uc-san-diegox-algs207x) | 4 weeks | 8-10 hours/weeks | any programming language, Mathematics for Computer Science, Bioinformatics
-
 
 
 ### Core applications
