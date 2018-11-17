@@ -1,9 +1,5 @@
-# Research Note and Bookmark
+# Data Science
 Index:
   - [Business Intelligence][1]
 
-
-
-## Business Intelligence
-
-[1]:	#business-intelligence
+[1]:	./business-intelligence
