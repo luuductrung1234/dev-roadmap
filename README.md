@@ -33,7 +33,8 @@ Welcome to developer roadmap, this repository contains learning **paths/roadmaps
 
 ## Instruction
 > - Let visit [**Wiki**][14] to see instruction details
-> - Let visit [**My Board**][15] to see the collected resources
+> - Let visit [**My Boards**][15] to see the collected resources
+> - Let visit [**My Notebooks**][16] to see the hand note of some topics that I learnt
 > - You can choose a specific major that you concern to start learning and using these resources 
 
 ## Contribute
@@ -62,3 +63,4 @@ Welcome to developer roadmap, this repository contains learning **paths/roadmaps
 [13]:	/iOS-Developer-Roadmap
 [14]:	https://github.com/luuductrung1234/dev-roadmap/wiki
 [15]:	https://github.com/luuductrung1234/dev-roadmap/projects
+[16]:	./documents
