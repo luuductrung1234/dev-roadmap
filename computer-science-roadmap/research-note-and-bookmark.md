@@ -12,11 +12,17 @@ Index:
 
 ## Software Engineering - Greenwich University
 ### Software Development Life Cycle
- - [Software Development Life Cycle bookmark](https://keep.google.com/u/0/#label/Software%20Development%20Life%20Cycle)
+ - **Note**
+ - **Article**
+ - **Bookmark**
+    - [Software Development Life Cycle Bookmark](https://keep.google.com/u/0/#label/Software%20Development%20Life%20Cycle)
 
 ### Advanced Programming
- - [Design Pattern bookmark](https://keep.google.com/u/0/#label/Design%20Pattern)
- - [Software Requirement Engineering series - (Medium/omarelgabrys-blog)](https://medium.com/omarelgabrys-blog/requirements-engineering-introduction-part-1-6d49001526d3)
+ - **Note**
+ - **Bookmark**
+ - **Article**
+    - [Design Pattern bookmark](https://keep.google.com/u/0/#label/Design%20Pattern)
+    - [Software Requirement Engineering series - (Medium/omarelgabrys-blog)](https://medium.com/omarelgabrys-blog/requirements-engineering-introduction-part-1-6d49001526d3)
 
 
 ### Business Intelligence
