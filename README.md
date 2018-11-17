@@ -11,19 +11,19 @@ Welcome to developer roadmap, this repository contains learning **paths/roadmaps
 
 ## :fire: Index
  
-### * [Computer Science][1]
-### * [Data Science][2]
-### * [Machine Learning][3]
-### * [Web Development][4]
+### - [Computer Science][1]
+### - [Data Science][2]
+### - [Machine Learning][3]
+### - [Web Development][4]
 	- [Introduction][5]
 	- [Front-End][6]
 	- [Back-End][7]
 	- [Full-stack][8]
 	- [DevOps][9]
-### * [Design][10]
-### * [Mobile Development][11]
-### * [Game Development][12]
-### * [IOS Development][13]           `not ready`
+### - [Design][10]
+### - [Mobile Development][11]
+### - [Game Development][12]
+### - [IOS Development][13]           `not ready`
 
 
 ## About
