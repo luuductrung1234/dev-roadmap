@@ -662,7 +662,7 @@ You can change the status of your board to be *public* or *private*.
 [14]:	#how-to-show-your-progress
 [15]:	#team
 [16]:	#references
-[17]:	/documents/research-note-and-bookmark.md
+[17]:	./documents/research-note-and-bookmark.md
 [18]:	REQUIREMENTS.md
 [19]:	extras/courses.md
 [20]:	extras/readings.md
