@@ -20,8 +20,8 @@ Index:
 ### Advanced Programming
  - **Note**
  - **Bookmark**
- - **Article**
 	- [Design Pattern bookmark][7]
+ - **Article**
 	- [Software Requirement Engineering series - (Medium/omarelgabrys-blog)][8]
 
 
