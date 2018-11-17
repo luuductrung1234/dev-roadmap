@@ -35,6 +35,8 @@
   - [How to show your progress](#how-to-show-your-progress)
   - [Team](#team)
 - [References](#references)
+- [Research Note and Bookmark](research-note-and-bookmark.md)
+
 
 # Summary
 
@@ -77,6 +79,12 @@ however some courses may charge money for assignments/tests/projects to be grade
 Note that Coursera offers [financial aid](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid).
 Decide how much or how little to spend based on your own time and budget;
 just remember that you can't purchase success!
+
+**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
+- For grouping up, please use the [cohorts repository](https://github.com/ossu/cohorts) to find or create a cohort suited to you.
+- We recommend doing all courses in Core CS, only skipping a course when you are certain that you've already learned the material previously.
+- For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom, as they have already been [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) by their prerequisites.
+- Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in, and take all the courses under that heading. You can also create your own custom subject, but we recommend getting validation from the community on the subject you choose.
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Do NOT disrespect the code of conduct* that you signed in the beginning of each course!
@@ -126,6 +134,9 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 ---
 
+<br/>
+<br/>
+
 ## Prerequisites
 
 - [Core CS](#core-cs) assumes the student has already taken high school math and physics, including algebra, geometry, and pre-calculus.
@@ -159,6 +170,11 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button:  | [Fundamentals of Computing specialization](https://www.coursera.org/specializations/computer-fundamentals) |  6-9 months | 15 hours/weeks | Knowledge of high school mathematics is required. No previous programming knowledge is required.
 :black_square_button:  | [Introduction to Scripting in Python specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) _(optional)_ | 4 months | 15 hours/weeks | No prior programming experience is necessary.
 
+
+<br/>
+<br/>
+
+
 ## Core CS
 
 All coursework under Core CS is **required**, unless otherwise indicated.
@@ -190,9 +206,8 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8-16 hours/week | Programming Languages, Part B
 
 #### Readings
-- **Extra read** an open source repo, contain about design pattern topic, that can easily mind wobble [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans#creational-design-patterns)
-- **Note**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
-  - **OBS**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
+- **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
+  - **Note**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
 - **Required**, to learn about logic programming, backtracking, unification: [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 
 ### Core math
@@ -223,7 +238,7 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry) _(optional)_ | - | - | - 
 :black_square_button: | [Pre-Calculus](https://www.edx.org/course/precalculus-asux-mat170x) ([alt](https://www.edx.org/course/pre-university-calculus-delftx-calc001x-2)) _(optional)_ | 6 weeks | 6-8 hours/weeks | College Algebra and Problem Solving
 :black_square_button: | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
-:black_square_button: | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
+:black_square_button: | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
 :black_square_button: | [Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> ([alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
 :black_square_button: | [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | Calculus One
 :black_square_button: | [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x-0) | 13 weeks | 6-10 hours/week | pre-calculus
@@ -234,7 +249,6 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | 13 weeks | 5-10 hours/week | Calculus 1B
 :black_square_button: | [Calculus Applied](https://www.edx.org/course/calculus-applied-harvardx-calcapl1x) _(optional)_ | 7-9 weeks | 3-6 hours/week | Single-variable Calculus (derivatives, integrals and basics of differential equations); College or AP/IB High School Level
 :black_square_button: | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week | single variable calculus (Calculus Two)
-:black_square_button: | [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab?siteID=SAyYsTvLiGQ-..1bdIcvepAf7mfRUjm8rA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | 9 weeks | 8 hours/week | none pre-requisite
 
 
 <sup>**1**</sup>: Students struggling with MIT Math for CS can consider taking the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first.
@@ -264,7 +278,6 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Carnegie Mellon Computer Architecture](https://www.youtube.com/channel/UCnoYy1k6I5gLIxhlNiStrdQ) _(optional)_ | - | - | -
 :black_square_button: | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| 8 weeks | 4–12 hours/week | algebra, probability, basic CS
 :black_square_button: | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | 15 weeks | 6 hours/week | algorithms
-:black_square_button: | [Cisco Networking Basics Specialization](https://www.coursera.org/specializations/networking-basics) | 4 weeks long | 4-12 hours/week | none pre-requistie
 
 #### Readings
 - **Recommended**: While Hack the Kernel recommends Modern Operating Systems as a textbook, we suggest using [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/).
@@ -302,27 +315,6 @@ Process | Courses | Duration | Effort | Prerequisites
 
 **MicroMaster Algorithms and Data Structures** (offer by [Edx.org at link](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures))
 
-```
-The board below is the optional step, which relevant Bioinformatics (interdisciplinary Program)
-The Average length: 3-7 weeks per course
-Effort: 8-10 hours/week per course
-Subjects: Computer Science, Biology & Life Sciences, Math
-Path: go top-down
-```
-_[see the MIT Interdisciplinary Program: Computer Science and Molecular Biology](http://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/computer-science-molecular-biology/)_
-
-Process | Courses | Duration | Effort | Prerequisites
- :--: | :-- | :--: | :--: | :--:
-:black_square_button: | [Bioinformatics _(optional)_](https://www.coursera.org/specializations/bioinformatics) | 4-6 months | 4-8 hours/weeks | We require only a basic knowledge of high school-level biology and the ability to think technically.
-:black_square_button: | [Algorithmic Design and Techniques (Algorithmic Toolbox)](https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x) | 6 weeks | 8-10 hours/week | above
-:black_square_button: | [Data Structure](https://www.edx.org/course/data-structures-uc-san-diegox-algs201x) | 6 weeks | 8-10 hours/week | above
-:black_square_button: | [Graph Algorithms](https://www.edx.org/course/graph-algorithms-uc-san-diegox-algs202x) | 6 weeks | 8-10 hours/week | above
-:black_square_button: | [NP Complete Problem](https://www.edx.org/course/np-complete-problems-uc-san-diegox-algs203x) _(coming soon)_| 3 weeks | 8-10 hours/week | above
-:black_square_button: | [String processing and Pattern Matching Algorithms](https://www.edx.org/course/string-processing-pattern-matching-uc-san-diegox-algs204x) | 4 weeks | 8-10 hours/week | above
-:black_square_button: | [Dynamic Programming: Applications In Machine Learning and Genomics](https://www.edx.org/course/dynamic-programming-applications-machine-uc-san-diegox-algs205x) | 4 weeks | 8-10 hours/week | above
-:black_square_button: | [Graph Algorithms in Genome Sequencing](https://www.edx.org/course/graph-algorithms-genome-sequencing-uc-san-diegox-algs206x) | 3 weeks | 8-10 hours/week | above
-:black_square_button: | [Algorithms and Data Structures Capstone](https://www.edx.org/course/algorithms-data-structures-capstone-uc-san-diegox-algs207x) | 4 weeks | 8-10 hours/weeks | any programming language, Mathematics for Computer Science, Bioinformatics
-
 
 
 ### Core applications
@@ -354,6 +346,17 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Java Programming and Software Engineering Fundamentals specialization](https://www.coursera.org/specializations/java-programming) | 6-7 months | 8-12 hours/week | above
 :black_square_button: | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design
 :black_square_button: | [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
+
+#### Readings
+- **Extra read** an open source repo, contain about design pattern topic, that can easily mind wobble [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans#creational-design-patterns)
+
+**MicroMaster Software Development** (offer by [Edx.org at link](https://www.edx.org/micromasters/software-development))
+
+
+<br/>
+<br/>
+
+
 
 ## Advanced CS
 
@@ -427,9 +430,8 @@ Process | Courses | Duration | Effort | Prerequisites
 
 Process | Courses | Duration | Effort | Prerequisites
  :--: | :-- | :--: | :--: | :--:
-:black_square_button: | [Mechanics: Kinematics and Dynamics](https://www.edx.org/course/mechanics-kinematics-dynamics-mitx-8-01-1x-0) | 5 weeks  | 10-12 hours/week | -
-:black_square_button: | [Mechanics: Momentum and Energy](https://www.edx.org/course/mechanics-momentum-energy-mitx-8-01-2x-0) | 6 weeks | 10-12 hours/week | above
-:black_square_button: | [Mechanics: Rotational Dynamics](https://www.edx.org/course/mechanics-rotational-dynamics-mitx-8-01-3x-0) | 6 weeks | 10-12 hours/week | above
+:black_square_button: | [Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) | 5 weeks | 5 hours/week | Scala, intermediate CS
+:black_square_button: | [Reliable Distributed Systems, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x) | 5 weeks | 5 hours/week | Part 1
 :black_square_button: | [Physics II: Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)<sup>1</sup> | 7 weeks | 8-10 hours/week | calculus, basic mechanics
 :black_square_button: | [Physics II: Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | 7 weeks | 8-10 hours/week | Electricity and Magnetism, Part 1
 :black_square_button: | [Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | 10 weeks | 6 hours/week | electricity, magnetism
@@ -465,8 +467,6 @@ Process | Courses | Duration | Effort | Prerequisites
  :--: | :-- | :--: | :--: | :--:
 :black_square_button: | [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | set theory
 :black_square_button: | [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) | 8 weeks | 10 hours/week | discrete mathematics, logic, algorithms
-:black_square_button: | [Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) | 5 weeks | 5 hours/week | Scala, intermediate CS
-:black_square_button: | [Reliable Distributed Systems, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x) | 5 weeks | 5 hours/week | Part 1
 :black_square_button: | [Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++
 :black_square_button: | [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | 6 weeks | 4-6 hours/week | logic, probability
 :black_square_button: | [Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | x hours/week | mathematical thinking, probability, calculus
@@ -488,6 +488,12 @@ Process | Courses | Duration | Effort | Prerequisites
 :black_square_button: | [Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
 :black_square_button: | [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
 :black_square_button: | [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/weeks | One year programming experience
+
+
+
+<br/>
+<br/>
+
 
 ## Final project
 
@@ -538,6 +544,12 @@ You can use **any** language that you want to complete the final project.
 
 The important thing is to **internalize** the core concepts and to be able to use them with whatever tool (programming language) that you wish.
 
+
+
+<br/>
+<br/>
+
+
 ## Pro CS
 
 After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Computer Science, or quite close to one.
@@ -570,6 +582,12 @@ These aren't the only specializations you can choose. Check the following websit
   + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
+
+
+
+<br/>
+<br/>
+
 
 # Code of conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
@@ -623,5 +641,7 @@ You can change the status of your board to be *public* or *private*.
 - [Stanford University](https://lagunita.stanford.edu/)
 - [Carnegie Mellon University: Computer Science Major Requirements](https://www.csd.cs.cmu.edu/academics/undergraduate/requirements)
 - [MIT Open Courseware](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science) - [MIT Department: Bachelor of Computer Science and Engineering](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
+
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
