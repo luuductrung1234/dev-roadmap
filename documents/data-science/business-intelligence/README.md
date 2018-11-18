@@ -13,13 +13,11 @@
 		- [link 2][7]
 		- [link 3][8]
 
-- [ [Diagram]: Business Analytics, Data Analytics and Data Science][9]
-	- [video][10]
-	- [side note][11]
-
-- [[Diagram]: add Business Intelligence, Machine Learning and AI to previous diagram][12] 
-	- [video][13]
-	- [infographic][14]
+- [[Diagram]: Where is Business Intelligence? ][9]
+	- videos:
+		- [video 1][10]
+		- [video 2][11]
+	- [infographic][12]
 
 ## Bookmark
 
@@ -34,9 +32,7 @@
 [6]:	http://www.differencebetween.net/science/difference-between-qualitative-analysis-and-quantitative-analysis/
 [7]:	https://www.quora.com/What-is-the-difference-between-Analytics-and-analysis-data-analytics
 [8]:	https://www.quora.com/What-is-the-difference-between-Business-Intelligence-BI-and-Analytics
-[9]:	./access/pdf/365-DataScience-Diagram.pdf
+[9]:	./access/pdf/365-DataScience-Diagram-complete.pdf
 [10]:	https://www.udemy.com/the-business-intelligence-analyst-course-2018/learn/v4/t/lecture/10117240?start=310
-[11]:	./[Term]%20Business%20Analytics,%20Data%20Analyticsm%20and%20Data%20Science.md
-[12]:	./access/pdf/365-DataScience-Diagram-complete.pdf
-[13]:	https://www.udemy.com/the-business-intelligence-analyst-course-2018/learn/v4/t/lecture/10117246?start=0
-[14]:	./access/images/365-DataScience.png
+[11]:	https://www.udemy.com/the-business-intelligence-analyst-course-2018/learn/v4/t/lecture/10117246?start=0
+[12]:	./access/images/365-DataScience.png
