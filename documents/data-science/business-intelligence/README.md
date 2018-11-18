@@ -1,7 +1,7 @@
 # Business Intelligence
 ## Note
 - [Term: Analysis, Analytics, Qualitative Analytics, Quantitative Analytics][1]
-- [Diagram: Business Analytics, Data Analytics and Data Science][2]
+- [Diagram: Business Analytics, Data Analytics and Data Science][2] - side note
 
 ## Bookmark
 
