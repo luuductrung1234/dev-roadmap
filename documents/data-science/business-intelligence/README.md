@@ -9,7 +9,8 @@
 		- [link 3](http://www.q3edge.com/types-business-process/)
 
 - [[Term]: Analysis, Analytics, Qualitative Analytics, Quantitative Analytics](./[Term]%20Analysis,%20Analytics,%20Qualitative%20Analytics,%20Quantitative%20Analytics.md)
-	- [video](https://www.udemy.com/the-business-intelligence-analyst-course-2018/learn/v4/t/lecture/10117236?start=0)
+	- videos:
+		- [video 1](https://www.udemy.com/the-business-intelligence-analyst-course-2018/learn/v4/t/lecture/10117236?start=0)
 	- references:
 		- [link 1](http://www.differencebetween.net/science/difference-between-qualitative-analysis-and-quantitative-analysis/)
 		- [link 2](https://www.quora.com/What-is-the-difference-between-Analytics-and-analysis-data-analytics)
