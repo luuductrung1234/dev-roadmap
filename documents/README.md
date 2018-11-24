@@ -5,8 +5,7 @@ contains hand notes, articles, bookmarks for learnt topics
 ---
 
 Index
-- [Computer Science Note and Bookmarks][1]
-- [Data Science Note and Bookmarks][2]
+- [Mathematics Note and Bookmarks](./mathematics)
+- [Computer Science Note and Bookmarks](./computer-science)
+- [Data Science Note and Bookmarks](./data-science)
 
-[1]:	./computer-science
-[2]:	./data-science
