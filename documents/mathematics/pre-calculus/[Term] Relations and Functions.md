@@ -1,11 +1,11 @@
 ## <span style="color:red;">Sets of Real Numbers and the Cartesian Coordinate Plane</span>
 ---
 ### <span style="color:orange;">Set of Numbers</span>
-Definition of **Set** ![set definition](./access/images/figure_1.png)
+Definition of **Set** and describe Set![set definition](./access/images/figure_1.png)
 
 There is some Sets of Number ![sets of numbers](./access/images/figure_2.png)
  
-If we visualize R as a line. Segments of this line are called **intervals** of numbers. **Interval notation* associated with given sets of number ![interval notations](./access/images/figure_3.png)
+If we visualize R as a line. Segments of this line are called **intervals** of numbers. **Interval notation** associated with given sets of number ![interval notations](./access/images/figure_3.png)
 
 We will often have to combine sets. There are two basic way to combine set: **intersection** and **union** ![combine set definition](./access/images/figure_4.png)
 
@@ -28,13 +28,42 @@ symmetry in Mathematics, but three of them can be discussed easily using Cartesi
 
 
 ### <span style="color:orange;">Distance in the Plane</span>
+Another important concept in Geometry is the notion of length. If we are going to unite Algebra and Geometry using the Cartesian Plane, then we need to develop an algebraic understanding of what distance in the plane means.
+![distance formula](./access/images/figure_9.png)
+
+Related to fuinding the distance between two points is the problem of finding the **midpoint** of the line segment connecting two points.
+![midpoint formula](./access/images/figure_10.png)
 
 
 
 
 ## <span style="color:red;">Relations</span>
 ---
+A **Relation** is a set of points in the plane.
+Consider the relation R = {(-2,1),(4,3),(0,-3)}. R is described using the roster method. Since R consists of points in the plane, we follow our instinct and plot the points. Doing so products the **graph** of R
+![graph of R](./access/images/figure_11.png)
+
+In the following example, we graph a variety of relations:
+![relation examples](./access/images/figure_12.png)
+Here are solutions:
+![example graph](./access/images/figure_13.png)
+![example graph](./access/images/figure_14.png)
+![example graph](./access/images/figure_15.png)
+![example graph](./access/images/figure_16.png)
+
+The relations V and H in the previous example lead us to our final way to describe relations: **algebraically**
+![equation of lines](./access/images/figure_17.png)
+
+
 ### <span style="color:orange;">Graphs of Equations</span>
+![graphing principle](./access/images/figure_18.png)
+Hear, 'x and y satisfy the equation' means 'x and y make the equation true'
+
+Example:
+![graping example](./access/images/figure_19.png)
+![graping example](./access/images/figure_20.png)
+
+Of all of the points on the graph of an equation, the places where the graph croesses or touches the axes hold special significance. These are called the **intercepts** of the graph.
 
 
 
