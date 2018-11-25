@@ -1,5 +1,4 @@
 ## <span style="color:red;">Sets of Real Numbers and the Cartesian Coordinate Plane</span>
----
 ### <span style="color:orange;">Set of Numbers</span>
 Definition of **Set** and describe Set![set definition](./access/images/figure_1.png)
 
@@ -66,29 +65,32 @@ Example:
 Of all of the points on the graph of an equation, the places where the graph croesses or touches the axes hold special significance. These are called the **intercepts** of the graph.
 
 
+---
 
 ## <span style="color:red;">Introductions to Functions</span>
+
+
 ---
-
-
 
 ## <span style="color:red;">Function Notation</span>
+
+
+
 ---
-
-
 
 ## <span style="color:red;">Function Arithmetic</span>
+
+
+
 ---
-
-
 
 ## <span style="color:red;">Graph of Functions</span>
+
+
+
 ---
-
-
 
 ## <span style="color:red;">Transformations</span>
----
 
 
 
