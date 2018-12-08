@@ -233,6 +233,7 @@ Process | Courses | Duration | Effort | Prerequisites
 
 Process | Courses | Duration | Effort | Prerequisites
  :--: | :-- | :--: | :--: | :--:
+:black\_square\_button: | [Discovery Precalculus: A Creative and Connected Approach](https://www.edx.org/course/discovery-precalculus-creative-connected-utaustinx-ut-prec-10-03x) _(optional)_ | - | - | -
 :black\_square\_button: | [Pre-Calculus: Function][66] _(optional)_ | - | - | -
 :black\_square\_button: | [Pre-Calculus: Trigonometry][67] _(optional)_ | - | - | - 
 :black\_square\_button: | [Pre-Calculus][68] ([alt][69]) _(optional)_ | 6 weeks | 6-8 hours/weeks | College Algebra and Problem Solving
