@@ -9,7 +9,7 @@ If we visualize R as a line. Segments of this line are called **intervals** of n
 We will often have to combine sets. There are two basic way to combine set: **intersection** and **union** ![combine set definition](./access/images/figure_4.png)
 
 
-### <span style="color:orange;">The cartesian Coordinate Plane</span>
+### <span style="color:orange;">The Cartesian Coordinate Plane</span>
 In order to visualize the pure excitement that is Precalculus, we need to unite Algebra and Geometry. Simply put, we must find a way to draw algebraic things
 Let's start with possibly the greatest mathematical achievement of all time: the **Cartesian Coordinate Plane**
 ![cartesian coordinate plane](./access/images/figure_5.png)
@@ -58,40 +58,35 @@ The relations V and H in the previous example lead us to our final way to descri
 ![graphing principle](./access/images/figure_18.png)
 Hear, 'x and y satisfy the equation' means 'x and y make the equation true'
 
+
 Example:
 ![graping example](./access/images/figure_19.png)
 ![graping example](./access/images/figure_20.png)
 
-Of all of the points on the graph of an equation, the places where the graph croesses or touches the axes hold special significance. These are called the **intercepts** of the graph.
-
-
----
-
-## <span style="color:red;">Introductions to Functions</span>
-
-
----
-
-## <span style="color:red;">Function Notation</span>
+Of all of the points on the graph of an equation, the places where the graph croesses or touches the axes hold special significance. These are called the **intercepts** of the graph. Intercepts come in two distinct varieties: _x-intercepts_ and _y-intercepts_
+![intercept definition](./access/images/figure_21.png)
 
 
 
----
+## Note
 
-## <span style="color:red;">Function Arithmetic</span>
+```
+Trước khi hệ trục toạ độ ra đời thì các giá trị chỉ nằm trên một đường thẳng: 
+vô cực âm -> 0 -> vô cực dương
 
+Sự ra đời của mặt phẳng hệ trục toạ độ(Cartesian Coordinate Plane) cho ra các hệ giá trị mới, các gía trị
+đó có thể được biểu diễn trên mặt phẳng hệ trục toạ độ. Đây là không gian hai chiều đo đó các giá trị trên
+mặt phẳng được gọi là các điểm(Point), bao gồm x và y tương ứng với mỗi chiều trên mặt phẳng hệ trục toạ độ.
 
+Tập hợp(Set) các điểm sẽ được gọi là Relation. Khi vẽ các điểm đó lên hệ trục toạ độ sẽ sinh ra Graph
 
----
+Các đẳng thức(Equations) với hai biến số (x và y). ví dụ: ax + by = c
+Khi kết hợp với mặt phẳng hệ trục toạ độ sẽ cho ra các cặp x và y thoã mãn đẳng thức. Các cặp x và y này 
+vô tình lại chính là các điểm có thể biểu diễn được trên mặt phẳng hệ trục toạ độ. các biểu diễn đó sẽ được
+gọi là Graph of Equations.
 
-## <span style="color:red;">Graph of Functions</span>
-
-
-
----
-
-## <span style="color:red;">Transformations</span>
-
-
-
-
+Trong các trường hợp đặt biệt, Graph of Equations vô tình cắt trúng các trục toạ độ (trục x và trục y). Các
+trường hợp đặc biệt đó sẽ cho ra x và y với một trong hai mang giá trị 0.
+Nếu Graph cắt trục x, sẽ cho ra điểm với x = 0 và y mang giá trị bất kì. Điểm đó được gọi là x-intercept
+Nếu Graph cắt trục y, sẽ cho ra điểm với y = 0 và x mang giá trị bất kì. Điểm đó được gọi là y-intercept
+```
